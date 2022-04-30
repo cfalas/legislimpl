@@ -1,0 +1,793 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3807 Engrossed in House (EH)]
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+117th CONGRESS
+  2d Session
+                                H. R. 3807
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+       To amend the American Rescue Plan Act of 2021 to increase 
+  appropriations to the Restaurant Revitalization Fund, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Relief for Restaurants and other 
+Hard Hit Small Businesses Act of 2022''.
+
+SEC. 2. RESTAURANT REVITALIZATION GRANTS.
+
+    (a) Appropriation.--Section 5003(b)(2) of the American Rescue Plan 
+Act of 2021 (15 U.S.C. 9009c(b)(2)) is amended--
+            (1) in subparagraph (A)--
+                    (A) by striking ``$28,600,000,000'' and inserting 
+                ``$70,600,000,000''; and
+                    (B) by inserting ``, of which not more than 
+                $420,000,000 shall be for administrative expenses to 
+                carry out this section, and of which $7,500,000 shall 
+                be for the Inspector General of the Small Business 
+                Administration, $7,500,000 for the Department of 
+                Justice for investigative and prosecutorial activities 
+                related to fraud and abuse, and $7,500,000 for Pandemic 
+                Response Accountability Committee, for audits of grants 
+                under this section to investigate fraud and to identify 
+                improper payments and ineligible recipients, and for 
+                other necessary expenses'' before the period at the 
+                end; and
+            (2) in subparagraph (B)(i)(II), by striking 
+        ``$23,600,000,000'' and inserting ``any remaining amounts not 
+        used for a purpose authorized under subparagraph (A) or clause 
+        (i) of this subparagraph''.
+    (b) Insufficient Funding.--Section 5003 of the American Rescue Plan 
+Act of 2021 (15 U.S.C. 9009c) is amended by adding at the end the 
+following:
+    ``(d) Insufficient Funding.--
+            ``(1) In general.--If the Administrator determines that the 
+        amounts made available to carry out this section are 
+        insufficient to make grants in the amount provided in 
+        subsection (c)(4) to each eligible entity that has submitted an 
+        application in accordance with the program guidelines in effect 
+        on the day before the date of enactment of this subsection, but 
+        has not received an award as of such date, the Administrator 
+        shall make grants with the available amounts to each such 
+        eligible applicant--
+                    ``(A) such that the amount of the grant that each 
+                such eligible entity would have otherwise received 
+                under this section is reduced by an equal percentage;
+                    ``(B) by establishing a maximum amount for a grant 
+                made under this subsection to ensure that smaller 
+                eligible entities still receive grants in the amounts 
+                provided under subsection (c)(4); or
+                    ``(C) by providing full awards in the amounts 
+                provided under subsection (c)(4) below a certain 
+                threshold (as the Administrator may establish) and 
+                reducing grants above that threshold by an equal 
+                percentage.
+            ``(2) Reserving funds.--Nothing in paragraph (1) shall 
+        prevent the Administrator from--
+                    ``(A) reserving funding for applicants that may be 
+                determined to be eligible for a grant under this 
+                section upon reconsideration; or
+                    ``(B) making partial awards to eligible entities on 
+                a preliminary basis until the amount of funding 
+                required to fund grants to all eligible applicants is 
+                established, upon the completion of the reconsideration 
+                process.''.
+    (c) Reports; Reconsideration; Verification of Business Type.--
+Section 5003 of the American Rescue Plan Act of 2021 (15 U.S.C. 9009c), 
+as amended by subsection (b), is further amended by adding at the end 
+the following:
+    ``(e) Reports.--The Administrator shall--
+            ``(1) on a biweekly basis until the amounts made available 
+        to carry out this section are fully expended, publish data that 
+        shows, for the period beginning on the date on which the 
+        Administrator began making grants under this section and ending 
+        on the date on which the information is published--
+                    ``(A) with respect to applications for grants under 
+                this section, the number of those applications--
+                            ``(i) that the Administrator has received;
+                            ``(ii) that the Administrator has reviewed 
+                        or is in the process of reviewing; and
+                            ``(iii) with respect to which the 
+                        Administrator has made a decision; and
+                    ``(B) the number and dollar amount of grants under 
+                this section--
+                            ``(i) that have been awarded; and
+                            ``(ii) that have been disbursed;
+            ``(2) on a weekly basis until the amounts made available to 
+        carry out this section are fully expended, publish, with 
+        respect to the period beginning on the date of enactment of 
+        this subsection and ending on the date on which the information 
+        is published--
+                    ``(A) with respect to each eligible entity to which 
+                a grant is made under this section--
+                            ``(i) the name of the eligible entity, 
+                        including the name or names under which the 
+                        eligible entity does business if that name is 
+                        different from the name of the eligible entity; 
+                        and
+                            ``(ii) the address of--
+                                    ``(I) the eligible entity; and
+                                    ``(II) the physical location or 
+                                locations for the eligible entity 
+                                listed on the application, if different 
+                                from the address of the eligible 
+                                entity;
+                    ``(B) the amount of each grant described in 
+                subparagraph (A); and
+                    ``(C) the business category listed in subsection 
+                (a)(4)(A) to which the eligible entity belongs.
+    ``(f) Reconsideration.--
+            ``(1) Explanation for denial.--With respect to an applicant 
+        that applies for a grant under this section and is denied by 
+        the Administrator, the Administrator shall make available to 
+        the applicant a brief explanation identifying the reason why 
+        the Administrator denied the application of the applicant, 
+        which shall include, where applicable, a citation to the 
+        statutory, regulatory, or guidance provision with which the 
+        applicant failed to comply and that was the basis for the 
+        denial.
+            ``(2) Process.--The Administrator shall establish a 
+        reconsideration process through which the applicant may--
+                    ``(A) submit to the Administrator additional 
+                information the applicant determines to be relevant to 
+                whether the applicant is eligible for the grant; and
+                    ``(B) receive a review of the application and such 
+                additional information submitted under subparagraph 
+                (A).
+    ``(g) Verification of Business Type.--If the Administrator verifies 
+that an applicant for a loan under section 7(a)(36) of the Small 
+Business Act is not an eligible business type for a grant under this 
+section using credible information other than information obtained from 
+the application of the applicant for such loan during 2020, the 
+Administrator may reject the application solely on those grounds.''.
+    (d) Requirement of Continuing Operation.--For any application for a 
+grant under section 5003 of the American Rescue Plan Act of 2021 (15 
+U.S.C. 9009c) that is pending on the date of enactment of this Act or 
+for which the applicant has received an award notice but the 
+Administrator has not disbursed amounts under the grant, the 
+Administrator may not disburse amounts under the grant unless the 
+applicant submits a statement to the Administrator indicating the 
+applicant is still operating, or intends to reopen within 6 months 
+after the date of the statement is submitted, the place of business for 
+which such applicant is seeking such grant.
+    (e) Oversight and Audits.--Section 5003 of the American Rescue Plan 
+Act of 2021 (15 U.S.C. 9009c), as amended by subsection (c), is further 
+amended by adding at the end the following:
+    ``(h) Oversight and Audits.--
+            ``(1) In general.--The Administrator shall institute an 
+        oversight and audit plan with respect to eligible entities 
+        receiving grants under this section, which shall include--
+                    ``(A) documentation requirements that are 
+                consistent with the eligibility and other requirements 
+                under this section, including by requiring an eligible 
+                entity that receives a grant under this section to 
+                retain records that demonstrate compliance with those 
+                requirements; and
+                    ``(B) reviews of the use of grants made under this 
+                section by eligible entities.
+            ``(2) Submission of plan.--Not later than 30 days after the 
+        date of enactment of this subsection, the Administrator shall 
+        submit to the Committee on Small Business and Entrepreneurship 
+        of the Senate and the Committee on Small Business of the House 
+        of Representatives the plan required under paragraph (1), which 
+        shall describe--
+                    ``(A) the policies and procedures of the 
+                Administrator for conducting oversight and audits of 
+                grants made under this section; and
+                    ``(B) the metrics that the Administrator will use 
+                to determine which grants made under this section will 
+                be audited under that plan.
+            ``(3) Reports.--Not later than 60 days after the date of 
+        enactment of this subsection, and once every 30 days thereafter 
+        until the date that is 180 days after the date on which all 
+        amounts made available to carry out this section have been 
+        fully expended, and upon request thereafter, the Administrator 
+        shall submit to the Committee on Small Business and 
+        Entrepreneurship of the Senate and the Committee on Small 
+        Business of the House of Representatives a report on the 
+        oversight and audit activities of the Administrator under this 
+        subsection, which shall include--
+                    ``(A) the total number of grants approved and 
+                disbursed under this section;
+                    ``(B) the total amount of each grant received by 
+                each eligible entity;
+                    ``(C) the number of active investigations and 
+                audits of grants made under this section;
+                    ``(D) the number of completed reviews and audits of 
+                grants made under this section, including a description 
+                of--
+                            ``(i) any findings of fraud or other 
+                        material noncompliance with the requirements of 
+                        this section; and
+                            ``(ii) the total amount recouped from 
+                        ineligible recipients; and
+                    ``(E) a description of any substantial changes made 
+                to the plan required under paragraph (1).
+            ``(4) Retroactive application.--This subsection shall apply 
+        to grants and decisions made under this section before, on, or 
+        after the date of enactment of this subsection.''.
+
+SEC. 3. HARD HIT INDUSTRIES AWARD PROGRAM.
+
+    (a) Definitions.--In this section:
+            (1) Administrator.--The term ``Administrator'' means the 
+        Administrator of the Small Business Administration.
+            (2) Affiliated business.--The term ``affiliated business'' 
+        means a business in which an eligible entity--
+                    (A) has an equity or right to receive not less than 
+                50 percent of the profit distributions of such 
+                business; or
+                    (B) has, on or before March 13, 2020, contractual 
+                authority to control the business.
+            (3) Award.--The term ``award'' means a financial assistance 
+        payment that an eligible applicant receives directly from the 
+        Small Business Administration.
+            (4) Covered period.--The term ``covered period'' means the 
+        period beginning on February 15, 2020, and ending on the later 
+        of--
+                    (A) March 31, 2023; or
+                    (B) a date to be determined by the Administrator 
+                that is not later than 2 years after the date of 
+                enactment of this section.
+            (5) Eligible entity.--The term ``eligible entity''--
+                    (A) means a small business concern that--
+                            (i) employs not more than 200 employees; 
+                        and
+                            (ii) suffered a pandemic-related revenue 
+                        loss of 40 percent or greater; and
+                    (B) does not include a small business concern 
+                that--
+                            (i) is a State or local government-operated 
+                        business;
+                            (ii) has received a grant under--
+                                    (I) section 324 of the Economic Aid 
+                                to Hard Hit Small Businesses, 
+                                Nonprofits, and Venues Act (15 U.S.C. 
+                                9009a); or
+                                    (II) section 5003 of the American 
+                                Rescue Plan Act of 2021 (Public Law 
+                                117-2);
+                            (iii) is a publicly-traded company;
+                            (iv) is an entity that is owned or operated 
+                        by a private equity fund; or
+                            (v) has a wage violation at the time of 
+                        application.
+            (6) Eligible self-employed individual.--The term ``eligible 
+        self-employed individual'' has the meaning given in section 
+        7002(b) of the Families First Coronavirus Response Act (26 
+        U.S.C. 1401 note).
+            (7) Exchange; issuer; security.--The terms ``exchange'', 
+        ``issuer'', and ``security'' have the meanings given those 
+        terms, respectively, in section 3(a) of the Securities Exchange 
+        Act of 1934 (15 U.S.C. 78c(a)).
+            (8) Pandemic-related revenue loss.--
+                    (A) In general.--The term ``pandemic-related 
+                revenue loss'' means, subject to subparagraph (B) and 
+                with respect to an eligible entity--
+                            (i) except as provided in clauses (ii) and 
+                        (iii), the average annual gross receipts during 
+                        2020 and 2021, as established using such 
+                        verification documentation as the Administrator 
+                        may require, of the eligible entity subtracted 
+                        from the gross receipts of the eligible entity 
+                        in 2019, if such sum is greater than zero;
+                            (ii) if the eligible entity was not in 
+                        operation for the entirety of 2019--
+                                    (I) the difference between--
+                                            (aa) the product obtained 
+                                        by multiplying the average 
+                                        monthly gross receipts of the 
+                                        eligible entity in 2019 by 12; 
+                                        and
+                                            (bb) the product obtained 
+                                        by multiplying the average 
+                                        monthly gross receipts of the 
+                                        eligible entity in 2020 and 
+                                        2021 by 12; or
+                                    (II) an amount based on a formula 
+                                determined by the Administrator; or
+                            (iii) if the eligible entity began 
+                        operations during the period beginning on 
+                        January 1, 2020, and ending on the day before 
+                        the date of enactment of this section, an 
+                        amount based on a formula determined by the 
+                        Administrator.
+                    (B) Reduction.--For purposes of this paragraph, the 
+                pandemic-related revenue losses for an eligible entity 
+                calculated under subparagraph (A) shall be reduced by 
+                the sum of--
+                            (i) any amount received from a covered loan 
+                        made under paragraph (36) or (37) of section 
+                        7(a) of the Small Business Act (15 U.S.C. 
+                        636(a)) in 2020 or 2021;
+                            (ii) any amount received as a grant under 
+                        section 1110 of the Coronavirus Aid, Relief, 
+                        and Economic Security Act (15 U.S.C. 9009); and
+                            (iii) any amount received as a grant under 
+                        section 331 of the Economic Aid to Hard-Hit 
+                        Small Businesses, Nonprofits, and Venues Act 
+                        (15 U.S.C. 9009b).
+                    (C) Percentage determination.--For the purposes of 
+                determining the percentage of pandemic-related revenue 
+                loss under this subsection, the percentage shall be 
+                equal to--
+                            (i) in the case of an eligible entity for 
+                        which subparagraph (A)(i) applies, the product 
+                        obtained by multiplying--
+                                    (I) the quotient obtained by 
+                                dividing the pandemic-related revenue 
+                                losses for such eligible entity by the 
+                                gross receipts of the eligible entity 
+                                in 2019; and
+                                    (II) 100;
+                            (ii) in the case of an eligible entity for 
+                        which subparagraph (A)(ii)(I) applies, the 
+                        product obtained by multiplying--
+                                    (I) the quotient obtained by 
+                                dividing the pandemic-related revenue 
+                                losses for such eligible entity by the 
+                                product obtained by multiplying the 
+                                average monthly gross receipts of the 
+                                eligible entity in 2019 by 12; and
+                                    (II) 100; and
+                            (iii) in the case of an eligible entity for 
+                        which clauses (ii)(II) or (iii) applies, an 
+                        amount based on a formula determined by the 
+                        Administrator.
+            (9) Payroll costs.--The term ``payroll costs'' has the 
+        meaning given the term in section 7(a)(36)(A) of the Small 
+        Business Act (15 U.S.C. 636(a)(36)(A)), except that such term 
+        shall not include--
+                    (A) qualified wages, as defined in section 2301(c) 
+                of the CARES Act (26 U.S.C. 3111 note), taken into 
+                account in determining the credit allowed under such 
+                section 2301; or
+                    (B) premiums taken into account in determining the 
+                credit allowed under section 6432 of the Internal 
+                Revenue Code of 1986.
+            (10) Private equity fund.--The term ``private equity fund'' 
+        has the meaning given the term in section 225.173(a) of title 
+        12, Code of Federal Regulations, or any successor regulation.
+            (11) Publicly-traded company.--The term ``publicly-traded 
+        company'' means an entity that is majority owned or controlled 
+        by an entity that is an issuer, the securities of which are 
+        listed on a national securities exchange under section 6 of the 
+        Securities Exchange Act of 1934 (15 U.S.C. 78f).
+            (12) Small business concern.--The term ``small business 
+        concern'' has the meaning given under section 3 of the Small 
+        Business Act (15 U.S.C. 632) and includes--
+                    (A) individuals who operate under a sole 
+                proprietorship, as an independent contractor, or as an 
+                eligible self-employed individual; and
+                    (B) small business concerns described in 
+                subparagraphs (B), (C), and (D) of section 31(b)(2) of 
+                the Small Business Act (15 U.S.C. 657a(b)(2)).
+            (13) Small business act definitions.--The terms ``covered 
+        mortgage obligation'', ``covered operations expenditure'', 
+        ``covered rent obligation'', ``covered supplier cost'', 
+        ``covered utility payment'', and ``covered worker protection 
+        expenditure'' have the meanings given, respectively, in section 
+        7A of the Small Business Act (15 U.S.C. 636m).
+    (b) Awards to Eligible Entities.--
+            (1) In general.--From amounts made available under this 
+        Act, the Administrator shall establish a program to be known as 
+        the ``Hard Hit Industries Award Program'', under which the 
+        Administrator shall make awards to eligible entities that 
+        submit an application under paragraph (2).
+            (2) Application.--
+                    (A) Certification.--An eligible entity shall submit 
+                to the Administrator an application for an award under 
+                this subsection. In such application, the eligible 
+                entity shall make a good faith certification that--
+                            (i) the uncertainty of current economic 
+                        conditions makes necessary the award request to 
+                        support the ongoing operations of the eligible 
+                        entity; and
+                            (ii) the eligible entity has no pending 
+                        application for and has not received a grant 
+                        under--
+                                    (I) section 324 of the Economic Aid 
+                                to Hard-Hit Small Businesses, 
+                                Nonprofits, and Venues Act (15 U.S.C. 
+                                9009a); or
+                                    (II) section 5003 of the American 
+                                Rescue Plan Act of 2021 (15 U.S.C. 
+                                9009c).
+                    (B) Verification.--The Administrator shall use tax 
+                records or other reliable sources, such as certified 
+                accounting statements, with respect to an applicant for 
+                an award under this section to determine--
+                            (i) the eligibility of the applicant for 
+                        that award; and
+                            (ii) the amount of that award to the 
+                        applicant.
+                    (C) Acceptance of applications.--Not later than 120 
+                days after the date of the enactment of this Act, the 
+                Administrator shall begin accepting applications for an 
+                award under this subsection.
+                    (D) Priority.--
+                            (i) In general.--The Administrator shall 
+                        prioritize eligible entities that have 
+                        experienced significant pandemic-related 
+                        revenue loss to receive an award under this 
+                        section as follows:
+                                    (I) First priority to eligible 
+                                entities that experienced a pandemic-
+                                related revenue loss of at least 80 
+                                percent.
+                                    (II) Second priority to eligible 
+                                entities that experienced a pandemic-
+                                related revenue loss of at least 60 
+                                percent.
+                            (ii) Smaller entities.--Within each 
+                        category of eligible entities described in 
+                        subclauses (I) through (III) of clause (i), the 
+                        Administrator may prioritize awards to eligible 
+                        entities with 50 employees or fewer.
+                            (iii) Additional priority.--Within each 
+                        category of eligible entities described in 
+                        subclauses (I) through (III) of clause (i), the 
+                        Administrator may prioritize awards to eligible 
+                        entities that did not receive a covered loan 
+                        made under paragraph (36) or (37) of section 
+                        7(a) of the Small Business Act (15 U.S.C. 
+                        636(a)) in 2020 or 2021.
+            (3) Award amount.--
+                    (A) Aggregate maximum amount.--The aggregate 
+                maximum amount of awards made to an eligible entity and 
+                any affiliated businesses of the eligible entity under 
+                this subsection may not exceed $1,000,000.
+                    (B) Determination of award amount.--
+                            (i) In general.--Except as provided in this 
+                        paragraph, the amount of an award made to an 
+                        eligible entity under this subsection shall be 
+                        equal to the pandemic-related revenue loss of 
+                        the eligible entity.
+                            (ii) Return to treasury.--Any amount of an 
+                        award made under this subsection to an eligible 
+                        entity described in clause (ii) or (iii) of 
+                        subsection (a)(8)(A) that is greater than the 
+                        average annual gross receipts of the eligible 
+                        entity in 2020 and 2021 shall be returned to 
+                        the Treasury.
+                    (C) Insufficient funding.--After selecting award 
+                recipients in accordance with paragraph (2)(D) and 
+                before disbursing any awards under this section, if the 
+                Administrator determines that the amounts made 
+                available under this Act for making awards under this 
+                section are insufficient to make awards to each 
+                eligible entity that submits an application under 
+                paragraph (2) in the amount described under 
+                subparagraphs (A) and (B), the Administrator may make 
+                awards with the available amounts such that the amount 
+                of the award that each eligible entity would have 
+                otherwise received under those subparagraphs and in 
+                accordance with paragraph (2)(D) is reduced by a 
+                percentage, except that the Administrator may establish 
+                an aggregate maximum amount for awards made under this 
+                subparagraph and in accordance with paragraph (2)(D) to 
+                ensure that smaller eligible entities receive awards in 
+                the amounts provided under those subparagraphs.
+            (4) Use of funds.--During the covered period, an eligible 
+        entity that receives an award under this subsection may use the 
+        award for the following expenses incurred as a direct result 
+        of, or during, the COVID-19 pandemic:
+                    (A) Payroll costs.
+                    (B) Payments to independent contractors, as 
+                reported on Form 1099-MISC, except that each such 
+                payment may not exceed $100,000.
+                    (C) Scheduled payments of interest or principal on 
+                any covered mortgage obligation (which may not include 
+                any prepayment of principal on a covered mortgage 
+                obligation).
+                    (D) Payments on any covered rent obligation and 
+                common area maintenance charges under a lease 
+                agreement.
+                    (E) Covered utility payments.
+                    (F) Maintenance expenses.
+                    (G) Covered worker protection expenditures.
+                    (H) Supplies, including protective equipment and 
+                cleaning materials.
+                    (I) Expenses that were within the scope of the 
+                normal business practice of the eligible entity before 
+                the covered period.
+                    (J) Covered supplier costs.
+                    (K) Covered operational expenses.
+                    (L) Paid sick leave.
+                    (M) Capital expenditures (or expenses required 
+                under any Federal, State, or local law) relating to 
+                implementing social distancing measures.
+                    (N) Any other essential expenses of the eligible 
+                entity, as determined by the Administrator.
+            (5) Returning funds.--If an eligible entity that receives 
+        an award under this section fails to use all of the award on or 
+        before the last day of the covered period or permanently ceases 
+        operations on or before the last day of the covered period, the 
+        eligible entity shall return to the Administrator any funds 
+        that the eligible entity did not use for the allowable expenses 
+        under paragraph (4).
+    (c) Data Transparency and Customer Service.--The Administrator 
+shall--
+            (1) in carrying out this section, maintain regular 
+        communication with applicants and representatives of such 
+        applicants, including by--
+                    (A) hosting regularly scheduled information 
+                sessions with those persons; and
+                    (B) providing opportunities to those persons to 
+                submit and receive answers to questions regarding 
+                awards made under this section;
+            (2) on a weekly basis until the amounts made available 
+        under this section are fully expended, publish data that shows, 
+        for the period beginning on the date of enactment of this Act 
+        and ending on the date on which the information is published--
+                    (A) with respect to applications for awards under 
+                this section, the number of those applications--
+                            (i) that the Administrator has received;
+                            (ii) that the Administrator has reviewed or 
+                        is in the process of reviewing; and
+                            (iii) with respect to which the 
+                        Administrator has made a decision; and
+                    (B) the number and dollar amount of payments 
+                awarded and disbursed under this section;
+            (3) on a weekly basis until the amounts made available to 
+        carry out this section are fully expended, publish, for the 
+        period beginning on the date of enactment of this Act and 
+        ending on the date on which the information is published--
+                    (A) the name and location of each eligible entity 
+                to which an award has been made under this section; and
+                    (B) the amount of such award;
+            (4) with respect to an applicant that applies for an award 
+        under this section and is denied by the Administrator--
+                    (A) make available to the applicant a brief 
+                explanation regarding the denial which shall include, 
+                where applicable, a citation to the statute, 
+                regulation, or guidance with which the applicant failed 
+                to comply and that was the basis for the denial; and
+                    (B) establish a reconsideration process through 
+                which the applicant may--
+                            (i) submit to the Administrator additional 
+                        information the applicant determines to be 
+                        relevant to whether the applicant is eligible 
+                        for the grant; and
+                            (ii) receive a review of the application 
+                        and such additional information submitted under 
+                        clause (i).
+    (d) Tax Treatment of Awards.--
+            (1) In general.--For the purposes of the Internal Revenue 
+        Code of 1986--
+                    (A) no award made under this section shall be 
+                included in the gross income of the eligible entity 
+                that receives an award;
+                    (B) no deduction shall be denied, no tax attribute 
+                shall be reduced, and no basis increase shall be 
+                denied, by reason of the exclusion from gross income 
+                provided by subparagraph (A); and
+                    (C) in the case of a partnership or S corporation 
+                that receives an award under this section--
+                            (i) any amount excluded from income by 
+                        reason of subparagraph (A) shall be treated as 
+                        tax exempt for purposes of sections 705 and 
+                        1366 of such Code; and
+                            (ii) the Secretary of the Treasury (or the 
+                        Secretary's delegate) shall prescribe rules for 
+                        determining a partner's distributive share of 
+                        any amount described in clause (i) for purposes 
+                        of section 705 of such Code.
+            (2) Applicability.--Paragraph (1) shall apply to taxable 
+        years ending after the date of enactment of this Act.
+    (e) System for Award Management.--The Administrator may not require 
+any eligible entity that applies for an award under this section to use 
+the System for Award Management (or any successor system) with respect 
+to that award.
+    (f) Application Processing.--The Director of the Office of 
+Management and Budget may, on an emergency basis and in order to 
+expedite the processing and approval of applications for awards under 
+this section, waive the requirements of part 200 of title 2, Code of 
+Federal Regulations (or any successor regulations) with respect to an 
+award made under this section, if--
+            (1) the Director finds that such a waiver will prevent 
+        eligible entities from failing or suffering undue hardship; and
+            (2) each eligible entity that receives an award under this 
+        section is still required to submit to the Administrator 
+        ongoing reports regarding the use by the eligible entity of the 
+        award amounts.
+    (g) Oversight and Audits.--
+            (1) In general.--In cooperation with the Director of the 
+        Office of Management and Budget, the Administrator shall 
+        establish an oversight and audit plan with respect to eligible 
+        entities receiving awards under this section, which shall 
+        include--
+                    (A) documentation requirements that are consistent 
+                with the eligibility and other requirements under this 
+                section, including a requirement that an eligible 
+                entity that receives an award under this section 
+                retains records that demonstrate compliance with the 
+                requirements of this section; and
+                    (B) reviews of the use, by eligible entities, of 
+                awards made under this section to ensure compliance 
+                with the requirements of this section, which shall 
+                include--
+                            (i) a review and audit by the Administrator 
+                        of awards made under this section; and
+                            (ii) in the case of fraud or other material 
+                        noncompliance with respect to an award made 
+                        under this section--
+                                    (I) a requirement that the 
+                                applicable eligible entity repay to the 
+                                Administrator the amount of the 
+                                misspent funds; or
+                                    (II) legal action by the 
+                                Administrator to collect the misspent 
+                                funds.
+            (2) Submission of plan.--Not later than 30 days after the 
+        date of the enactment of this Act, the Administrator shall 
+        submit to the Committee on Small Business and Entrepreneurship 
+        of the Senate and the Committee on Small Business of the House 
+        of Representatives the plan required under paragraph (1), which 
+        shall describe--
+                    (A) the policies and procedures of the 
+                Administrator for conducting oversight and audits of 
+                awards made under this section; and
+                    (B) the metrics that the Administrator will use to 
+                determine which awards made under this section will be 
+                audited under that plan.
+            (3) Reports.--Not later than 60 days after the date of the 
+        enactment of this Act, once every 30 days thereafter until the 
+        date that is 180 days after the date on which all amounts made 
+        available to carry out this section have been fully expended, 
+        and upon request thereafter, the Administrator shall submit to 
+        the Committee on Small Business and Entrepreneurship of the 
+        Senate and the Committee on Small Business of the House of 
+        Representatives a report on the oversight and audit activities 
+        of the Administrator under this subsection, which shall 
+        include--
+                    (A) the total number of awards approved and 
+                disbursed under this section;
+                    (B) the total amount of each award received by each 
+                eligible entity;
+                    (C) the number of active investigations and audits 
+                of awards made under this section;
+                    (D) the number of completed reviews and audits of 
+                awards made under this section, including a description 
+                of any findings of fraud or other material 
+                noncompliance with the requirements of this section; 
+                and
+                    (E) a description of any substantial changes made 
+                to the plan required under paragraph (1).
+    (h) Rules.--Not later than 90 days after the date of the enactment 
+of this Act, the Administrator shall issue rules to carry out this 
+section, without regard to the notice requirements under section 553(b) 
+of title 5, United States Code.
+    (i) Authorization of Appropriations.--In addition to amounts 
+otherwise available, there is appropriated for fiscal year 2022, out of 
+any money in the Treasury not otherwise appropriated, $13,000,000,000, 
+for the Hard Hit Industries Award Program established under this 
+section, to remain available until expended, of which not more than 
+$380,000,000 shall be for administrative expenses to carry out this 
+section, of which--
+            (1) $2,500,000 shall be for the Inspector General of the 
+        Small Business Administration to prevent waste, fraud, and 
+        abuse with respect to funding made available for the Hard Hit 
+        Industries Award Program;
+            (2) $2,500,000 shall be for the Department of Justice for 
+        investigative and prosecutorial activities related to fraud and 
+        abuse, with respect to funding made available for the Hard Hit 
+        Industries Award Program; and
+            (3) $2,500,000 shall be for shall be for the Pandemic 
+        Response Accountability Committee with respect to funding made 
+        available for the Hard Hit Industries Award Program.
+
+SEC. 4. FUNDING FOR THE RESTAURANT REVITALIZATION FUND AND THE HARD HIT 
+              INDUSTRIES AWARD PROGRAM.
+
+    (a) In General.--Any unobligated covered funds are hereby 
+transferred to the Administrator of the Small Business Administration 
+for purposes of carrying out section 5003 of the American Rescue Plan 
+Act of 2021 (15 U.S.C. 9009c) and the Hard Hit Industries Award Program 
+established under section 3 of this Act.
+    (b) Covered Funds Defined.--In this section, the term ``covered 
+funds''--
+            (1) means any and all funds recovered, seized, reclaimed, 
+        or otherwise returned to the Federal Government received 
+        pursuant to--
+                    (A) paragraph (36) or (37) of section 7(a) of the 
+                Small Business Act (15 U.S.C. 636(a));
+                    (B) section 7(b)(2) of the Small Business Act (15 
+                U.S.C. 636(b)), with respect to a loan made under such 
+                section in response to COVID-19 during the covered 
+                period (as defined in section 1110(a) of the CARES Act 
+                (15 U.S.C. 9009(a)));
+                    (C) section 1110(e) of the CARES Act (15 U.S.C. 
+                9009(e));
+                    (D) section 331 of the Economic Aid to Hard-Hit 
+                Small Businesses, Nonprofits, and Venues Act (15 U.S.C. 
+                9009b);
+                    (E) section 324 of the Economic Aid to Hard-Hit 
+                Small Businesses, Nonprofits, and Venues Act (15 U.S.C. 
+                9009a);
+                    (F) section 5003 of the American Rescue Plan Act of 
+                2021 (15 U.S.C. 9009c);
+                    (G) section 3 of this Act;
+            (2) includes any funds that as of December 31, 2022, are 
+        unexpended under section 5003 of the American Rescue Plan Act 
+        of 2021 (15 U.S.C. 9009c); and
+            (3) does not include funds paid by person to the Federal 
+        Government for the purposes of tax obligations, servicing of 
+        loans, or standard payment of fees.
+
+SEC. 5. GRANTS FOR SHUTTERED VENUE OPERATORS.
+
+    Section 324(d) of the Economic Aid to Hard-Hit Small Businesses, 
+Nonprofits, and Venues Act (15 U.S.C. 9009a(d)) is amended by striking 
+paragraph (1) and inserting the following:
+            ``(1) Timing.--
+                    ``(A) Expenses incurred.--Amounts received under a 
+                grant under this section may be used for costs incurred 
+                during the period beginning on March 1, 2020, and 
+                ending on March 11, 2023 (or a later date, as 
+                determined by the Administrator).
+                    ``(B) Expenditure.--An eligible person or entity 
+                shall return to the Administrator any amounts received 
+                under a grant under this section that are not expended 
+                on or before April 15, 2023 (or a later date, as 
+                determined by the Administrator), with respect to costs 
+                incurred during the period described in subparagraph 
+                (A).''.
+
+            Passed the House of Representatives April 7, 2022.
+
+            Attest:
+
+                                                                 Clerk.
+117th CONGRESS
+
+  2d Session
+
+                               H. R. 3807
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+       To amend the American Rescue Plan Act of 2021 to increase 
+  appropriations to the Restaurant Revitalization Fund, and for other 
+                               purposes.

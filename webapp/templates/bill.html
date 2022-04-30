@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block content %}
+<style>
+.container{
+	margin-top: 80px;
+}
+</style>
+<div class="container">
+	<h1>{{bill.shortTitle.0.title if bill.shortTitle else bill.title}}</h1>
+	<p>{{bill.summary}}</p>
+		<button class="btn btn-outline btn-outline-danger" id="like" type="button">
+			<i class="fa fa-icon fa-heart"></i> - <span id="likecnt">{{bill.likes}}</span> likes
+		</button>
+		<br>
+		<br>
+	<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+		  Show Full Text
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+		{{bill.full|safe}}
+      </div>
+    </div>
+  </div>
+	</div>
+	<script>
+		$('#like').click(function(){
+			$('#likecnt').text(parseInt($('#likecnt').text())+1);
+			$.post('/like/{{bill.packageId}}')
+		})
+	</script>
+
+</div>
+{% endblock %}

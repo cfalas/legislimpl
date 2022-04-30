@@ -1,0 +1,64 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 6881 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 6881
+
+ To amend the Tariff Act of 1930 to protect from public disclosure of 
+      personally identifiable information contained in manifests.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 1, 2022
+
+ Mr. Crist (for himself and Mr. Waltz) introduced the following bill; 
+         which was referred to the Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Tariff Act of 1930 to protect from public disclosure of 
+      personally identifiable information contained in manifests.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. PROTECTION FROM PUBLIC DISCLOSURE OF PERSONALLY IDENTIFIABLE 
+              INFORMATION CONTAINED IN MANIFESTS.
+
+    (a) In General.--Paragraph (2) of section 431(c) of the Tariff Act 
+of 1930 (19 U.S.C. 1431(c)) is amended to read as follows:
+    ``(2)(A) The information listed in paragraph (1) shall not be 
+available for public disclosure if--
+            ``(i) the Secretary of the Treasury makes an affirmative 
+        finding on a shipment-by-shipment basis that disclosure is 
+        likely to pose a threat of personal injury or property damage; 
+        or
+            ``(ii) the information is exempt under the provisions of 
+        section 552(b)(1) of title 5, United States Code.
+    ``(B) The Secretary shall ensure that any personally identifiable 
+information, including Social Security account numbers and passport 
+numbers, is removed from any manifest signed, produced, delivered, or 
+electronically transmitted under this section before access to the 
+manifest is provided to the public.''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+take effect on the date that is 30 days after the date of the enactment 
+of this Act.
+                                 

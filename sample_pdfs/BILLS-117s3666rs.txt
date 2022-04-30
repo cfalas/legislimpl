@@ -1,0 +1,284 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[S. 3666 Reported in Senate (RS)]
+
+
+
+
+
+
+
+                                                       Calendar No. 321
+117th CONGRESS
+  2d Session
+                                S. 3666
+
+To require reports on the adoption of a cryptocurrency as legal tender 
+                in El Salvador, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           February 16, 2022
+
+ Mr. Risch (for himself, Mr. Menendez, and Mr. Cassidy) introduced the 
+ following bill; which was read twice and referred to the Committee on 
+                           Foreign Relations
+
+               April 4 (legislative day, March 31), 2022
+
+              Reported by Mr. Menendez, with an amendment
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To require reports on the adoption of a cryptocurrency as legal tender 
+                in El Salvador, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+&lt;DELETED&gt;SECTION 1. SHORT TITLE.&lt;/DELETED&gt;
+
+&lt;DELETED&gt;    This Act may be cited as the ``Accountability for 
+Cryptocurrency in El Salvador Act'' or ``ACES Act''.&lt;/DELETED&gt;
+
+&lt;DELETED&gt;SEC. 2. REPORTS ON ADOPTION OF CRYPTOCURRENCY AS LEGAL TENDER 
+              IN EL SALVADOR.&lt;/DELETED&gt;
+
+&lt;DELETED&gt;    (a) In General.--Not later than 60 days after the date of 
+the enactment of this Act, the Secretary of State, in coordination with 
+the heads of other relevant Federal departments and agencies, shall 
+submit to the appropriate committees of Congress a report on the 
+adoption by the Government of El Salvador of a cryptocurrency as legal 
+tender.&lt;/DELETED&gt;
+&lt;DELETED&gt;    (b) Elements.--The report required by subsection (a) shall 
+include the following:&lt;/DELETED&gt;
+        &lt;DELETED&gt;    (1) A description of the process followed by the 
+        Government of El Salvador to develop and enact the Bitcoin Law 
+        (Legislative Decree No. 57, Official Record No. 110, Volume 
+        431, enacted June 9, 2021), which provides the cryptocurrency, 
+        Bitcoin, with legal tender status in El Salvador.&lt;/DELETED&gt;
+        &lt;DELETED&gt;    (2) An assessment of--&lt;/DELETED&gt;
+                &lt;DELETED&gt;    (A) the regulatory framework in El 
+                Salvador with respect to the adoption of a 
+                cryptocurrency as legal tender and the technical 
+                capacity of El Salvador to effectively mitigate the 
+                financial integrity and cyber security risks associated 
+                with virtual-asset transactions;&lt;/DELETED&gt;
+                &lt;DELETED&gt;    (B) whether the regulatory framework in El 
+                Salvador meets the requirements of the Financial Action 
+                Task Force with respect to virtual-asset 
+                transactions;&lt;/DELETED&gt;
+                &lt;DELETED&gt;    (C) the impact on individuals and 
+                businesses of requiring tender of Bitcoin; 
+                and&lt;/DELETED&gt;
+                &lt;DELETED&gt;    (D) the impact of such adoption of a 
+                cryptocurrency on--&lt;/DELETED&gt;
+                        &lt;DELETED&gt;    (i) the macroeconomic stability 
+                        and public finances of El Salvador, including 
+                        taxation;&lt;/DELETED&gt;
+                        &lt;DELETED&gt;    (ii) the rule of law and 
+                        democratic governance in El Salvador;&lt;/DELETED&gt;
+                        &lt;DELETED&gt;    (iii) the unbanked population in 
+                        El Salvador;&lt;/DELETED&gt;
+                        &lt;DELETED&gt;    (iv) the flow of remittances from 
+                        the United States to El Salvador;&lt;/DELETED&gt;
+                        &lt;DELETED&gt;    (v) El Salvador's relations with 
+                        multilateral financial institutions, such as 
+                        the International Monetary Fund and the Word 
+                        Bank;&lt;/DELETED&gt;
+                        &lt;DELETED&gt;    (vi) bilateral and international 
+                        efforts to combat transnational illicit 
+                        activities;&lt;/DELETED&gt;
+                        &lt;DELETED&gt;    (vii) El Salvador's bilateral 
+                        economic and commercial relationship with the 
+                        United States and the potential for reduced use 
+                        by El Salvador of the United States dollar; 
+                        and&lt;/DELETED&gt;
+                        &lt;DELETED&gt;    (viii) existing United States 
+                        sanctions frameworks and the potential for the 
+                        use of cryptocurrency to circumvent such 
+                        sanctions.&lt;/DELETED&gt;
+        &lt;DELETED&gt;    (3) A description of the internet infrastructure 
+        of El Salvador and an assessment of--&lt;/DELETED&gt;
+                &lt;DELETED&gt;    (A) the degree to which cryptocurrency is 
+                used in El Salvador;&lt;/DELETED&gt;
+                &lt;DELETED&gt;    (B) matters relating to chain of custody 
+                and the potential for hacking and cybertheft of 
+                cryptocurrency; and&lt;/DELETED&gt;
+                &lt;DELETED&gt;    (C) access to transparent and affordable 
+                internet and digital infrastructure among the unbanked 
+                population of El Salvador.&lt;/DELETED&gt;
+&lt;DELETED&gt;    (c) Plan To Mitigate Risks to United States Financial 
+System Posed by Adoption of Cryptocurrency as Legal Tender in Certain 
+Countries.--&lt;/DELETED&gt;
+        &lt;DELETED&gt;    (1) In general.--Not later than 90 days after the 
+        submittal of the report required by subsection (a), the 
+        Secretary of State, in coordination with the heads of other 
+        relevant Federal departments and agencies, shall submit to the 
+        appropriate committees of Congress a plan to mitigate any 
+        potential risk to the United States financial system posed by 
+        the adoption of a cryptocurrency as legal tender in--&lt;/DELETED&gt;
+                &lt;DELETED&gt;    (A) El Salvador; and&lt;/DELETED&gt;
+                &lt;DELETED&gt;    (B) any other country that uses the United 
+                States dollar as legal tender.&lt;/DELETED&gt;
+        &lt;DELETED&gt;    (2) Implementation.--Not later than 30 days after 
+        the date on which the plan is submitted under paragraph (1), 
+        the Secretary of State shall commence implementation of the 
+        plan.&lt;/DELETED&gt;
+&lt;DELETED&gt;    (d) Subsequent Report.--Not later than 270 days after the 
+submittal of the report required by subsection (a), the Secretary of 
+State, in coordination with the heads of other relevant Federal 
+departments and agencies, shall submit to the appropriate committees of 
+Congress an updated version of such report, including a description of 
+any significant development related to the risks to the United States 
+financial system posed by the use of a cryptocurrency as legal tender 
+in El Salvador.&lt;/DELETED&gt;
+&lt;DELETED&gt;    (e) Appropriate Committees of Congress Defined.--In this 
+section, the term ``appropriate committees of Congress'' means--
+&lt;/DELETED&gt;
+        &lt;DELETED&gt;    (1) the Committee on Foreign Relations and the 
+        Committee on Banking, Housing, and Urban Affairs of the Senate; 
+        and&lt;/DELETED&gt;
+        &lt;DELETED&gt;    (2) the Committee on Foreign Affairs and the 
+        Committee on Financial Services of the House of 
+        Representatives.&lt;/DELETED&gt;
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Accountability for Cryptocurrency in 
+El Salvador Act'' or ``ACES Act''.
+
+SEC. 2. REPORTS ON ADOPTION OF CRYPTOCURRENCY AS LEGAL TENDER IN EL 
+              SALVADOR.
+
+    (a) In General.--Not later than 60 days after the date of the 
+enactment of this Act, the Secretary of State, in coordination with the 
+heads of other relevant Federal departments and agencies, shall submit 
+to the appropriate committees of Congress a report on the adoption by 
+the Government of El Salvador of a cryptocurrency as legal tender.
+    (b) Elements.--The report required by subsection (a) shall include 
+the following:
+            (1) A description of the process followed by the Government 
+        of El Salvador to develop and enact the Bitcoin Law 
+        (Legislative Decree No. 57, Official Record No. 110, Volume 
+        431, enacted June 9, 2021), which provides the cryptocurrency, 
+        Bitcoin, with legal tender status in El Salvador.
+            (2) An assessment of--
+                    (A) the regulatory framework in El Salvador with 
+                respect to the adoption of a cryptocurrency as legal 
+                tender and the technical capacity of El Salvador to 
+                effectively mitigate the financial integrity and 
+                cybersecurity risks associated with virtual-asset 
+                transactions;
+                    (B) whether the regulatory framework in El Salvador 
+                meets the requirements of the Financial Action Task 
+                Force with respect to virtual-asset transactions;
+                    (C) the impact on individuals and businesses of 
+                requiring tender of Bitcoin; and
+                    (D) the impact of such adoption of a cryptocurrency 
+                on--
+                            (i) the macroeconomic stability and public 
+                        finances of El Salvador, including taxation;
+                            (ii) the rule of law and democratic 
+                        governance in El Salvador;
+                            (iii) the unbanked population in El 
+                        Salvador;
+                            (iv) the flow of remittances from the 
+                        United States to El Salvador;
+                            (v) El Salvador's relations with 
+                        multilateral financial institutions, such as 
+                        the International Monetary Fund and the Word 
+                        Bank;
+                            (vi) bilateral and international efforts to 
+                        combat transnational illicit activities;
+                            (vii) El Salvador's bilateral economic and 
+                        commercial relationship with the United States 
+                        and the potential for reduced use by El 
+                        Salvador of the United States dollar;
+                            (viii) existing United States sanctions 
+                        frameworks and the potential for the use of 
+                        cryptocurrency to circumvent such sanctions;
+                            (ix) the environmental impact of 
+                        cryptocurrency mining activities in El 
+                        Salvador, the deforestation associated with the 
+                        construction of new cryptocurrency mining 
+                        facilities, and the capacity of the electric 
+                        grid in El Salvador to deliver reliable and 
+                        affordable electricity meeting or exceeding the 
+                        level available before the adoption of a 
+                        cryptocurrency as legal tender; and
+                            (x) the feasibility of using cryptocurrency 
+                        mining activities for purposes of enhancing 
+                        grid resiliency in El Salvador and any other 
+                        country that uses the United States dollar as 
+                        legal tender.
+            (3) A description of the internet infrastructure of El 
+        Salvador and an assessment of--
+                    (A) the degree to which cryptocurrency is used in 
+                El Salvador;
+                    (B) matters relating to chain of custody and the 
+                potential for hacking and cybertheft of cryptocurrency; 
+                and
+                    (C) access to transparent and affordable internet 
+                and digital infrastructure among the unbanked 
+                population of El Salvador.
+    (c) Plan To Mitigate Risks to United States Financial System Posed 
+by Adoption of Cryptocurrency as Legal Tender in Certain Countries.--
+            (1) In general.--Not later than 90 days after the submittal 
+        of the report required by subsection (a), the Secretary of 
+        State, in coordination with the heads of other relevant Federal 
+        departments and agencies, shall submit to the appropriate 
+        committees of Congress a plan to mitigate any potential risk to 
+        the United States financial system posed by the adoption of a 
+        cryptocurrency as legal tender in--
+                    (A) El Salvador; and
+                    (B) any other country that uses the United States 
+                dollar as legal tender.
+            (2) Implementation.--Not later than 30 days after the date 
+        on which the plan is submitted under paragraph (1), the 
+        Secretary of State shall commence implementation of the plan.
+    (d) Subsequent Report.--Not later than 270 days after the submittal 
+of the report required by subsection (a), the Secretary of State, in 
+coordination with the heads of other relevant Federal departments and 
+agencies, shall submit to the appropriate committees of Congress an 
+updated version of such report, including a description of any 
+significant development related to the risks to the United States 
+financial system posed by the use of a cryptocurrency as legal tender 
+in El Salvador.
+    (e) Appropriate Committees of Congress Defined.--In this section, 
+the term ``appropriate committees of Congress'' means--
+            (1) the Committee on Foreign Relations and the Committee on 
+        Banking, Housing, and Urban Affairs of the Senate; and
+            (2) the Committee on Foreign Affairs and the Committee on 
+        Financial Services of the House of Representatives.
+                                                       Calendar No. 321
+
+117th CONGRESS
+
+  2d Session
+
+                                S. 3666
+
+_______________________________________________________________________
+
+                                 A BILL
+
+To require reports on the adoption of a cryptocurrency as legal tender 
+                in El Salvador, and for other purposes.
+
+_______________________________________________________________________
+
+               April 4 (legislative day, March 31), 2022
+
+                       Reported with an amendment

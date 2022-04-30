@@ -1,0 +1,81 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7118 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7118
+
+To amend title II of the Social Security Act relating to the sharing of 
+  death information with the Do Not Pay working system, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 17, 2022
+
+ Ms. Craig (for herself and Mr. Meijer) introduced the following bill; 
+         which was referred to the Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend title II of the Social Security Act relating to the sharing of 
+  death information with the Do Not Pay working system, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Social Security Payment Integrity 
+and Information Act of 2022''.
+
+SEC. 2. SHARING OF DEATH INFORMATION WITH DO NOT PAY WORKING SYSTEM.
+
+    (a) In General.--Section 205(r) of the Social Security Act (42 
+U.S.C. 405(r)) is amended--
+            (1) in paragraph (2)--
+                    (A) in subparagraph (A), by moving the margins for 
+                each of clauses (i) and (ii) 4 ems to the left; and
+                    (B) by moving the margins for each of subparagraphs 
+                (B) and (C) 4 ems to the left;
+            (2) in paragraph (3)(A), by moving the margins for each of 
+        clauses (i) and (ii) 2 ems to the left;
+            (3) by moving the margins for paragraph (7) 2 ems to the 
+        left; and
+            (4) by adding at the end the following:
+    ``(11) The Commissioner of Social Security may, immediately upon 
+the date of enactment of this paragraph, and shall, beginning not later 
+than December 27, 2022, provide information furnished to the 
+Commissioner under paragraph (1) to the agency operating the Do Not Pay 
+working system described in section 3354(c) of title 31, United States 
+Code, to prevent improper payments to deceased individuals through a 
+cooperative agreement with such agency, provided that the requirements 
+of subparagraphs (A) and (B) of paragraph (3) are met with respect to 
+such agreement with such agency.''.
+    (b) Conforming Amendment.--Section 801 of division FF of the 
+Consolidated Appropriations Act, 2021 (Public Law 116-260) is amended--
+            (1) in subsection (a)--
+                    (A) by striking ``(a) In General.--'';
+                    (B) at the end of paragraph (6), by striking ``; 
+                and'' and inserting a period; and
+                    (C) by striking paragraph (7); and
+            (2) by striking subsection (b).
+                                 

@@ -1,0 +1,65 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7480 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7480
+
+To amend the Defense Production Act of 1950 to prohibit the use of the 
+   authorities under title I and title III of such Act for electric 
+                   vehicles or related technologies.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 7, 2022
+
+ Mr. Perry (for himself, Mrs. Miller of Illinois, Mr. Tiffany, and Mr. 
+  Cawthorn) introduced the following bill; which was referred to the 
+                    Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Defense Production Act of 1950 to prohibit the use of the 
+   authorities under title I and title III of such Act for electric 
+                   vehicles or related technologies.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Bullets Not Batteries Act''.
+
+SEC. 2. PROHIBITION ON THE USE OF AUTHORITIES FOR ELECTRIC VEHICLES AND 
+              RELATED TECHNOLOGY.
+
+    Section 104 of the Defense Production Act of 1950 (50 U.S.C. 4514) 
+is amended by adding at the end the following:
+    ``(c) Electric Vehicles and Related Technology.--The authorities 
+provided under this title and title III may not be used with respect 
+to--
+            ``(1) electric vehicles;
+            ``(2) electric vehicle batteries;
+            ``(3) electric vehicle charging stations or other electric 
+        vehicle infrastructure; or
+            ``(4) obtaining critical minerals that will be used for the 
+        manufacturing of any item described under paragraph (1), (2), 
+        or (3).''.
+                                 

@@ -1,0 +1,95 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7484 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7484
+
+ To amend the Clean Air Act to eliminate the corn ethanol mandate for 
+                            renewable fuel.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 7, 2022
+
+Mr. Rice of South Carolina (for himself and Ms. Lofgren) introduced the 
+   following bill; which was referred to the Committee on Energy and 
+                                Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Clean Air Act to eliminate the corn ethanol mandate for 
+                            renewable fuel.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Food before Fuel Act''.
+
+SEC. 2. FINDINGS; SENSE OF CONGRESS.
+
+    (a) Findings.--Congress finds the following:
+            (1) Ukraine accounts for 16 percent of global corn exports 
+        and 12 percent of wheat exports.
+            (2) The United States could more than compensate for the 
+        loss of Ukraine's exports by diverting crops that are to be 
+        made into biofuels into food production instead.
+            (3) Almost 70 percent of all United States grain production 
+        is corn, but almost half is formulated into ethanol to drive 
+        cars and trucks.
+            (4) Converting corn into fuel happens only because of a 
+        mass of Federal regulations and subsidies that began during the 
+        Carter administration.
+            (5) While ethanol may have small environmental advantages 
+        over gasoline, the benefits are nullified by ethanol's toll on 
+        world food output.
+    (b) Sense of Congress.--It is the sense of Congress that the 
+Federal Government should not be incentivizing farmers to grow corn for 
+ethanol while Russia's invasion of Ukraine is jeopardizing the lives of 
+Ukraine's citizens and is on track to cause a severe malnutrition 
+across the world. As this supply is cut off, food prices which are 
+already at record levels, will increase at a time when the economic 
+fallout from the pandemic is already harming household budgets, 
+particularly in low-income countries.
+
+SEC. 3. ELIMINATION OF CORN ETHANOL MANDATE FOR RENEWABLE FUEL.
+
+    (a) Removal of Table.--Section 211(o)(2)(B)(i) of the Clean Air Act 
+(42 U.S.C. 7545(o)(2)(B)(i)) is amended by striking subclause (I).
+    (b) Conforming Amendments.--Section 211(o)(2)(B) of the Clean Air 
+Act (42 U.S.C. 7545(o)(2)(B)) is amended--
+            (1) in clause (i)--
+                    (A) by redesignating subclauses (II) through (IV) 
+                as subclauses (I) through (III), respectively;
+                    (B) in subclause (I) (as so redesignated), by 
+                striking ``of the volume of renewable fuel required 
+                under subclause (I),''; and
+                    (C) in subclauses (II) and (III) (as so 
+                redesignated), by striking ``subclause (II)'' each 
+                place it appears and inserting ``subclause (I)''; and
+            (2) in clause (v), by striking ``clause (i)(IV)'' and 
+        inserting ``clause (i)(III)''.
+    (c) Administration.--Nothing in this section or the amendments made 
+by this section affects the volumes of advanced biofuel, cellulosic 
+biofuel, or biomass-based diesel that are required under section 211(o) 
+of the Clean Air Act (42 U.S.C. 7545(o)).
+                                 

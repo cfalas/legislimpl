@@ -1,0 +1,86 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7147 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7147
+
+  To direct the Secretary of Defense to make publicly available on a 
+  website of the Department of Defense the cost to each United States 
+  taxpayer of certain contingency operations conducted by the United 
+              States Armed Forces, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 17, 2022
+
+  Ms. Williams of Georgia (for herself, Mr. Meijer, and Ms. Jacobs of 
+ California) introduced the following bill; which was referred to the 
+                      Committee on Armed Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To direct the Secretary of Defense to make publicly available on a 
+  website of the Department of Defense the cost to each United States 
+  taxpayer of certain contingency operations conducted by the United 
+              States Armed Forces, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Cost of War Act of 2022''.
+
+SEC. 2. PUBLIC AVAILABILITY OF COST OF CERTAIN MILITARY OPERATIONS TO 
+              EACH UNITED STATES TAXPAYER.
+
+    Section 1090 of the National Defense Authorization Act for Fiscal 
+Year 2017 (Public Law 114-328) is amended--
+            (1) by inserting ``(a) Publication of Information.--'' 
+        before ``The Secretary of Defense'';
+            (2) by striking ``of each of the wars in Afghanistan, Iraq, 
+        and Syria.'' and inserting ``of any overseas contingency 
+        operation conducted by the United States Armed Forces on or 
+        after September 18, 2001.''; and
+            (3) by adding at the end the following new subsections:
+    ``(b) Display of Information.--The information required to be 
+posted under subsection (a) shall--
+            ``(1) be posted directly on the website of the Department 
+        of Defense, in an accessible and clear format;
+            ``(2) include corresponding documentation as links or 
+        attachments; and
+            ``(3) include, for each overseas contingency operation--
+                    ``(A) both the total cost to each taxpayer, and the 
+                cost to each taxpayer for each fiscal year, of 
+                conducting the overseas contingency operation;
+                    ``(B) a list of countries where the overseas 
+                contingency operation has taken place; and
+                    ``(C) for each such country, both the total cost to 
+                each taxpayer, and the cost to each taxpayer for each 
+                fiscal year, of conducting the overseas contingency 
+                operation in that country.
+    ``(c) Updates.--The Secretary shall ensure that all the information 
+required to be posted under subsection (a) is updated by not later than 
+90 days after the last day of each fiscal year.
+    ``(d) Contingency Operation Defined.--In this section, the term 
+`contingency operation' has the meaning given such term in section 
+101(a)(13) of title 10, United States Code.''.
+                                 

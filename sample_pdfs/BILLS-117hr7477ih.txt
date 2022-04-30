@@ -1,0 +1,77 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7477 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7477
+
+  To exempt grants received under the Coronavirus Economic Relief for 
+       Transportation Services (CERTS) Act from Federal taxation.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 7, 2022
+
+    Mr. Panetta (for himself, Mr. LaHood, Mr. Sires, and Mr. Rose) 
+ introduced the following bill; which was referred to the Committee on 
+                             Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To exempt grants received under the Coronavirus Economic Relief for 
+       Transportation Services (CERTS) Act from Federal taxation.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``CERTS Tax Exemption Act''.
+
+SEC. 2. EXEMPTION OF GRANTS FROM TAXATION.
+
+    (a) In General.--Section 421 of the Coronavirus Economic Relief for 
+Transportation Services Act (15 U.S.C. 9111) is amended by adding at 
+the end the following new subsection:
+    ``(g) Tax Treatment.--For purposes of the Internal Revenue Code of 
+1986--
+            ``(1) no amount shall be included in the gross income of 
+        the eligible provider of transportation services by reason of a 
+        grant under this section,
+            ``(2) no deduction shall be denied, no tax attribute shall 
+        be reduced, and no basis increase shall be denied, by reason of 
+        the exclusion from gross income provided by paragraph (1), and
+            ``(3) in the case of an eligible provider of transportation 
+        services which is a partnership or S corporation--
+                    ``(A) any amount excluded from income by reason of 
+                paragraph (1) shall be treated as tax exempt income for 
+                purposes of sections 705 and 1366 of such Code, and
+                    ``(B) except as provided by the Secretary of the 
+                Treasury (or the Secretary's delegate), any increase in 
+                the adjusted basis of a partner's interest in a 
+                partnership under section 705 of such Code with respect 
+                to any amount described in subparagraph (A) shall equal 
+                the partner's distributive share of deductions 
+                resulting from costs described in subsection (d) which 
+                are paid using a grant under this section.''.
+    (b) Effective Date.--The amendment made by this section shall apply 
+to taxable years ending after the date of the enactment of the 
+Coronavirus Economic Relief for Transportation Services Act.
+                                 

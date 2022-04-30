@@ -1,0 +1,74 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7256 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7256
+
+ To direct the Secretary of Veterans Affairs to modify the information 
+technology systems of the Department of Veterans Affairs to provide for 
+  the automatic processing of claims for certain temporary disability 
+                    ratings, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 28, 2022
+
+Mr. Rosendale introduced the following bill; which was referred to the 
+                     Committee on Veterans' Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To direct the Secretary of Veterans Affairs to modify the information 
+technology systems of the Department of Veterans Affairs to provide for 
+  the automatic processing of claims for certain temporary disability 
+                    ratings, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Expediting Temporary Ratings for 
+Veterans Act''.
+
+SEC. 2. DEPARTMENT OF VETERANS AFFAIRS AUTOMATIC PROCESSING OF CERTAIN 
+              CLAIMS FOR TEMPORARY DISABILITY RATINGS.
+
+    (a) In General.--Not later than one year after the date of the 
+enactment of this Act, the Secretary of Veterans Affairs shall modify 
+the information technology systems of the Department of Veterans 
+Affairs to provide for the automatic processing of claims for temporary 
+disability ratings for veterans described in section 1156(a)(1)(C) of 
+title 38, United States Code.
+    (b) Additional Requirements.--In providing for the automatic 
+processing of claims as required under subsection (a), the Secretary 
+shall ensure that--
+            (1) medical evidence is obtained from the corporate data 
+        warehouse of the Department;
+            (2) employees of the Department continue to determine 
+        whether a veteran is eligible for a temporary disability rating 
+        under section 1156(a)(1)(C) of title 38, United States Code; 
+        and
+            (3) claims may be processed manually if the evidence of 
+        record is not sufficient to decide the claim or if the medical 
+        evidence is provided in a format that is not compatible with 
+        the system developed under subsection (a).
+                                 

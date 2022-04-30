@@ -1,0 +1,68 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7350 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7350
+
+   To amend the Internal Revenue Code of 1986 to exempt certain late 
+                  unemployment payments from taxation.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 31, 2022
+
+Mr. Thompson of California (for himself, Ms. Eshoo, Mr. Lowenthal, Mr. 
+  Swalwell, Ms. Brownley, Ms. Chu, Ms. Porter, Ms. Roybal-Allard, Mr. 
+    Panetta, Ms. Matsui, Ms. Barragan, and Ms. Bass) introduced the 
+ following bill; which was referred to the Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To amend the Internal Revenue Code of 1986 to exempt certain late 
+                  unemployment payments from taxation.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SPECIAL RULE FOR LATE UNEMPLOYMENT COMPENSATION PAYMENTS.
+
+    (a) In General.--Section 85(c) of the Internal Revenue Code of 1986 
+is amended by redesignating paragraph (2) as paragraph (4) and by 
+inserting after paragraph (1) the following new paragraphs:
+            ``(2) Special rule for delayed 2020 unemployment 
+        compensation.--In the case of any taxable year beginning in 
+        2021, if a taxpayer is issued an unemployment compensation 
+        payment with respect to calendar year 2020 but such payment is 
+        not received by the taxpayer until 2021, the gross income of 
+        such taxpayer shall not include so much of the unemployment 
+        compensation received by such taxpayer as does not exceed 
+        $10,200.
+            ``(3) $10,200 aggregate limitation.--The total amount 
+        excluded from gross income with respect to a taxpayer under 
+        this subsection for all taxable years shall not exceed 
+        $10,200.''.
+    (b) Conforming Amendment.--Paragraph (4) of section 85(c) of the 
+Internal Revenue Code of 1986 (as redesignated by this section) is 
+amended by striking ``paragraph (1)'' and inserting ``paragraphs (1) 
+and (2)''.
+    (c) Effective Date.--The amendment made by this section shall apply 
+to taxable years beginning after December 31, 2020.
+                                 

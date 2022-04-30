@@ -1,0 +1,110 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[S. 3945 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                S. 3945
+
+      To amend the Securities Exchange Act of 1934 to address the 
+    solicitation of proxy with respect to securities, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 29, 2022
+
+   Mr. Hagerty (for himself, Mr. Daines, Mr. Tillis, and Ms. Lummis) 
+introduced the following bill; which was read twice and referred to the 
+            Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+      To amend the Securities Exchange Act of 1934 to address the 
+    solicitation of proxy with respect to securities, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Restoring Shareholder Transparency 
+Act of 2022''.
+
+SEC. 2. PROXIES.
+
+    Section 14(a) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78n(a)) is amended by adding at the end the following:
+    ``(3) For the purposes of this subsection, soliciting any proxy or 
+consent or authorization in respect of a security--
+            ``(A) includes the furnishing of a form of proxy or other 
+        communication to a holder of the security under circumstances 
+        reasonably calculated to result in the procurement, 
+        withholding, or revocation of a proxy, including any proxy 
+        voting advice that--
+                    ``(i) makes a recommendation to the security holder 
+                as to the vote, consent, or authorization of the 
+                security holder on a specific matter for which the 
+                approval of the security holder is solicited; and
+                    ``(ii) is furnished by a person that--
+                            ``(I) markets the expertise of the person 
+                        as a provider of such proxy voting advice, 
+                        separately from other forms of investment 
+                        advice; and
+                            ``(II) sells such proxy voting advice for a 
+                        fee; and
+            ``(B) does not include the furnishing of any proxy voting 
+        advice by a person that furnishes such advice only in response 
+        to an unprompted request.''.
+
+SEC. 3. SHAREHOLDER PROPOSALS.
+
+    (a) In General.--The Securities Exchange Act of 1934 (15 U.S.C. 78a 
+et seq.) is amended--
+            (1) in section 6(b) (15 U.S.C. 78f(b)), by adding at the 
+        end the following:
+            ``(11) The rules of the exchange do not require an issuer 
+        to be in compliance with section 240.14a-8 of title 17, Code of 
+        Federal Regulations, or any successor regulation, as a 
+        condition of having a security of the issuer listed on the 
+        exchange.''; and
+            (2) in section 14 (15 U.S.C. 78n), by adding at the end the 
+        following:
+    ``(k) Shareholder Proposals.--Notwithstanding any other provision 
+of law or regulation, beginning on the date of enactment of this 
+subsection, no issuer shall be subject to the requirements of section 
+240.14a-8 of title 17, Code of Federal Regulations, or any successor 
+regulation, unless the issuer agrees to be subject to those 
+requirements.''.
+    (b) Bases for Exclusion.--Not later than 1 year after the date of 
+enactment of this Act, the Securities and Exchange Commission shall 
+amend section 240.14a-8(i) of title 17, Code of Federal Regulations, or 
+any successor regulation, to provide that all of the bases for 
+exclusion of a proposal under that provision shall apply without regard 
+to whether the proposal relates to a significant social policy issue.
+    (c) Market Value.--Not later than 30 days after the date of 
+enactment of this Act, the Securities and Exchange Commission shall 
+amend section 240.14a-8(b)(1) of title 17, Code of Federal Regulations, 
+or any successor regulation--
+            (1) by amending clause (i) to read as follows: ``(i) You 
+        must hold at least 1 percent of the market value of the 
+        company's securities.''; and
+            (2) by striking clause (vi).
+                                 

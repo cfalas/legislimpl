@@ -1,0 +1,151 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[S. 4040 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                S. 4040
+
+ To amend subtitle IV of title 46, United States Code, with respect to 
+                  ship agents, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             April 7, 2022
+
+  Mr. Reed (for himself and Mr. Whitehouse) introduced the following 
+ bill; which was read twice and referred to the Committee on Commerce, 
+                      Science, and Transportation
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend subtitle IV of title 46, United States Code, with respect to 
+                  ship agents, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Ship Agent Licensure Act of 2022''.
+
+SEC. 2. DEFINITIONS.
+
+    Section 40102 of title 46, United States Code, is amended--
+            (1) by redesignating paragraphs (22) through (26) as 
+        paragraphs (23) through (27), respectively; and
+            (2) by inserting after paragraph (21) the following:
+            ``(22) Ship agent.--The term `ship agent' means a person--
+                    ``(A) engaged in the business of representing a 
+                ship's owner, operator, or charterer (referred to in 
+                this paragraph as the `principal') in performing 
+                carriage while in a port of the United States; and
+                    ``(B) who is responsible to the principal for--
+                            ``(i) port entry, berthing, and departure;
+                            ``(ii) port husbandry services;
+                            ``(iii) crew changes and repatriations;
+                            ``(iv) receiving or releasing cargo on 
+                        behalf of the principal; or
+                            ``(v) interfacing with various Federal 
+                        agencies with respect to port safety, supply 
+                        chain efficiency, maritime security, and the 
+                        environment; and
+                    ``(C) who is not owned or controlled by a common 
+                carrier or cruise line.''.
+
+SEC. 3. SHIP AGENTS.
+
+    (a) In General.--Title 46, United States Code, is amended by 
+inserting after chapter 409 the following:
+
+                       ``CHAPTER 410--SHIP AGENTS
+
+``Sec.
+``41001. Definition of Commission.
+``41002. License requirement.
+``41003. Financial responsibility.
+``41004. Suspension or revocation of license.
+``Sec. 41001. Definition of Commission
+    ``In this chapter, the term `Commission' means the Federal Maritime 
+Commission.
+``Sec. 41002. License requirement
+    ``(a) In General.--Subject to subsection (b), a person in the 
+United States shall not advertise, hold oneself out, or act as a ship 
+agent or provide ship agent services in the United States unless the 
+person is domiciled in the United States and holds a license issued by 
+the Commission. The Commission shall issue a license to a person that 
+the Commission determines to be qualified by experience and character 
+to act as a ship agent.
+    ``(b) Exception.--A person whose primary business is the provision 
+of ocean transportation by water may provide ship agent services for 
+its own account without a ship agent license under this section.
+    ``(c) Qualifications.--The Commission shall establish such other 
+ship agent qualifications as are necessary. In establishing 
+qualifications, the Commission shall consider recognized national and 
+international standards for ship agency.
+``Sec. 41003. Financial responsibility
+    ``(a) In General.--A person may not advertise, hold oneself out, or 
+act as a ship agent unless the person furnishes a bond, proof of 
+insurance, or other surety in a form and amount determined by the 
+Commission to insure financial responsibility.
+    ``(b) Scope of Financial Responsibility.--A bond, insurance, or 
+other surety obtained under this section--
+            ``(1) shall be available to pay any penalty assessed under 
+        section 41109 of this title or any order for reparation issued 
+        under section 41305 of this title;
+            ``(2) may be available to pay any claim against a ship 
+        agent arising from its ship agency services--
+                    ``(A) with the consent of the insured ship agent 
+                and subject to review by the surety company; or
+                    ``(B) when the claim is determined valid by the 
+                surety company after the ship agent has failed to 
+                respond to adequate notice to address the validity of 
+                the claim; and
+            ``(3) shall be available to pay any judgment for damages 
+        against a ship agent arising from its ship agency services, if 
+        the claimant has first attempted to resolve the claim under 
+        paragraph (2) and the claim has not been resolved within a 
+        reasonable period of time.
+    ``(c) Regulations on Court Judgments.--The Commission shall 
+prescribe regulations for the purpose of protecting the interests of 
+claimants, ship agents, and surety companies with respect to the 
+process of pursuing claims against ship agent bonds, insurance, or 
+sureties through court judgments. The regulations shall provide that a 
+judgment for monetary damages may not be enforced except to the extent 
+that the damages claimed arise from the ship agency services of the 
+insured ship agent, as defined by the Commission.
+``Sec. 41004. Suspension or revocation of license
+    ``(a) Failure To Maintain Qualifications or To Comply.--The 
+Commission, after notice and opportunity for a hearing, shall suspend 
+or revoke a ship agent license if the Commission finds that the ship 
+agent--
+            ``(1) is not qualified to provide ship agency services; or
+            ``(2) willfully failed to comply with a provision of this 
+        part or with an order or regulation of the Commission.
+    ``(b) Failure To Maintain Bond, Proof of Insurance, or Other 
+Surety.--The Commission may revoke a ship agent license for failure to 
+maintain a bond, proof of insurance, or other surety as required by 
+section 41002(a) of this title.''.
+    (b) Conforming Amendments for Tables of Chapters.--The table of 
+chapters at the beginning of title 46, United States Code, and at the 
+beginning of subtitle IV of such title are each amended by inserting 
+after the item relating to chapter 409 the following:
+
+``410. Ship Agents..........................................  41001.''.
+                                 

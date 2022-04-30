@@ -1,0 +1,78 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7589 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7589
+
+ To amend title 38, United States Code, to prohibit the imposition or 
+  collection of copayments for certain mental health outpatient care 
+              visits of veterans, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 26, 2022
+
+  Mr. Takano introduced the following bill; which was referred to the 
+                     Committee on Veterans' Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend title 38, United States Code, to prohibit the imposition or 
+  collection of copayments for certain mental health outpatient care 
+              visits of veterans, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Reduce and Eliminate Mental Health 
+Outpatient Veteran Copays Act'' or the ``REMOVE Copays Act''.
+
+SEC. 2. PROHIBITION ON IMPOSITION OR COLLECTION OF COPAYMENTS FOR 
+              CERTAIN MENTAL HEALTH OUTPATIENT CARE VISITS OF VETERANS.
+
+    (a) Prohibition.--Section 1722B of title 38, United States Code, is 
+amended--
+            (1) in the section heading, by striking ``collection'' and 
+        all that follows through ``veterans'' and inserting ``and 
+        prohibition on collection of copayments for certain visits of 
+        veterans'';
+            (2) by striking ``The Secretary may'' and inserting ``(a) 
+        Telehealth and Telemedicine Visits.--The Secretary may''; and
+            (3) by adding at the end the following new subsection:
+    ``(b) Mental Health Outpatient Care Visits.--The Secretary may not 
+impose or collect any copayment under the laws administered by the 
+Secretary with respect to any veteran enrolled in the system of annual 
+patient enrollment established under section 1705(a) of this title for 
+the first three mental health outpatient care visits of the veteran in 
+a calendar year.''.
+    (b) Clerical Amendment.--The table of sections at the beginning of 
+chapter 17 of such title is amended by striking the item relating to 
+section 1722B and inserting the following new item:
+
+``1722B. Copayments: waiver of and prohibition on collection of 
+                            copayments for certain visits of 
+                            veterans.''.
+    (c) Applicability.--The amendments made by subsection (a) shall 
+apply with respect to mental health outpatient care visits occurring on 
+or after the date of the enactment of this Act.
+                                 

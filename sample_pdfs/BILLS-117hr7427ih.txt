@@ -1,0 +1,103 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7427 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7427
+
+To amend title XI of the Social Security Act to require CMI testing of 
+ incentive payments for behavioral health providers and certain other 
+ providers for adoption and use of certified electronic health record 
+                  technology, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 6, 2022
+
+  Ms. Matsui (for herself, Mr. Mullin, Ms. Davids of Kansas, and Mr. 
+    Estes) introduced the following bill; which was referred to the 
+ Committee on Energy and Commerce, and in addition to the Committee on 
+   Ways and Means, for a period to be subsequently determined by the 
+  Speaker, in each case for consideration of such provisions as fall 
+           within the jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend title XI of the Social Security Act to require CMI testing of 
+ incentive payments for behavioral health providers and certain other 
+ providers for adoption and use of certified electronic health record 
+                  technology, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. REQUIRING CMI TESTING OF INCENTIVE PAYMENTS FOR BEHAVIORAL 
+              HEALTH PROVIDERS AND CERTAIN OTHER PROVIDERS FOR ADOPTION 
+              AND USE OF CERTIFIED ELECTRONIC HEALTH RECORD TECHNOLOGY.
+
+    (a) In General.--Section 1115A(b)(2) of the Social Security Act (42 
+U.S.C. 1315a(b)(2)) is amended--
+            (1) in subparagraph (A), by inserting ``, except that the 
+        models selected under this subparagraph shall include the 
+        models described in subparagraph (B)(xxv) (with policy 
+        decisions regarding the scale of funding, number of behavioral 
+        health provider participants, and the length of the 
+        demonstration program to be determined by the Secretary)'' 
+        after ``subparagraph (B)'';
+            (2) in subparagraph (B)(xxv), by striking ``to improve 
+        quality and coordination'' and inserting ``and implementing 
+        interoperability projects provisions to improve the 
+        integration, quality, and coordination pursuant to Section 4003 
+        of the 21st Century Cures Act''; and
+            (3) by adding at the end the following flush left matter:
+                ``Behavioral health providers participating in models 
+                authorized under clause (xxv) shall not be eligible for 
+                health information technology incentive payments unless 
+                these providers demonstrate (through a process 
+                specified by the Secretary (such as the use of 
+                attestation)) that they have acquired health 
+                information systems that meet the 2015 Office of the 
+                National Coordinator certification standards and that 
+                such systems are fully compliant with regulations 
+                specified in the Interoperability and Patient Access 
+                Rule (42 C.F.R. 485; 45 C.F.R. 156).''.
+    (b) Behavioral IT Standards Development.--In developing models 
+described in section 1115A(b)(2)(B)(xxv) of the Social Security Act (42 
+U.S.C. 1315a(b)(2)(B)(xxv)), the Secretary of Health and Human Services 
+shall, acting through the Assistant Secretary for Mental Health and 
+Substance Use and the Director of the Office of the National 
+Coordinator for Health Information and in consultation with appropriate 
+stakeholders, develop voluntary standards for behavioral health 
+information technology that address issues such as privacy, minimum 
+clinical data standards, and sharing relevant patient health data 
+across the behavioral health care, primary health care, and specialty 
+health care systems.
+    (c) Funding.--Section 1115A(f)(1) of the Social Security Act (42 
+U.S.C. 1315a(f)(1)) is amended--
+            (1) in subparagraph (B), by striking ``and'' at the end;
+            (2) in subparagraph (C), by striking the period and 
+        inserting ``; and''; and
+            (3) by adding at the end the following new subparagraph:
+                    ``(D) in addition to any amounts made available 
+                under subparagraph (B), $250,000,000 for the period of 
+                fiscal years 2023 through 2025 for purposes of carrying 
+                out the model described in subsection 
+                (b)(2)(B)(xxv).''.
+                                 

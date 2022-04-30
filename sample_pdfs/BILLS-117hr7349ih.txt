@@ -1,0 +1,180 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7349 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7349
+
+ To amend the Workforce Innovation and Opportunity Act to identify or 
+      develop assessments to measure the prior knowledge, skills, 
+competencies, and experiences of an individual, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 31, 2022
+
+   Ms. Stefanik (for herself, Mr. Allen, Mrs. Steel, and Ms. Letlow) 
+ introduced the following bill; which was referred to the Committee on 
+                          Education and Labor
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Workforce Innovation and Opportunity Act to identify or 
+      develop assessments to measure the prior knowledge, skills, 
+competencies, and experiences of an individual, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Validate Prior Learning to 
+Accelerate Employment Act''.
+
+SEC. 2. ASSESSMENTS TO MEASURE THE PRIOR KNOWLEDGE, SKILLS, 
+              COMPETENCIES, AND EXPERIENCES OF AN INDIVIDUAL.
+
+    (a) Statewide Employment and Training Activities.--Section 
+134(a)(2)(B) of the Workforce Innovation and Opportunity Act (29 U.S.C. 
+3174(a)(2)(B)) is amended--
+            (1) in clause (v)(VI), by striking the ``and'' after the 
+        semicolon;
+            (2) in clause (vi), by striking the period at the end and 
+        inserting a semicolon; and
+            (3) by adding at the end the following:
+                            ``(vii) coordinating with industry 
+                        organizations, employers (including small and 
+                        mid-sized employers), training providers, local 
+                        boards, and institutions of higher education to 
+                        identify or develop assessments that--
+                                    ``(I) are a valid and reliable 
+                                method of collecting information; and
+                                    ``(II) measure the prior knowledge, 
+                                skills, competencies, and experiences 
+                                of an individual for the purpose of--
+                                            ``(aa) awarding 
+                                        postsecondary credit toward a 
+                                        recognized postsecondary 
+                                        credential aligned with in-
+                                        demand industry sectors and 
+                                        occupations in the State;
+                                            ``(bb) awarding a 
+                                        recognized postsecondary 
+                                        credential that is used by 
+                                        employers in the State for 
+                                        recruitment, hiring, retention, 
+                                        or advancement purposes;
+                                            ``(cc) developing 
+                                        individual employment plans 
+                                        that incorporate the prior 
+                                        knowledge, skills, 
+                                        competencies, and experiences 
+                                        of an individual to identify 
+                                        skills related to an in-demand 
+                                        industry sector or occupation 
+                                        and any upskilling needed to 
+                                        secure employment in such 
+                                        sector or occupation; and
+                                            ``(dd) helping individuals 
+                                        communicate their prior 
+                                        knowledge, skills, 
+                                        competencies, and experiences 
+                                        to prospective employers 
+                                        through skills-based profiles 
+                                        or portfolios; and
+                            ``(viii) disseminating to local areas 
+                        information relating to the assessments 
+                        identified or developed pursuant to clause 
+                        (vii), including--
+                                    ``(I) any recognized postsecondary 
+                                credential awarded through such an 
+                                assessment;
+                                    ``(II) the industry organizations, 
+                                employers, training providers, and 
+                                institutions of higher education 
+                                located within the State that recognize 
+                                the prior knowledge, skills, 
+                                competencies, and experiences of an 
+                                individual validated by such 
+                                assessments; and
+                                    ``(III) how such assessments may be 
+                                provided to, and accessed by, 
+                                individuals through the one-stop 
+                                delivery system.''.
+    (b) Allowable Statewide Employment and Training Activities.--
+Section 134(a)(3)(A) of the Workforce Innovation and Opportunity Act 
+(29 U.S.C. 3174(a)(3)(A)) is amended--
+            (1) in clause (xiii), by striking the ``and'' after the 
+        semicolon;
+            (2) in clause (xiv), by striking the period at the end and 
+        inserting a semicolon; and
+            (3) by adding at the end the following:
+                            ``(xv) identifying and providing to 
+                        employers information relating to best 
+                        practices on the use of assessments, including 
+                        such assessments developed or identified by the 
+                        State pursuant to paragraph (2)(B)(vii);
+                            ``(xvi) providing technical assistance to 
+                        employers seeking to use such assessments for 
+                        hiring, promotion, or upskilling of employees; 
+                        and
+                            ``(xvii) supporting employers in the State 
+                        seeking to implement a practice of hiring 
+                        individuals based on their prior knowledge, 
+                        skills, competencies, and experiences as an 
+                        alternative to relying on postsecondary degree 
+                        requirements in the hiring process.''.
+    (c) Authorized Local Employment and Training Activities.--Section 
+134(c)(2)(A)(iii) of the Workforce Innovation and Opportunity Act (29 
+U.S.C. 3174(c)(2)(A)(iii) is amended to read as follows:
+                            ``(iii) initial assessment of skill levels 
+                        (including literacy, numeracy, and English 
+                        language proficiency), aptitudes, abilities 
+                        (including skills gaps), and supportive service 
+                        needs, and a determination (considering factors 
+                        including prior work experience, military 
+                        service, life experience, or education history, 
+                        and in-demand industry sectors and occupations 
+                        in the local area) of whether such an 
+                        individual would benefit from an assessment 
+                        identified by the State pursuant to subsection 
+                        (a)(2)(B)(vii) to measure the individual's 
+                        prior knowledge, skills, competencies, and 
+                        experiences to accelerate the individual in 
+                        obtaining employment that leads to economic 
+                        self-sufficiency or career advancement;''.
+    (d) Permissible Local Employment and Training Activities.--Section 
+134(d)(1)(A) of the Workforce Innovation and Opportunity Act (29 U.S.C. 
+3174(d)(1)(A)) is amended--
+            (1) in clause (xi), by striking the ``and'' after the 
+        semicolon;
+            (2) in clause (xii), by striking the period at the end and 
+        inserting a semicolon; and
+            (3) by adding at the end the following:
+                            ``(xiii) assessments for individuals upon 
+                        initial assessment of skills (pursuant to 
+                        subsection (c)(2)(A)(iii)) or completion of 
+                        training services or other learning 
+                        experiences; and
+                            ``(xiv) providing technical assistance or 
+                        other support to employers seeking to use such 
+                        assessments for hiring, promotion, or 
+                        upskilling of employees.''.
+                                 

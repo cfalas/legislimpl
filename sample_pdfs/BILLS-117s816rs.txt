@@ -1,0 +1,677 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[S. 816 Reported in Senate (RS)]
+
+
+
+
+
+
+
+                                                       Calendar No. 318
+117th CONGRESS
+  2d Session
+                                 S. 816
+
+ To amend the Diplomatic Security Act of 1986 to provide for improved 
+   serious security incident investigations, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+               March 17 (legislative day, March 16), 2021
+
+   Mr. Risch introduced the following bill; which was read twice and 
+             referred to the Committee on Foreign Relations
+
+               April 4 (legislative day, March 31), 2022
+
+              Reported by Mr. Menendez, with an amendment
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Diplomatic Security Act of 1986 to provide for improved 
+   serious security incident investigations, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+&lt;DELETED&gt;SECTION 1. SHORT TITLE.&lt;/DELETED&gt;
+
+&lt;DELETED&gt;    This Act may be cited as the ``Diplomatic Support and 
+Security Act of 2021''.&lt;/DELETED&gt;
+
+&lt;DELETED&gt;SEC. 2. INVESTIGATION OF SERIOUS SECURITY INCIDENTS.&lt;/DELETED&gt;
+
+&lt;DELETED&gt;    Section 301 of the Diplomatic Security Act of 1986 (22 
+U.S.C. 4831) is amended--&lt;/DELETED&gt;
+        &lt;DELETED&gt;    (1) in the section heading, by striking 
+        ``accountability review boards'' and inserting ``investigation 
+        of serious security incidents'';&lt;/DELETED&gt;
+        &lt;DELETED&gt;    (2) in subsection (a)--&lt;/DELETED&gt;
+                &lt;DELETED&gt;    (A) by amending paragraph (1) to read as 
+                follows:&lt;/DELETED&gt;
+        &lt;DELETED&gt;    ``(1) Convening the serious security incident 
+        investigation permanent coordinating committee process.--
+        &lt;/DELETED&gt;
+                &lt;DELETED&gt;    ``(A) In general.--In any case of a 
+                serious security incident involving loss of life, 
+                serious injury, or significant destruction of property 
+                at, or related to, a United States Government (USG) 
+                diplomatic mission abroad, and in any case of a serious 
+                breach of security involving intelligence activities of 
+                a foreign government directed at a USG mission abroad, 
+                a Serious Security Incident Investigation (SSII) into 
+                the event shall be convened by the Department of State 
+                and a report produced for the Secretary providing a 
+                full account of what occurred, including--&lt;/DELETED&gt;
+                        &lt;DELETED&gt;    ``(i) whether security provisions 
+                        pertinent to the incident were in place and 
+                        functioning;&lt;/DELETED&gt;
+                        &lt;DELETED&gt;    ``(ii) whether any malfeasance or 
+                        breach of duty took place that materially 
+                        contributed to the outcome of the incident; 
+                        and&lt;/DELETED&gt;
+                        &lt;DELETED&gt;    ``(iii) any recommendations of 
+                        relevant security improvements or follow-up 
+                        measures.&lt;/DELETED&gt;
+                &lt;DELETED&gt;    ``(B) Exception.--A Serious Security 
+                Incident Investigation need not be convened where the 
+                Secretary determines that a case clearly involves only 
+                causes unrelated to security.'';&lt;/DELETED&gt;
+                &lt;DELETED&gt;    (B) in paragraph (2), by striking 
+                ``Board'' and inserting ``Serious Security Incident 
+                Investigation''; and&lt;/DELETED&gt;
+                &lt;DELETED&gt;    (C) by striking paragraph (3);&lt;/DELETED&gt;
+        &lt;DELETED&gt;    (3) in subsection (b)--&lt;/DELETED&gt;
+                &lt;DELETED&gt;    (A) in paragraph (1)--&lt;/DELETED&gt;
+                        &lt;DELETED&gt;    (i) by striking ``Except as'' and 
+                        all that follows through ``Board'' and 
+                        inserting ``The Secretary of State shall 
+                        convene a Serious Security Incident 
+                        Investigation and the subsequent Permanent 
+                        Coordinating Committee process (SSII/PCC)''; 
+                        and&lt;/DELETED&gt;
+                        &lt;DELETED&gt;    (ii) by striking ``for the 
+                        convening of the Board''; and&lt;/DELETED&gt;
+                &lt;DELETED&gt;    (B) in paragraph (2), by striking 
+                ``Board'' each place it appears and inserting ``SSII/
+                PCC''; and&lt;/DELETED&gt;
+        &lt;DELETED&gt;    (4) in subsection (c)--&lt;/DELETED&gt;
+                &lt;DELETED&gt;    (A) by striking ``Board'' and inserting 
+                ``Serious Security Incident Investigation and begins 
+                the SSII/PCC process'';&lt;/DELETED&gt;
+                &lt;DELETED&gt;    (B) by adding ``and ranking member'' after 
+                ``chairman''; and&lt;/DELETED&gt;
+                &lt;DELETED&gt;    (C) by striking ``Speaker'' and all that 
+                follows through the period at the end of paragraph (3) 
+                and inserting ``chairman and ranking member of the 
+                Committee of Foreign Affairs of the House of 
+                Representatives.''.&lt;/DELETED&gt;
+
+&lt;DELETED&gt;SEC. 3. SERIOUS SECURITY INCIDENT INVESTIGATION PERMANENT 
+              COORDINATING COMMITTEE.&lt;/DELETED&gt;
+
+&lt;DELETED&gt;    Section 302 of the Diplomatic Security Act of 1986 (22 
+U.S.C. 4832) is amended to read as follows:&lt;/DELETED&gt;
+
+&lt;DELETED&gt;``SEC. 302. SERIOUS SECURITY INCIDENT INVESTIGATION PERMANENT 
+              COORDINATING COMMITTEE.&lt;/DELETED&gt;
+
+&lt;DELETED&gt;    ``(a) Bureau of Diplomatic Security Responsibility for 
+Investigations.--The Bureau of Diplomatic Security shall be responsible 
+for carrying out investigations of serious security incidents, 
+utilizing such investigative personnel and other resources as may be 
+necessary.&lt;/DELETED&gt;
+&lt;DELETED&gt;    ``(b) Serious Security Incident Permanent Coordinating 
+Committee.--&lt;/DELETED&gt;
+        &lt;DELETED&gt;    ``(1) In general.--The Serious Security Incident 
+        Investigation Permanent Coordinating Committee (SSII/PCC) shall 
+        be convened to review each serious security incident. The SSII/
+        PCC shall review the Report of Investigation prepared under 
+        section 303(b) and any other available reporting and evidence, 
+        including video recordings, and shall prepare the SSII/PCC 
+        Report under section 304(b).&lt;/DELETED&gt;
+        &lt;DELETED&gt;    ``(2) Composition.--The SSII/PCC shall be 
+        primarily composed of Assistant Secretary-level personnel in 
+        the Department of State, and shall at a minimum include the 
+        following personnel:&lt;/DELETED&gt;
+                &lt;DELETED&gt;    ``(A) A representative of the Under 
+                Secretary of State for Management, who shall serve as 
+                chair of the SSII/PCC.&lt;/DELETED&gt;
+                &lt;DELETED&gt;    ``(B) The Assistant Secretary responsible 
+                for the region where the incident occurred.&lt;/DELETED&gt;
+                &lt;DELETED&gt;    ``(C) The Assistant Secretary for 
+                Diplomatic Security.&lt;/DELETED&gt;
+                &lt;DELETED&gt;    ``(D) The Assistant Secretary for the 
+                Bureau of Intelligence and Research.&lt;/DELETED&gt;
+                &lt;DELETED&gt;    ``(E) An Assistant Secretary-level 
+                representative from any involved United States 
+                Government department or agency.&lt;/DELETED&gt;
+                &lt;DELETED&gt;    ``(F) Other personnel as determined 
+                necessary or appropriate.&lt;/DELETED&gt;
+        &lt;DELETED&gt;    ``(3) Report.--The SSII/PCC shall, upon completing 
+        review of the Report of Investigation, submit to the Secretary 
+        of State a report on the incident and outcomes, including any 
+        recommendations related to preventing or responding to similar 
+        incidents.''.&lt;/DELETED&gt;
+
+&lt;DELETED&gt;SEC. 4. SERIOUS SECURITY INCIDENT INVESTIGATION 
+              PROCESS.&lt;/DELETED&gt;
+
+&lt;DELETED&gt;    Section 303 of the Diplomatic Security Act of 1986 (22 
+U.S.C. 4833) is amended to read as follows:&lt;/DELETED&gt;
+
+&lt;DELETED&gt;``SEC. 303. SERIOUS SECURITY INCIDENT INVESTIGATION 
+              PROCESS.&lt;/DELETED&gt;
+
+&lt;DELETED&gt;    ``(a) Investigation Process.--&lt;/DELETED&gt;
+        &lt;DELETED&gt;    ``(1) Initiation.--The Serious Security Incident 
+        Investigation process begins when a United States mission 
+        reports a serious security incident at the mission, including 
+        detailed information about the incident, within three days 
+        after it occurred.&lt;/DELETED&gt;
+        &lt;DELETED&gt;    ``(2) Investigation.--The Diplomatic Security 
+        Service shall assemble an investigative team to carry out the 
+        investigation of an incident reported under paragraph (1). The 
+        investigation shall cover the following matters:&lt;/DELETED&gt;
+                &lt;DELETED&gt;    ``(A) An assessment of what occurred, who 
+                perpetrated or is suspected of having perpetrated the 
+                attack, and whether applicable security procedures were 
+                followed.&lt;/DELETED&gt;
+                &lt;DELETED&gt;    ``(B) In the event the security incident 
+                was an attack on a United States diplomatic compound, 
+                motorcade, residence, or other facility, a 
+                determination whether adequate security countermeasures 
+                were in effect.&lt;/DELETED&gt;
+                &lt;DELETED&gt;    ``(C) If the incident was an attack on an 
+                individual or group of officers, employees, or family 
+                members under chief of mission authority conducting 
+                approved operations or movements outside the United 
+                States mission, a determination whether proper security 
+                briefings and procedures were in place and whether 
+                adequate consideration of threat and weighing of risk 
+                of the operation or movement took place.&lt;/DELETED&gt;
+                &lt;DELETED&gt;    ``(D) An assessment of whether any 
+                officials' or employees' failure to follow procedures 
+                or perform their duties contributed to the security 
+                incident.&lt;/DELETED&gt;
+&lt;DELETED&gt;    ``(b) Report of Investigation.--The investigative team 
+shall prepare a Report of Investigation at the conclusion of the 
+Serious Security Incident Investigation and submit the report to the 
+Serious Security Incident Investigation Permanent Coordinating 
+Committee (SSII/PCC). The report shall include the following 
+elements:&lt;/DELETED&gt;
+        &lt;DELETED&gt;    ``(1) A detailed description of the matters set 
+        forth in subparagraphs (A) through (D) of subsection (a)(2), 
+        including all related findings.&lt;/DELETED&gt;
+        &lt;DELETED&gt;    ``(2) An accurate account of the casualties, 
+        injured, and damage resulting from the incident.&lt;/DELETED&gt;
+        &lt;DELETED&gt;    ``(3) A review of security procedures and 
+        directives in place at the time of the incident.&lt;/DELETED&gt;
+&lt;DELETED&gt;    ``(c) Confidentiality.--The investigative team shall adopt 
+such procedures with respect to confidentiality as determined 
+necessary, including procedures relating to the conduct of closed 
+proceedings or the submission and use of evidence in camera, to ensure 
+in particular the protection of classified information relating to 
+national defense, foreign policy, or intelligence matters. The Director 
+of National Intelligence shall establish the level of protection 
+required for intelligence information and for information relating to 
+intelligence personnel included in the report under subsection (b). The 
+SSII/PCC shall determine the level of classification of the final 
+report prepared under section 304(b), but shall incorporate the same 
+confidentiality measures in such report to the maximum extent 
+practicable.''.&lt;/DELETED&gt;
+
+&lt;DELETED&gt;SEC. 5. FINDINGS AND RECOMMENDATIONS BY THE SERIOUS SECURITY 
+              INCIDENT INVESTIGATION PERMANENT COORDINATING 
+              COMMITTEE.&lt;/DELETED&gt;
+
+&lt;DELETED&gt;    Section 304 of the Diplomatic Security Act of 1986 (22 
+U.S.C. 4834) is amended to read as follows:&lt;/DELETED&gt;
+
+&lt;DELETED&gt;``SEC. 304. SERIOUS SECURITY INCIDENT INVESTIGATION PERMANENT 
+              COORDINATING COMMITTEE FINDINGS AND REPORT.&lt;/DELETED&gt;
+
+&lt;DELETED&gt;    ``(a) Findings.--The Serious Security Incident 
+Investigation Permanent Coordinating Committee (SSII/PCC) shall review 
+the Report of Investigation prepared under section 303(b), all other 
+evidence, reporting, and relevant information relating to a serious 
+security incident at a United States mission abroad, including an 
+examination of the facts and circumstances surrounding any serious 
+injuries, loss of life, or significant destruction of property 
+resulting from the incident and shall make the following written 
+findings:&lt;/DELETED&gt;
+        &lt;DELETED&gt;    ``(1) Whether the incident abroad was security 
+        related and constituted a serious security incident.&lt;/DELETED&gt;
+        &lt;DELETED&gt;    ``(2) If the incident involved a diplomatic 
+        compound, motorcade, residence, or other mission facility, 
+        whether the security systems, security countermeasures, and 
+        security procedures operated as intended, and whether such 
+        systems worked to materially mitigate the attack or were found 
+        to be inadequate to mitigate the threat and attack.&lt;/DELETED&gt;
+        &lt;DELETED&gt;    ``(3) If the incident involved an individual or 
+        group of officers conducting an approved operation outside the 
+        mission, a determination whether a valid process was followed 
+        in evaluating the requested operation and weighing the risk of 
+        the operation. Such determination shall not seek to assign 
+        accountability for the incident unless the SSII/PCC determines 
+        that an official breached their duty.&lt;/DELETED&gt;
+        &lt;DELETED&gt;    ``(4) An assessment of the impact of intelligence 
+        and information availability, and whether the mission was aware 
+        of the general operating threat environment or any more 
+        specific threat intelligence or information and took that into 
+        account in ongoing and specific operations.&lt;/DELETED&gt;
+        &lt;DELETED&gt;    ``(5) Such other facts and circumstances that may 
+        be relevant to the appropriate security management of United 
+        States missions abroad.&lt;/DELETED&gt;
+&lt;DELETED&gt;    ``(b) SSII/PCC Report.--Not later than 30 days after 
+receiving the Report of Investigation prepared under section 303(b), 
+the SSII/PCC shall submit a report to the Secretary of State including 
+the findings under subsection (a) and any related recommendations. Not 
+later than 90 days after receiving the report, the Secretary of State 
+shall submit the report to the Committee on Foreign Relations of the 
+Senate and the Committee on Foreign Affairs of the House of 
+Representatives.&lt;/DELETED&gt;
+&lt;DELETED&gt;    ``(c) Personnel Recommendations.--If in the course of 
+conducting an investigation under section 303, the investigative team 
+finds reasonable cause to believe any individual described in section 
+303(a)(2)(D) has breached the duty of that individual or finds lesser 
+failures on the part of an individual in the performance of his or her 
+duties related to the incident, it shall be reported to the SSII/PCC. 
+If the SSII/PCC find reasonable cause to support the determination, it 
+shall be reported to the Director General of the Foreign Service for 
+appropriate action.''.&lt;/DELETED&gt;
+
+&lt;DELETED&gt;SEC. 6. RELATION TO OTHER PROCEEDINGS.&lt;/DELETED&gt;
+
+&lt;DELETED&gt;    Section 305 of the Diplomatic Security Act of 1986 (22 
+U.S.C. 4835) is amended--&lt;/DELETED&gt;
+        &lt;DELETED&gt;    (1) by inserting ``(a) No Effect on Existing 
+        Remedies or Defenses.--'' before ``Nothing in this title''; 
+        and&lt;/DELETED&gt;
+        &lt;DELETED&gt;    (2) by adding at the end the following new 
+        subsection:&lt;/DELETED&gt;
+&lt;DELETED&gt;    ``(b) Future Inquiries.--Nothing in this title shall be 
+construed to preclude the Secretary of State from convening a follow-up 
+public board of inquiry to investigate any security incident if the 
+incident was of such magnitude or significance that an internal process 
+is deemed insufficient to understand and investigate the incident. All 
+materials gathered during the procedures provided under this title 
+shall be provided to any related board of inquiry convened by the 
+Secretary.''.&lt;/DELETED&gt;
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Diplomatic Support and Security Act 
+of 2022''.
+
+SEC. 2. FINDINGS.
+
+    Congress makes the following findings:
+            (1) A robust overseas diplomatic presence is part of an 
+        effective foreign policy, particularly in volatile environments 
+        where a flexible and timely diplomatic response can be decisive 
+        in preventing and addressing conflict.
+            (2) Diplomats routinely put themselves and their families 
+        at great personal risk to serve their country overseas where 
+        they face threats related to international terrorism, violent 
+        conflict, and public health, among others.
+            (3) The Department of State has a remarkable record of 
+        protecting personnel while enabling an enormous amount of 
+        global diplomatic activity, often in unsecure and remote places 
+        and facing a variety of evolving risks and threats. With 
+        support from Congress, the Department of State has revised 
+        policy, improved physical security through retrofitting and 
+        replacing old facilities, deployed additional security 
+        personnel and armored vehicles, and greatly enhanced training 
+        requirements and facilities, including the new Foreign Affairs 
+        Security Training Center in Blackstone, Virginia.
+            (4) Diplomatic missions rely on robust staffing and 
+        ambitious external engagement to advance United States 
+        interests as diverse as competing with China's malign influence 
+        around the world, fighting terrorism and transnational 
+        organized crime, preventing and addressing violent conflict and 
+        humanitarian disasters, promoting United States businesses and 
+        trade, protecting the rights of marginalized groups, addressing 
+        climate change, and preventing pandemic disease.
+            (5) However, efforts to protect personnel overseas have 
+        often resulted in inhibiting diplomatic activity and limiting 
+        engagement between embassy personnel and local governments and 
+        populations.
+            (6) Given that Congress currently provides annual 
+        appropriations in excess of $1,900,000,000 for embassy 
+        security, construction, and maintenance, the Department of 
+        State should be able ensure a robust overseas presence without 
+        inhibiting the ability of diplomats to--
+                    (A) meet outside United States secured facilities 
+                with foreign leaders to explain, defend, and advance 
+                United States priorities;
+                    (B) understand and report on foreign political, 
+                social, and economic conditions through meeting and 
+                interacting with community officials outside of United 
+                States facilities;
+                    (C) provide United States citizen services; and
+                    (D) collaborate and, at times, compete with other 
+                diplomatic missions, particularly those, such as the 
+                People's Republic of China, that do not restrictions on 
+                meeting locations.
+            (7) Given these stakes, Congress has a responsibility to 
+        empower, support, and hold the Department of State accountable 
+        for implementing an aggressive strategy to ensure a robust 
+        overseas presence that mitigates potential risks and adequately 
+        considers the myriad direct and indirect consequences of a lack 
+        of diplomatic presence.
+
+SEC. 3. ENCOURAGING EXPEDITIONARY DIPLOMACY.
+
+    (a) Purpose.--Subsection (b) of section 102 of the Diplomatic 
+Security Act (22 U.S.C. 4801(b)) is amended--
+            (1) by amending paragraph (3) to read as follows:
+            ``(3) to promote strengthened security measures, 
+        institutionalize a culture of learning, and, in the case of 
+        apparent gross negligence or breach of duty, recommend that the 
+        Secretary investigate accountability for United States 
+        Government personnel with security-related responsibilities;'';
+            (2) by redesignating paragraphs (4) and (5) as paragraphs 
+        (5) and (6), respectively; and
+            (3) by inserting after paragraph (3) the following new 
+        paragraph:
+            ``(4) to support a culture of risk management, instead of 
+        risk avoidance, that enables the Department of State to pursue 
+        its vital goals with full knowledge that it is not desirable 
+        nor possible for the Department to avoid all risks;''.
+    (b) Briefings on Embassy Security.--Section 105(a) of the 
+Diplomatic Security Act (22 U.S.C. 4804(a)) is amended in paragraph 
+(1)--
+            (1) by striking ``any plans to open or reopen a high risk, 
+        high threat post'' and inserting ``progress towards opening or 
+        reopening high risk, high threat post, and the risk to national 
+        security of the continued closure or any suspension of 
+        operations and remaining barriers to doing so'';
+            (2) in subparagraph (A), by inserting ``the risk to United 
+        States national security of the post's continued closure or 
+        suspension of operations,'' after ``national security of the 
+        United States,''; and
+            (3) in subparagraph (C), by inserting ``the type and level 
+        of security threats such post could encounter, and'' before 
+        ``security `tripwires'''.
+
+SEC. 4. SECURITY REVIEW COMMITTEES.
+
+    (a) In General.--Section 301 of the Diplomatic Security Act of 1986 
+(22 U.S.C. 4831) is amended--
+            (1) in the section heading, by striking ``accountability 
+        review boards'' and inserting ``security review committees'';
+            (2) in subsection (a)--
+                    (A) by amending paragraph (1) to read as follows:
+            ``(1) Convening the security review committee.--In any case 
+        of a serious security incident involving loss of life, serious 
+        injury, or significant destruction of property at, or related 
+        to, a United States Government diplomatic mission abroad (a 
+        `Serious Security Incident'), and in any case of a serious 
+        breach of security involving intelligence activities of a 
+        foreign government directed at a United States Government 
+        mission abroad, the Secretary of State shall convene a Security 
+        Review Committee (SRC), which shall issue a report providing a 
+        full account of what occurred, consistent with section 304.'';
+                    (B) by redesignating paragraphs (2) and (3) as 
+                paragraphs (3) and (4), respectively;
+                    (C) by inserting after paragraph (1) the following 
+                new paragraph:
+            ``(2) Committee composition.--The Secretary shall designate 
+        a Chairperson and may designate additional personnel of 
+        commensurate seniority to serve on the SRC. Members of the SRC 
+        shall, at a minimum, include the following personnel:
+                    ``(A) The Director of the Office of Management 
+                Strategy and Solutions (M/SS).
+                    ``(B) The Assistant Secretary responsible for the 
+                region where the incident occurred.
+                    ``(C) The Assistant Secretary for Diplomatic 
+                Security.
+                    ``(D) The Assistant Secretary for the Bureau of 
+                Intelligence and Research.
+                    ``(E) An Assistant Secretary-level representative 
+                from any involved United States Government department 
+                or agency.
+                    ``(F) Other personnel as determined necessary or 
+                appropriate.'';
+                    (D) in paragraph (3), as redesignated by 
+                subparagraph (B)--
+                            (i) in the paragraph heading, by striking 
+                        ``Department of defense facilities and 
+                        personnel'' and inserting ``Exceptions to 
+                        convening an src'';
+                            (ii) by striking ``The Secretary of State'' 
+                        and all that follows through ``convene a Board 
+                        in the case'' and inserting the following:
+                    ``(A) In general.--The Secretary of State is not 
+                required to convene an SRC--
+                            ``(i) if the Secretary determines that the 
+                        incident involves only causes unrelated to 
+                        security, such as when the security at issue is 
+                        outside of the scope of the Secretary of 
+                        State's security responsibility as defined in 
+                        section 103;
+                            ``(ii) in a case where operational control 
+                        of overseas security functions has been 
+                        delegated to another agency consistent with 
+                        section 106;
+                            ``(iii) if the incident is a cybersecurity 
+                        incident and is covered by other review 
+                        mechanisms; or
+                            ``(iv) in the case''; and
+                            (iii) by striking ``In any such case'' and 
+                        inserting the following:
+                    ``(B) Department of defense investigations.--In the 
+                case of an incident described in subparagraph 
+                (A)(iv)''; and
+                    (E) by adding at the end the following new 
+                paragraph:
+            ``(5) Regulations.--The Secretary of State shall promulgate 
+        regulations defining the membership and operating procedures 
+        for the SRC and provide such guidance to the Chairmen and 
+        ranking members of the Committee on Foreign Relations of the 
+        Senate and the Committee on Foreign Affairs of the House of 
+        Representatives.'';
+            (3) in subsection (b)--
+                    (A) in the subsection heading, by striking 
+                ``Boards'' and inserting ``SRCs''; and
+                    (B) by amending paragraph (1) to read as follows:
+            ``(1) In general.--The Secretary of State shall convene an 
+        SRC not later than 60 days after the occurrence of an incident 
+        described in subsection (a)(1), or 60 days after the Department 
+        first becomes aware of such an incident, whichever is earlier, 
+        except that the 60-day period for convening an SRC may be 
+        extended for one additional 60-day period if the Secretary 
+        determines that the additional period is necessary.''; and
+            (4) in subsection (c)--
+                    (A) by striking ``convenes a Board'' and inserting 
+                ``convenes an SRC'';
+                    (B) by inserting ``and ranking member'' after 
+                ``chairman''; and
+                    (C) by striking ``Speaker'' and all that follows 
+                through the period at the end of paragraph (3) and 
+                inserting ``chairman and ranking member of the 
+                Committee of Foreign Affairs of the House of 
+                Representatives.''.
+    (b) Technical and Conforming Amendments.--Section 302 of the 
+Diplomatic Security Act (22 U.S.C. 4832) is amended--
+            (1) in the section heading, by striking ``accountability 
+        review board'' and inserting ``security review committee''; and
+            (2) by striking ``a Board'' each place it appears and 
+        inserting ``an SRC''.
+
+SEC. 5. SERIOUS SECURITY INCIDENT INVESTIGATION PROCESS.
+
+    Section 303 of the Diplomatic Security Act of 1986 (22 U.S.C. 4833) 
+is amended to read as follows:
+
+``SEC. 303. SERIOUS SECURITY INCIDENT INVESTIGATION PROCESS.
+
+    ``(a) Investigation Process.--
+            ``(1) Initiation upon reported incident.--An investigation 
+        of a Serious Security Incident, as described in section 
+        301(a)(1), shall begin when a United States mission reports a 
+        Serious Security Incident at the mission. Such a report shall 
+        include an initial report of the incident and shall be made 
+        within three days of the incident, when feasible.
+            ``(2) Investigation.--Not later than 10 days following a 
+        report under paragraph (1), the Secretary shall direct the 
+        Diplomatic Security Service to assemble an investigative team 
+        to investigate the incident and independently establish what 
+        occurred. The investigation shall cover--
+                    ``(A) an assessment of what occurred, who 
+                perpetrated or is suspected of having perpetrated the 
+                serious security incident, and whether applicable 
+                security procedures were followed;
+                    ``(B) in the event the Serious Security Incident 
+                involved a United States diplomatic compound, 
+                motorcade, residence, or other facility, an assessment 
+                of whether adequate security countermeasures were in 
+                effect based on known threat at the time of the 
+                incident;
+                    ``(C) if the incident involved an individual or 
+                group of officers, employees, or family members under 
+                chief of mission security responsibility conducting 
+                approved operations or movements outside the United 
+                States mission, an assessment of whether proper 
+                security briefings and procedures were in place and 
+                weighing of risk of the operation or movement took 
+                place; and
+                    ``(D) an assessment of whether the failure of any 
+                officials or employees to follow procedures or perform 
+                their duties contributed to the security incident.
+            ``(3) Investigative team.--The investigative team shall 
+        consist of individuals from the Diplomatic Security Service who 
+        shall provide an independent examination of the facts 
+        surrounding the incident and what occurred. The Secretary or 
+        the Secretary's designee shall review the makeup of the 
+        investigative team for a conflict, appearance of conflict, or 
+        lack of independence that could undermine the results of the 
+        investigation and may remove or replace any members of the team 
+        to avoid such an outcome.
+    ``(b) Report of Investigation.--The investigative team shall 
+prepare a Report of Investigation at the conclusion of the 
+investigation and submit the report to the SRC no later than 90 days 
+after the occurrence of a Serious Security Incident. The report shall 
+include the following elements:
+            ``(1) A detailed description of the matters set forth in 
+        subparagraphs (A) through (D) of subsection (a)(2), including 
+        all related findings.
+            ``(2) A complete and an accurate account of the casualties, 
+        injuries, and damage resulting from the incident.
+            ``(3) A review of security procedures and directives in 
+        place at the time of the incident.
+    ``(c) Confidentiality.--The investigative team shall adopt such 
+procedures with respect to confidentiality as determined necessary, 
+including procedures relating to the conduct of closed proceedings or 
+the submission and use of evidence in camera, to ensure in particular 
+the protection of classified information relating to national defense, 
+foreign policy, or intelligence matters. The Director of National 
+Intelligence shall establish the level of protection required for 
+intelligence information and for information relating to intelligence 
+personnel included in the report under subsection (b). The SRC shall 
+determine the level of classification of the final report prepared 
+under section 304(b), but shall incorporate the same confidentiality 
+measures in such report to the maximum extent practicable.''.
+
+SEC. 6. FINDINGS AND RECOMMENDATIONS BY THE SECURITY REVIEW COMMITTEE.
+
+    Section 304 of the Diplomatic Security Act of 1986 (22 U.S.C. 4834) 
+is amended to read as follows:
+
+``SEC. 304. SECURITY REVIEW COMMITTEE FINDINGS AND REPORT.
+
+    ``(a) Findings.--The Security Review Committee shall review the 
+Report of Investigation prepared under section 303(b), all other 
+evidence, reporting, and relevant information relating to a serious 
+security incident at a United States mission abroad, including an 
+examination of the facts and circumstances surrounding any serious 
+injuries, loss of life, or significant destruction of property 
+resulting from the incident and shall make the following written 
+findings:
+            ``(1) Whether the incident was security related and 
+        constituted a serious security incident.
+            ``(2) If the incident involved a diplomatic compound, 
+        motorcade, residence, or other mission facility, whether the 
+        security systems, security countermeasures, and security 
+        procedures operated as intended, and whether such systems 
+        worked to materially mitigate the attack or were found to be 
+        inadequate to mitigate the threat and attack.
+            ``(3) If the incident involved an individual or group of 
+        officers conducting an approved operation outside the mission, 
+        a determination whether a valid process was followed in 
+        evaluating the requested operation and weighing the risk of the 
+        operation. Such determination shall not seek to assign 
+        accountability for the incident unless the SRC determines that 
+        an official breached their duty.
+            ``(4) An assessment of the impact of intelligence and 
+        information availability, and whether the mission was aware of 
+        the general operating threat environment or any more specific 
+        threat intelligence or information and took that into account 
+        in ongoing and specific operations.
+            ``(5) Such other facts and circumstances that may be 
+        relevant to the appropriate security management of United 
+        States missions abroad.
+    ``(b) SRC Report.--Not later than 60 days after receiving the 
+Report of Investigation prepared under section 303(b), the SRC shall 
+submit a report to the Secretary of State including the findings under 
+subsection (a) and any related recommendations. Not later than 90 days 
+after receiving the report, the Secretary of State shall submit the 
+report to the Committee on Foreign Relations of the Senate and the 
+Committee on Foreign Affairs of the House of Representatives.
+    ``(c) Personnel Recommendations.--If in the course of conducting an 
+investigation under section 303, the investigative team finds 
+reasonable cause to believe any individual described in section 
+303(a)(2)(D) has breached the duty of that individual or finds lesser 
+failures on the part of an individual in the performance of his or her 
+duties related to the incident, it shall be reported to the SRC. If the 
+SRC find reasonable cause to support the determination, it shall be 
+reported to the Secretary for appropriate action.''.
+
+SEC. 7. RELATION TO OTHER PROCEEDINGS.
+
+    Section 305 of the Diplomatic Security Act of 1986 (22 U.S.C. 4835) 
+is amended--
+            (1) by inserting ``(a) No Effect on Existing Remedies or 
+        Defenses.--'' before ``Nothing in this title''; and
+            (2) by adding at the end the following new subsection:
+    ``(b) Future Inquiries.--Nothing in this title shall be construed 
+to preclude the Secretary of State from convening a follow-up public 
+board of inquiry to investigate any security incident if the incident 
+was of such magnitude or significance that an internal process is 
+deemed insufficient to understand and investigate the incident. All 
+materials gathered during the procedures provided under this title 
+shall be provided to any related board of inquiry convened by the 
+Secretary.''.
+                                                       Calendar No. 318
+
+117th CONGRESS
+
+  2d Session
+
+                                 S. 816
+
+_______________________________________________________________________
+
+                                 A BILL
+
+ To amend the Diplomatic Security Act of 1986 to provide for improved 
+   serious security incident investigations, and for other purposes.
+
+_______________________________________________________________________
+
+               April 4 (legislative day, March 31), 2022
+
+                       Reported with an amendment

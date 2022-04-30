@@ -1,0 +1,185 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 4476 Referred in Senate (RFS)]
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 4476
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             April 6, 2022
+
+     Received; read twice and referred to the Committee on Homeland 
+                   Security and Governmental Affairs
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+   To establish the Department of Homeland Security (DHS) Trade and 
+ Economic Security Council and the position of Assistant Secretary for 
+Trade and Economic Security within the Department of Homeland Security, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``DHS Trade and Economic Security 
+Council Act of 2021''.
+
+SEC. 2. DHS TRADE AND ECONOMIC SECURITY COUNCIL.
+
+    (a) In General.--Subtitle H of title VIII of the Homeland Security 
+Act of 2002 (6 U.S.C. 451 et seq.) is amended by adding at the end the 
+following new section:
+
+``SEC. 890B. DHS TRADE AND ECONOMIC SECURITY COUNCIL.
+
+    ``(a) Establishment.--There is established in the Department the 
+DHS Trade and Economic Security Council (referred to in this section as 
+the `Council').
+    ``(b) Duties of the Council.--The Council shall provide to the 
+Secretary advice and recommendations on matters of trade and economic 
+security, including--
+            ``(1) identifying concentrated risks for trade and economic 
+        security;
+            ``(2) setting priorities for securing the Nation's trade 
+        and economic security;
+            ``(3) coordinating Department-wide activity on trade and 
+        economic security matters;
+            ``(4) with respect to the President's continuity of the 
+        economy plan under section 9603 of the William M. (Mac) 
+        Thornberry National Defense Authorization Act of Fiscal Year 
+        2021;
+            ``(5) proposing statutory and regulatory changes impacting 
+        trade and economic security; and
+            ``(6) any other matters the Secretary considers 
+        appropriate.
+    ``(c) Membership.--
+            ``(1) In general.--The Council shall be composed of the 
+        following members:
+                    ``(A) The Assistant Secretary for Trade and 
+                Economic Security of the Office of Strategy, Policy, 
+                and Plans of the Department.
+                    ``(B) An officer or an employee, selected by the 
+                Secretary, from each of the following components and 
+                offices of the Department:
+                            ``(i) The Cybersecurity and Infrastructure 
+                        Security Agency.
+                            ``(ii) The Federal Emergency Management 
+                        Agency.
+                            ``(iii) The Office of Intelligence and 
+                        Analysis.
+                            ``(iv) The Science and Technology 
+                        Directorate.
+                            ``(v) United States Citizenship and 
+                        Immigration Services.
+                            ``(vi) The Coast Guard.
+                            ``(vii) U.S. Customs and Border Protection.
+                            ``(viii) U.S. Immigration and Customs 
+                        Enforcement.
+                            ``(ix) The Transportation Security 
+                        Administration.
+            ``(2) Chair and vice chair.--The Assistant Secretary for 
+        Trade and Economic Security shall serve as Chair of the 
+        Council. The Assistant Secretary for Trade and Economic 
+        Security may designate a Council member as a Vice Chair.
+    ``(d) Meetings.--The Council shall meet not less frequently than 
+quarterly, as well as--
+            ``(1) at the call of the Chair; or
+            ``(2) at the direction of the Secretary.
+    ``(e) Briefings.--Not later than 180 days after the date of the 
+enactment of this section and every six months thereafter for four 
+years, the Council shall brief the Committee on Homeland Security of 
+the House of Representatives and the Committee on Homeland Security and 
+Governmental Affairs of the Senate on the actions and activities of the 
+Council.
+    ``(f) Definition.--In this section, the term `economic security' 
+means the condition of having secure and resilient domestic production 
+capacity combined with reliable access to the global resources 
+necessary to maintain an acceptable standard of living and protect core 
+national values.''.
+    (b) Clerical Amendment.--The table of contents in section 1(b) of 
+the Homeland Security Act of 2002 is amended by inserting after the 
+item relating to section 890A the following new item:
+
+``Sec. 890B. DHS Trade and Economic Security Council.''.
+
+SEC. 3. ASSISTANT SECRETARY FOR TRADE AND ECONOMIC SECURITY.
+
+    Section 709 of the Homeland Security Act of 2002 (6 U.S.C. 349) is 
+amended--
+            (1) by redesignating subsection (g) as subsection (h); and
+            (2) by inserting after subsection (f) the following new 
+        subsection:
+    ``(g) Assistant Secretary for Trade and Economic Security.--
+            ``(1) In general.--There is within the Office of Strategy, 
+        Policy, and Plans an Assistant Secretary for Trade and Economic 
+        Security.
+            ``(2) Duties.--The Assistant Secretary for Trade and 
+        Economic Security shall be responsible for policy formulation 
+        regarding matters relating to economic security and trade, as 
+        such matters relate to the mission and the operations of the 
+        Department.
+            ``(3) Additional responsibilities.--In addition to the 
+        duties specified in paragraph (2), the Assistant Secretary for 
+        Trade and Economic Security shall--
+                    ``(A) oversee--
+                            ``(i) the activities and enhancements of 
+                        requirements for supply chain mapping not 
+                        otherwise assigned by law or by the Secretary 
+                        to another officer; and
+                            ``(ii) assessments and reports to Congress 
+                        related to critical economic security domains;
+                    ``(B) serve as the executive for the Department on 
+                the Committee on Foreign Investment in the United 
+                States (CFIUS), the Committee for the Assessment of 
+                Foreign Participation in the United States 
+                Telecommunications Services Sector, and the Federal 
+                Acquisition Security Council (in addition to any 
+                position on such Council occupied by a representative 
+                of the Cybersecurity and Infrastructure Security Agency 
+                of the Department);
+                    ``(C) coordinate with stakeholders in other Federal 
+                departments and agencies and non-governmental entities 
+                with trade and economic security interests, 
+                authorities, and responsibilities; and
+                    ``(D) perform such additional duties as the 
+                Secretary or the Under Secretary of Strategy, Policy, 
+                and Plans may prescribe.
+            ``(4) Definitions.--In this subsection:
+                    ``(A) Critical economic security domain.--The term 
+                `critical economic security domain' means any 
+                infrastructure, industry, technology, or intellectual 
+                property (or combination thereof) that is essential for 
+                the economic security of the United States.
+                    ``(B) Economic security.--The term `economic 
+                security' has the meaning given such term in section 
+                890B.''.
+
+SEC. 4. AUTHORIZATION OF APPROPRIATIONS.
+
+    There are authorized to be appropriated to the Secretary of 
+Homeland Security $3,000,000 for each of fiscal years 2022 through 2026 
+to carry out section 890B and subsection (g) of section 709 of the 
+Homeland Security Act of 2002, as added and inserted, respectively, by 
+sections 2 and 3 of this Act.
+
+            Passed the House of Representatives April 5, 2022.
+
+            Attest:
+
+                                             CHERYL L. JOHNSON,
+
+                                                                 Clerk.

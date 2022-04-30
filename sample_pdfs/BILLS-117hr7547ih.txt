@@ -1,0 +1,142 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7547 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7547
+
+ To amend the Internal Revenue Code of 1986 to impose excise taxes on 
+                        passenger space travel.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 21, 2022
+
+Mr. Blumenauer introduced the following bill; which was referred to the 
+                      Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Internal Revenue Code of 1986 to impose excise taxes on 
+                        passenger space travel.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Securing Protections Against Carbon 
+Emissions Tax Act'' or as the ``SPACE Tax Act''.
+
+SEC. 2. EXCISE TAXES ON PASSENGER SPACE TRAVEL.
+
+    (a) In General.--Chapter 33 of the Internal Revenue Code of 1986 is 
+amended by inserting after subchapter C the following new subchapter:
+
+                 ``Subchapter D--Passenger Space Travel
+
+``Sec. 4285. Passenger tax.
+``Sec. 4286. Launch tax.
+``Sec. 4287. Definitions and special rules.
+
+``SEC. 4285. PASSENGER TAX.
+
+    ``(a) In General.--There is hereby imposed on the amount paid for 
+taxable space transportation of any non-exempt person a tax equal to 10 
+percent of the amount so paid.
+    ``(b) By Whom Paid.--The taxes imposed by this section shall be 
+paid by the person making the payment subject to tax.
+    ``(c) Taxable Space Transportation.--For purposes of this section, 
+the term `taxable space transportation' means transportation on any 
+space vehicle if the launch or reentry of such vehicle is required to 
+be licensed under chapter 509 of title 51, United States Code.
+
+``SEC. 4286. LAUNCH TAX.
+
+    ``(a) In General.--There is hereby imposed on each taxable space 
+launch a tax equal to--
+            ``(1) $2,000,000 if any portion of the intentional flight 
+        path of any passenger-carrying portion of the space vehicle is 
+        other than a suborbital trajectory, and
+            ``(2) $100,000 in any other case.
+    ``(b) By Whom Paid.--The tax imposed by this section shall be paid 
+by the person which obtains (or is required to obtain) the license 
+described in subsection (c)(1).
+    ``(c) Taxable Space Launch.--For purposes of this section, the term 
+`taxable space launch' means any launch of a space vehicle if--
+            ``(1) such launch is required to be licensed under chapter 
+        509 of title 51, United States Code, and
+            ``(2) one or more non-exempt persons are transported by 
+        such vehicle.
+    ``(d) Treatment of Launch and Reentry Vehicles Which Are Launched 
+Together.--A launch vehicle and a reentry vehicle which are launched 
+together shall be treated as a single space vehicle for purposes of 
+this section.
+    ``(e) Inflation Adjustment.--In the case of any calendar year after 
+2022, each dollar amount in subsection (a) shall be increased by an 
+amount equal to--
+            ``(1) such dollar amount, multiplied by
+            ``(2) the cost-of-living adjustment determined under 
+        section 1(f)(3) for such calendar year, determined by 
+        substituting `calendar year 2021' for `calendar year 2016' in 
+        subparagraph (A)(ii) thereof.
+Any increase determined under the preceding sentence shall be rounded 
+to the nearest dollar.
+
+``SEC. 4287. DEFINITIONS AND SPECIAL RULES.
+
+    ``(a) Definitions.--For purposes of this chapter--
+            ``(1) Space vehicle.--The term `space vehicle' means any 
+        launch vehicle and any reentry vehicle.
+            ``(2) Non-exempt person.--The term `non-exempt person' 
+        means any person other than--
+                    ``(A) crew, or
+                    ``(B) a government astronaut.
+            ``(3) Other terms.--The following terms shall have the same 
+        meaning given such terms in section 50902 of title 51, United 
+        States Code:
+                    ``(A) Crew, except that in no event shall a person 
+                be treated as crew for purposes of this chapter if the 
+                amount which would be subject to tax under section 4285 
+                if such person was not so treated exceeds the amount of 
+                compensation that such person receives for services as 
+                crew.
+                    ``(B) Government astronaut.
+                    ``(C) Launch vehicle.
+                    ``(D) Reentry vehicle.
+                    ``(E) Suborbital trajectory.
+    ``(b) Regulatory Authority.--The Secretary may issue such 
+regulation or other guidance as the Secretary determines necessary or 
+appropriate to carry out the purposes of this subchapter, including 
+rules similar to the rules of subsections (a), (b), (c), and (d) of 
+section 4263 with respect to the taxes imposed by section 4285.''.
+    (b) Credit or Refund to Certain Persons Collecting Passenger Tax.--
+Section 6415 of such Code is amended by striking ``or 4271'' inserting 
+``4271, or 4285''.
+    (c) Clerical Amendment.--The table of subchapters for chapter 33 of 
+such Code is amended by inserting after the item relating to subchapter 
+C the following new item:
+
+               ``subchapter d. passenger space travel.''.
+
+    (d) Effective Date.--The amendments made by this section shall 
+apply to calendar quarters beginning more than 60 days after the date 
+of the enactment of this Act.
+                                 

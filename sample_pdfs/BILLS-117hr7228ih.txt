@@ -1,0 +1,75 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7228 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7228
+
+  To amend the Securities Exchange Act of 1934 to require issuers to 
+disclose whether they do business in, or with Russia or other aggressor 
+                    nations, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 24, 2022
+
+    Mr. Torres of New York introduced the following bill; which was 
+            referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Securities Exchange Act of 1934 to require issuers to 
+disclose whether they do business in, or with Russia or other aggressor 
+                    nations, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Reveal Risky Business in Russia 
+Act''.
+
+SEC. 2. DISCLOSURE OF BUSINESS TIES TO RUSSIA OR OTHER AGGRESSOR 
+              NATIONS.
+
+    Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) 
+is amended by adding at the end the following:
+    ``(s) Disclosure of Business Ties to Russia or Other Aggressor 
+Nations.--
+            ``(1) In general.--Each issuer required to file an annual 
+        or quarterly report under subsection (a) shall disclose in that 
+        report whether the issuer does business in or with--
+                    ``(A) Russia; or
+                    ``(B) any country that, after March 24, 2022, 
+                invades a sovereign nation state or annexes sovereign 
+                territory in an unprovoked war of aggression.
+            ``(2) Termination.--The requirements under paragraph (1) 
+        shall cease to have any force or effect on the earlier of--
+                    ``(A) the date that is 5 years after the date of 
+                enactment of this subsection; and
+                    ``(B) the date on which the Commission--
+                            ``(i) determines that such requirements are 
+                        not in the public interest or for the 
+                        protection of investors; and
+                            ``(ii) notifies the Congress of such 
+                        determination, and makes such determination 
+                        available to the public.''.
+                                 

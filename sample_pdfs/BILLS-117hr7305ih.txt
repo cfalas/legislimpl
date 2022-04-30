@@ -1,0 +1,99 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7305 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7305
+
+To amend the Internal Revenue Code of 1986 to establish a deduction for 
+ attorney fees awarded with respect to certain wildfire damages and to 
+  exclude from gross income settlement funds received with respect to 
+                             such damages.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 30, 2022
+
+Mr. Thompson of California (for himself and Mr. LaMalfa) introduced the 
+ following bill; which was referred to the Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Internal Revenue Code of 1986 to establish a deduction for 
+ attorney fees awarded with respect to certain wildfire damages and to 
+  exclude from gross income settlement funds received with respect to 
+                             such damages.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. ABOVE THE LINE DEDUCTION FOR ATTORNEY FEES RELATING TO 
+              AWARDS FOR PROPERTY DAMAGE DUE TO CERTAIN WILDFIRES.
+
+    (a) In General.--Section 62(a) of the Internal Revenue Code of 1986 
+is amended by adding at the end the following new paragraph:
+            ``(22) Attorney fees and court costs relating to awards 
+        with respect to certain wildfires.--
+                    ``(A) In general.--Any deduction allowable under 
+                this chapter for attorney fees and court costs paid by, 
+                or on behalf of, the taxpayer in connection with any 
+                award with respect to a qualifying wildfire disaster. 
+                The preceding sentence shall not apply to any deduction 
+                in excess of the amount includible in the taxpayer's 
+                gross income for the taxable year on account of a 
+                judgment or settlement (whether by suit or agreement 
+                and whether as lump sum or periodic payments) resulting 
+                from such claim.
+                    ``(B) Qualifying wildfire disaster.--For purposes 
+                of subparagraph (A), the term `qualifying wildfire 
+                disaster' means any forest or range fire that--
+                            ``(i) is a federally declared disaster (as 
+                        such term is defined in section 165(i)(5)(A)),
+                            ``(ii) occurs in a disaster area (as such 
+                        term is defined in section 165(i)(5)(B)), and
+                            ``(iii) occurs in calendar year 2015 or 
+                        later.''.
+    (b) Effective Date.--The amendment made by this section shall apply 
+to attorney fees and court costs awarded after May 31, 2020.
+
+SEC. 2. EXCLUSION OF CERTAIN WILDFIRE SETTLEMENT PROCEEDS FROM GROSS 
+              INCOME.
+
+    (a) In General.--Part III of subchapter B of chapter 1 of the 
+Internal Revenue Code of 1986 is amended by inserting after section 
+139I the following new section:
+
+``SEC. 139J. CERTAIN WILDFIRE SETTLEMENT PROCEEDS.
+
+    ``(a) In General.--Gross income shall not include amounts paid by a 
+qualified settlement fund established to compensate victims for losses 
+or damages in connection with a qualifying wildfire disaster (as 
+defined in section 62(a)(22)(B)).
+    ``(b) Qualified Settlement Fund.--The term `qualified settlement 
+fund' has the meaning given such term in Section 1.468B-1 of title 26, 
+Code of Federal Regulations.''.
+    (b) Clerical Amendment.--The table of sections for part III of 
+subchapter B of chapter 1 of such Code is amended by inserting after 
+the item relating to section 139I the following new item:
+
+``Sec. 139J. Wildfire settlement proceeds.''.
+    (c) Effective Date.--The amendment made by this section shall apply 
+to amounts paid after May 31, 2020.
+                                 

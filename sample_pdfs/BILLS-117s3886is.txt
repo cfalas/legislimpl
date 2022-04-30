@@ -1,0 +1,67 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[S. 3886 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                S. 3886
+
+ To amend the Commodity Exchange Act to prohibit trading of water and 
+       water rights for future delivery, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 21, 2022
+
+ Ms. Warren (for herself, Mr. Merkley, Mr. Whitehouse, Mr. Markey, and 
+ Mr. Sanders) introduced the following bill; which was read twice and 
+   referred to the Committee on Agriculture, Nutrition, and Forestry
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Commodity Exchange Act to prohibit trading of water and 
+       water rights for future delivery, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Future of Water Act of 2022''.
+
+SEC. 2. PROHIBITION OF TRADING IN WATER AND WATER RIGHTS FOR FUTURE 
+              DELIVERY.
+
+    (a) Commodity Exchange Act.--Section 1a(9) of the Commodity 
+Exchange Act (7 U.S.C. 1a(9)) is amended--
+            (1) by striking ``(7 U.S.C. 13-1)) and'' and inserting ``(7 
+        U.S.C. 13-1)),'';
+            (2) by inserting ``water or water rights (or any index, 
+        measure, value, or data related to water or water rights), 
+        and'' after ``receipts), and''; and
+            (3) by striking ``receipts) in which'' and inserting 
+        ``receipts, and water or water rights, or any index, measure, 
+        value, or data related to water or water rights) in which''.
+    (b) Public Law 85-839.--The first section of Public Law 85-839 (7 
+U.S.C. 13-1) is amended in the first sentence of subsection (a)--
+            (1) by inserting ``water or water rights (or any index, 
+        measure, value, or data related to water or water rights),'' 
+        after ``sale of''; and
+            (2) by striking ``receipts)'' and inserting ``receipts),''.
+                                 

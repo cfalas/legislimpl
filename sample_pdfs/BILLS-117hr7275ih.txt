@@ -1,0 +1,128 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7275 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7275
+
+  To increase interagency cooperation and coordination and to require 
+ policies and procedures to detect and prevent duplicate payments for 
+   the same medical services by the Department of Veterans Affairs, 
+Department of Health and Human Services, and Department of Defense, and 
+                          for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 29, 2022
+
+  Mrs. Luria introduced the following bill; which was referred to the 
+ Committee on Veterans' Affairs, and in addition to the Committees on 
+ Armed Services, Ways and Means, and Energy and Commerce, for a period 
+    to be subsequently determined by the Speaker, in each case for 
+consideration of such provisions as fall within the jurisdiction of the 
+                          committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To increase interagency cooperation and coordination and to require 
+ policies and procedures to detect and prevent duplicate payments for 
+   the same medical services by the Department of Veterans Affairs, 
+Department of Health and Human Services, and Department of Defense, and 
+                          for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``VA Preventing Duplicate Payments Act 
+of 2022''.
+
+SEC. 2. DEPARTMENT OF VETERANS AFFAIRS POLICIES AND PROCEDURES TO 
+              DETECT AND PREVENT DUPLICATE PAYMENTS FOR THE SAME 
+              MEDICAL SERVICES.
+
+    (a) Policies and Procedures Required.--
+            (1) In general.--The Secretary of Veterans Affairs shall 
+        establish policies and procedures for the detection and 
+        prevention of duplicate billings and payments by the Secretary 
+        of non-Department health care providers under section 1703 of 
+        title 38, United States Code, through the comparison of a 
+        billing or payment made by the Secretary for a medical service 
+        to a billing or payment made for the same medical service by--
+                    (A) the Administrator of the Centers for Medicare & 
+                Medicaid Services under the Medicare program under 
+                title XVIII of the Social Security Act (42 U.S.C. 1395 
+                et seq.); or
+                    (B) the Secretary of Defense under the TRICARE 
+                program.
+            (2) Capabilities.--The policies and procedures required 
+        under subsection (a) shall include--
+                    (A) the capability to use data exchanges; and
+                    (B) the capability to access and share the claims 
+                and payment data of other programs and agencies, if 
+                permitted pursuant to data-matching agreements entered 
+                into pursuant to subsection (b).
+            (3) Deadline for implementation.--Not later than 90 days 
+        after the date of the enactment of this Act, the Secretary 
+        shall establish a plan to comply with the requirements of 
+        paragraph (1).
+    (b) Data-Matching Agreements.--
+            (1) Agreements required.--The Secretary of Veterans 
+        Affairs, the Secretary of Defense, and the Administrator of the 
+        Centers for Medicare & Medicaid Services shall enter into data-
+        matching agreements under which the Secretary of Defense and 
+        the Administrator agree to share and match relevant data in the 
+        systems of records of the Department of Defense and the Centers 
+        for Medicare & Medicaid Services, respectively, with the 
+        Secretary of Veterans Affairs for the purpose of implementing 
+        the policies and procedures required under subsection (a).
+            (2) Nonapplicability of certain requirements.--Subsection 
+        (o) of section 552a of title 5, United States Code, shall not 
+        apply to an agreement described in paragraph (1).
+    (c) Implementation of Policy.--The Secretary of Veterans Affairs, 
+in coordination with the Secretary of Defense and the Administrator of 
+the Centers for Medicare & Medicaid Services, shall establish and 
+implement policies that--
+            (1) clarify which department or agency is financially 
+        responsible in a situation in which an individual is eligible, 
+        or potentially eligible, for payment or reimbursement of an 
+        expense relating to a medical service under the laws 
+        administered by the Secretary of Veterans Affairs and--
+                    (A) the TRICARE program; or
+                    (B) the Medicare program under title XVIII of the 
+                Social Security Act (42 U.S.C. 1395 et seq.);
+            (2) provide for the recoupment of payments if duplicate 
+        payments are made for the same medical service.
+    (d) Report.--Not later than one year after the date of the 
+enactment of this Act, the Secretary of Veterans Affairs shall submit 
+to the Committees on Veterans' Affairs of the Senate and the House of 
+Representatives a report that includes each of the following:
+            (1) A description of the progress the Secretary has made in 
+        implementing this Act.
+            (2) An analysis of the effect of any agreements entered 
+        into pursuant to subsection (b) on reducing duplicate payments.
+            (3) Any recommendations of the Secretary for legislative 
+        action to eliminate duplicate billing and payment for the same 
+        medical services.
+    (e) TRICARE Program Defined.--The term ``TRICARE program'' has the 
+meaning given that term in section 1072 of title 10, United States 
+Code.
+                                 

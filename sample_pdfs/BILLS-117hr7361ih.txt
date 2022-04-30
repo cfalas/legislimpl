@@ -1,0 +1,75 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7361 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7361
+
+  To upgrade the communications service used by the National Weather 
+                    Service, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 1, 2022
+
+ Mr. Feenstra (for himself, Mrs. Axne, Mrs. Miller-Meeks, Mrs. Hinson, 
+ and Mr. Gimenez) introduced the following bill; which was referred to 
+            the Committee on Science, Space, and Technology
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To upgrade the communications service used by the National Weather 
+                    Service, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+     This Act may be cited as the ``National Weather Service 
+Communications Improvement Act''.
+
+SEC. 2. NATIONAL WEATHER SERVICE COMMUNICATIONS.
+
+    (a) In General.--Title IV of the Weather Research and Forecasting 
+Innovation Act of 2017 (15 U.S.C. 8541 et seq.) is amended by adding at 
+the end the following new section:
+
+``SEC. 415. NATIONAL WEATHER SERVICE COMMUNICATIONS.
+
+    ``(a) System Upgrade.--The Director of the National Weather Service 
+shall improve the instant messaging service used by National Weather 
+Service personnel by implementing a commercial off-the-shelf 
+communications solution hosted on the public cloud to serve as a 
+replacement for the communications system in use as of the date of the 
+enactment of this section (commonly referred to as `NWSChat'). Such 
+communications solution shall satisfy requirements set forth by the 
+Director to best accommodate future growth and perform successfully 
+with increased numbers of users.
+    ``(b) Authorization of Appropriations.--There is authorized to be 
+appropriated to carry out this section $3,000,000 for each of fiscal 
+years 2023 through 2026, to remain available until expended.''.
+    (b) Clerical Amendment.--The table of contents in section 1(b) of 
+the Weather Research and Forecasting Innovation Act of 2017 is amended 
+by inserting after the item relating to section 414 the following new 
+item:
+
+``Sec. 415. National Weather Service communications.''.
+                                 

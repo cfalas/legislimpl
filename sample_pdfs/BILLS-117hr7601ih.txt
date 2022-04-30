@@ -1,0 +1,86 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7601 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7601
+
+ To require notice of certain subpoenas and warrants issued to a third 
+ party pursuant to an investigation of the Department of Justice, and 
+                          for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 27, 2022
+
+   Mr. Lieu introduced the following bill; which was referred to the 
+                       Committee on the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To require notice of certain subpoenas and warrants issued to a third 
+ party pursuant to an investigation of the Department of Justice, and 
+                          for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Inspector General Notification 
+Act''.
+
+SEC. 2. NOTICE OF CERTAIN SUBPOENAS AND WARRANTS.
+
+    (a) In General.--In any case in which the metadata or contents of 
+any communication of a covered party is subject to a subpoena, court 
+order, or warrant issued pursuant to an investigation conducted by the 
+Department of Justice, the Attorney General shall provide to the 
+Inspector General for the Department of Justice a notice of such 
+subpoena, order, or warrant not later than 7 days after the subpoena or 
+warrant is issued.
+    (b) Review.--The Inspector General for the Department of Justice 
+shall review each subpoena, order, or warrant with respect to which the 
+Inspector General receives a notice under subsection (a) to determine 
+whether such subpoena, order, or warrant was sought in bad faith.
+    (c) Report.--Not later than 1 year after the date of enactment of 
+this Act, and each year thereafter, the Inspector General for the 
+Department of Justice shall submit to the Committee on the Judiciary 
+and the Committee on Oversight and Reform of the House of 
+Representatives and the Committee on the Judiciary and the Committee on 
+Homeland Security and Governmental Affairs of the Senate a report on 
+the number of times a subpoena, order, or warrant described in 
+subsection (a) was issued.
+    (d) Definitions.--In this Act:
+            (1) Covered party.--The term ``covered party'' means--
+                    (A) any member or employee of the legislative 
+                branch; or
+                    (B) any member or employee of the judicial branch, 
+                including a judge, clerk, or member of judicial staff.
+            (2) Legislative branch.--The term ``legislative branch'' 
+        includes--
+                    (A) The House of Representatives.
+                    (B) The Senate.
+                    (C) The Congressional Budget Office.
+                    (D) The Government Accountability Office.
+                    (E) The United States Capitol Police.
+            (3) Metadata.--The term ``metadata'' means non-content 
+        information relating to communications.
+                                 

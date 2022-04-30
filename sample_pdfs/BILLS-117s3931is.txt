@@ -1,0 +1,84 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[S. 3931 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                S. 3931
+
+To require the Securities and Exchange Commission to extend exemptions 
+  for securities offered as part of employee pay to other individuals 
+providing goods for sale, labor, or services for remuneration, and for 
+                            other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 24, 2022
+
+  Ms. Lummis introduced the following bill; which was read twice and 
+    referred to the Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To require the Securities and Exchange Commission to extend exemptions 
+  for securities offered as part of employee pay to other individuals 
+providing goods for sale, labor, or services for remuneration, and for 
+                            other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Gig Worker Equity Compensation 
+Act''.
+
+SEC. 2. EXTENSION OF RULE 701.
+
+    (a) In General.--
+            (1) Definition.--For purposes of this subsection, the term 
+        ``customers'', with respect to an issuer, may, at the election 
+        of the issuer, include users of a platform of the issuer.
+            (2) Application.--The exemption provided under section 
+        230.701 of title 17, Code of Federal Regulations, or any 
+        successor regulation, shall apply to individuals (other than 
+        employees) providing goods for sale, labor, or services for 
+        remuneration to an issuer, or to customers of an issuer, to the 
+        same extent as that exemption applies to employees of the 
+        issuer.
+    (b) Adjustment for Inflation.--Section 507 of the Economic Growth, 
+Regulatory Relief, and Consumer Protection Act (15 U.S.C. 77e note) is 
+amended, in the second sentence, by striking ``every 5 years'' and 
+inserting ``annually''.
+    (c) Rulemaking.--
+            (1) Proposed rules.--Not later than 270 days after the date 
+        of enactment of this Act, the Commission shall issue proposed 
+        revisions to section 230.701 of title 17, Code of Federal 
+        Regulations, or any successor regulation--
+                    (A) to reflect the requirements of this section; 
+                and
+                    (B) that do not revise such section 230.701 in any 
+                manner that would have the effect of restricting access 
+                to equity compensation for employees or individuals 
+                described in subsection (a).
+            (2) Final rules.--Not later than 270 days after the date on 
+        which the Commission issues the proposed revisions required 
+        under paragraph (1), the Commission shall issue a final version 
+        of those revisions.
+                                 

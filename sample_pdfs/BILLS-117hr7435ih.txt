@@ -1,0 +1,139 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7435 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7435
+
+  To amend the Internal Revenue Code of 1986 to provide that coverage 
+ under Medicare is permissible for purposes of contributions to health 
+                           savings accounts.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 7, 2022
+
+    Mr. Bera (for himself and Mr. Smith of Missouri) introduced the 
+ following bill; which was referred to the Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Internal Revenue Code of 1986 to provide that coverage 
+ under Medicare is permissible for purposes of contributions to health 
+                           savings accounts.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Health Savings for Seniors Act''.
+
+SEC. 2. COVERAGE UNDER MEDICARE PERMISSIBLE FOR PURPOSES OF 
+              CONTRIBUTIONS TO HEALTH SAVINGS ACCOUNTS.
+
+    (a) Medicare Made an HSA-Eligible Plan.--
+            (1) In general.--Subparagraph (A) of section 223(c)(2) of 
+        the Internal Revenue Code of 1986 is amended to read as 
+        follows:
+                    ``(A) In general.--The term `HSA-qualified health 
+                plan' means--
+                            ``(i) a health plan--
+                                    ``(I) which has an annual 
+                                deductible which is not less than--
+                                            ``(aa) $1,000 for self-only 
+                                        coverage, and
+                                            ``(bb) twice the dollar 
+                                        amount in item (aa) for family 
+                                        coverage, and
+                                    ``(II) the sum of the annual 
+                                deductible and the other annual out-of-
+                                pocket expenses required to be paid 
+                                under the plan (other than for 
+                                premiums) for covered benefits does not 
+                                exceed--
+                                            ``(aa) $5,000 for self-only 
+                                        coverage, and
+                                            ``(bb) twice the dollar 
+                                        amount in item (aa) for family 
+                                        coverage, and
+                            ``(ii) in the case of an individual 
+                        enrolled under title XVIII of the Social 
+                        Security Act, coverage under title XVIII of 
+                        such Act.''.
+            (2) Eligible individual.--Paragraph (1) of section 223(c) 
+        of such Code is amended by adding at the end the following:
+                    ``(G) Special rule for individuals enrolled in 
+                medicare.--An individual enrolled under title XVIII of 
+                the Social Security Act shall not fail to be treated as 
+                an eligible individual for any period merely because 
+                the individual during such period is covered under a 
+                health plan described in subclauses (I) and (II) of 
+                subparagraph (A)(ii).''.
+            (3) Exclusion of medicare premiums as qualified medical 
+        expense.--Subparagraph (C) of section 223(d)(2) of such Code is 
+        amended by inserting ``or'' at the end of clause (ii), by 
+        striking ``or'' at the end of clause (iii) and inserting a 
+        period, and by striking clause (iv).
+            (4) Repeal of exception to additional tax after medicare 
+        eligibility.--Paragraph (4) of section 223(f) of such Code is 
+        amended by striking subparagraph (C).
+            (5) Additional conforming amendments.--
+                    (A) In general.--Section 223 of such Code is 
+                amended by striking ``high deductible health plan'' 
+                each place it appears in the text and inserting ``HSA-
+                qualified health plan''.
+                    (B) Conforming amendments.--
+                            (i) The heading for paragraph (2) of 
+                        section 223(c) of such Code is amended by 
+                        striking ``High deductible health plan'' and 
+                        inserting ``HSA-qualified health plan''.
+                            (ii) Section 408(d)(9) of such Code is 
+                        amended--
+                                    (I) by striking ``high deductible 
+                                health plan'' each place it appears in 
+                                the text in subparagraph (C) and 
+                                inserting ``HSA-qualified health 
+                                plan''; and
+                                    (II) by striking ``High deductible 
+                                health plan'' in the heading of 
+                                subparagraph (D) and inserting ``HSA-
+                                qualified health plan''.
+                            (iii) Section 106(e) of such Code is 
+                        amended--
+                                    (I) by striking ``High deductible 
+                                health plan'' in the heading of 
+                                paragraph (3) and inserting ``HSA-
+                                qualified health plan''; and
+                                    (II) by striking ``high deductible 
+                                health plan'' in paragraph (5)(B)(ii) 
+                                and inserting ``HSA-qualified health 
+                                plan''.
+    (b) Repeal of Medicare Limitation on Deduction for Contributions.--
+            (1) In general.--Subsection (b) of section 223 of such Code 
+        is amended by striking paragraph (7) and redesignating 
+        paragraph (8) as paragraph (7).
+            (2) Conforming amendment.--Section 26(b)(2)(S) of such Code 
+        is amended by striking ``223(b)(8)(B)(i)(II),'' and inserting 
+        ``223(b)(7)(B)(i)(II),''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after the date of the enactment of 
+this Act.
+                                 

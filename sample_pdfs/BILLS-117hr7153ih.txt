@@ -1,0 +1,114 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7153 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7153
+
+  To direct the Secretary of Veterans Affairs to submit to Congress a 
+ plan to modernize the information technology systems of the Veterans 
+            Benefits Administration, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 18, 2022
+
+   Mr. Bost introduced the following bill; which was referred to the 
+                     Committee on Veterans' Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To direct the Secretary of Veterans Affairs to submit to Congress a 
+ plan to modernize the information technology systems of the Veterans 
+            Benefits Administration, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Department of Veterans Affairs 
+Principles of Benefits Automation Act''.
+
+SEC. 2. SENSE OF CONGRESS.
+
+    It is the sense of Congress that the Secretary of Veterans Affairs 
+should increase automation in the processing of claims for benefits 
+under the laws administered by the Secretary in accordance with the 
+following principles:
+            (1) The purpose of automation should be to increase the 
+        speed and accuracy of claims processing decisions.
+            (2) Automation should be conducted in a manner that 
+        enhances the productivity of employees of the Department of 
+        Veterans Affairs.
+            (3) Automation should be carried out in a manner that 
+        achieves greater consistency in the processing and rating of 
+        claims by relying on patterns of similar evidence in claim 
+        files.
+            (4) To the greatest extent possible, automation should be 
+        carried out by drawing from information in the possession of 
+        the Department, other Government agencies, and applicants for 
+        benefits.
+            (5) Automation of any claims analysis or determination 
+        process should not be end-to-end or lack intermediation.
+            (6) Employees of the Department should continue to make 
+        decisions with respect to the approval of claims and the 
+        granting of benefits.
+            (7) Automation should not be carried out in a manner that 
+        reduces or infringes upon--
+                    (A) the due process rights of applicants for 
+                benefits under the laws administered by the Secretary; 
+                or
+                    (B) the duties of the Secretary to assist and 
+                notify claimants.
+
+SEC. 3. PLAN FOR MODERNIZATION OF VETERANS BENEFITS ADMINISTRATION 
+              INFORMATION TECHNOLOGY SYSTEMS.
+
+    (a) In General.--Not later than 180 days after the date of the 
+enactment of this Act, the Secretary of Veterans Affairs shall submit 
+to appropriate congressional committees a plan for the modernization of 
+the information technology systems of the Veterans Benefits 
+Administration. The plan shall cover the first fiscal year that begins 
+after the date of the enactment of this Act and the subsequent four 
+fiscal years and shall include each of the following:
+            (1) An identification of any information system to be 
+        modernized or retired, if applicable, during the period covered 
+        by the plan.
+            (2) A description of how the Secretary intends to 
+        incorporate the principles referred to in section 2 into the 
+        modernization of such information systems.
+            (3) An identification of targets, for each fiscal year, by 
+        which the Secretary intends to complete the modernization of 
+        each information system or major component or functionality of 
+        such system identified under paragraph (1).
+            (4) Cost estimates for the modernization of each 
+        information system identified under paragraph (1) for each 
+        fiscal year covered by the plan and in total.
+    (b) Appropriate Congressional Committees.--In this section, the 
+term ``appropriate congressional committees'' means--
+            (1) the Committee on Veterans' Affairs and the Subcommittee 
+        on Military Construction, Veterans' Affairs, and Related 
+        Agencies of the Committee on Appropriations of the House of 
+        Representatives; and
+            (2) the Committee on Veterans' Affairs and the Subcommittee 
+        on Military Construction, Veterans' Affairs, and Related 
+        Agencies of the Committee on Appropriations of the Senate.
+                                 

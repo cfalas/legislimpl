@@ -1,0 +1,76 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 6913 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 6913
+
+  To amend the Internal Revenue Code of 1986 to repeal the amendments 
+ made to reporting of third party network transactions by the American 
+                        Rescue Plan Act of 2021.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 3, 2022
+
+Mrs. Steel (for herself, Mr. Donalds, Mr. Budd, Mr. Burchett, Mr. Buck, 
+Ms. Herrell, Mr. Garbarino, Mr. Dunn, Mr. McKinley, Mr. McClintock, Mr. 
+Johnson of Ohio, and Mr. Gimenez) introduced the following bill; which 
+            was referred to the Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Internal Revenue Code of 1986 to repeal the amendments 
+ made to reporting of third party network transactions by the American 
+                        Rescue Plan Act of 2021.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Stop the Nosy Obsession with Online 
+Payments Act of 2022'' or the ``SNOOP Act of 2022''.
+
+SEC. 2. REPEAL OF MODIFICATION OF EXCEPTIONS FOR REPORTING OF THIRD 
+              PARTY NETWORK TRANSACTIONS.
+
+    (a) In General.--Section 6050W(e) of the Internal Revenue Code of 
+1986 is amended to read as follows:
+    ``(e) Exception for De Minimis Payments by Third Party Settlement 
+Organizations.--A third party settlement organization shall be required 
+to report any information under subsection (a) with respect to third 
+party network transactions of any participating payee only if--
+            ``(1) the amount which would otherwise be reported under 
+        subsection (a)(2) with respect to such transactions exceeds 
+        $20,000, and
+            ``(2) the aggregate number of such transactions exceeds 
+        200.''.
+    (b) Conforming Amendment.--Section 6050W(c)(3) of the Internal 
+Revenue Code of 1986 is amended by striking ``described in subsection 
+(d)(3)(A)(iii)''.
+    (c) Effective Date.--
+            (1) In general.--The amendment made by subsection (a) shall 
+        apply to returns for calendar years beginning after December 
+        31, 2021.
+            (2) Clarification.--The amendment made by subsection (b) 
+        shall apply to transactions after the date of the enactment of 
+        the American Rescue Plan Act of 2021.
+                                 

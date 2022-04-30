@@ -1,0 +1,70 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7182 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7182
+
+ To amend the Commodity Exchange Act to prohibit trading of water and 
+       water rights for future delivery, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 21, 2022
+
+  Mr. Khanna (for himself, Ms. Norton, Ms. Tlaib, Mrs. Lawrence, Mr. 
+Carson, Mr. Bowman, Mr. Garcia of Illinois, Mr. Jones, Ms. Schakowsky, 
+   Ms. Ocasio-Cortez, Ms. Lee of California, Mrs. Hayes, Mrs. Watson 
+ Coleman, Mr. Levin of Michigan, Ms. Pressley, Ms. Bush, and Ms. Omar) 
+ introduced the following bill; which was referred to the Committee on 
+                              Agriculture
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Commodity Exchange Act to prohibit trading of water and 
+       water rights for future delivery, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Future of Water Act of 2022''.
+
+SEC. 2. PROHIBITION OF TRADING IN WATER AND WATER RIGHTS FOR FUTURE 
+              DELIVERY.
+
+    (a) Commodity Exchange Act.--Section 1a(9) of the Commodity 
+Exchange Act (7 U.S.C. 1a(9)) is amended--
+            (1) by striking ``(7 U.S.C. 13-1)) and'' and inserting ``(7 
+        U.S.C. 13-1)),'';
+            (2) by inserting ``water or water rights (or any index, 
+        measure, value, or data related to water or water rights), 
+        and'' after ``receipts), and''; and
+            (3) by striking ``receipts) in which'' and inserting 
+        ``receipts, and water or water rights, or any index, measure, 
+        value, or data related to water or water rights) in which''.
+    (b) Public Law 85-839.--The first section of Public Law 85-839 (7 
+U.S.C. 13-1) is amended in the first sentence of subsection (a)--
+            (1) by inserting ``water or water rights (or any index, 
+        measure, value, or data related to water or water rights),'' 
+        after ``sale of''; and
+            (2) by striking ``receipts)'' and inserting ``receipts),''.
+                                 

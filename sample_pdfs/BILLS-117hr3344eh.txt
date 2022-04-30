@@ -1,0 +1,432 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3344 Engrossed in House (EH)]
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+117th CONGRESS
+  2d Session
+                                H. R. 3344
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+  To prioritize the efforts of and enhance coordination among United 
+States agencies to encourage countries in Central and Eastern Europe to 
+  improve the security of their telecommunications networks, and for 
+                            other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Transatlantic Telecommunications 
+Security Act''.
+
+SEC. 2. SENSE OF CONGRESS; STATEMENT OF POLICY.
+
+    (a) Sense of Congress.--It is the sense of Congress that--
+            (1) fifth and future generation's telecommunication 
+        networks in allied and partner countries based on common, 
+        secure, transparent, democratic standards have the potential to 
+        increase cultural, political, and economic exchanges leading to 
+        mutual job creation, closer citizen relations, and stronger 
+        democratic institutions;
+            (2) Russia's unprovoked, unjustified, and illegal invasion 
+        of Ukraine and the People's Republic of China's tacit support 
+        for Russian Federation's actions demonstrate the importance of 
+        secure telecommunication infrastructure in Central and Eastern 
+        European nations;
+            (3) the United States has national security and economic 
+        interests in assisting Central and Eastern European countries 
+        to improve the security of their telecommunication networks by 
+        reducing dependence on covered telecommunication equipment or 
+        services that are often offered with predatory economic 
+        inducements and replacing them with secure telecommunication 
+        equipment or services;
+            (4) China's Belt and Road Initiative and the 17+1 
+        Initiative seek to undermine Central and Eastern Europe's 
+        infrastructure resilience and sovereignty through predatory 
+        inducements from state-linked providers of telecommunication 
+        equipment or services such as Huawei Technologies Company and 
+        ZTE Corporation;
+            (5) China's 2017 National Intelligence Law obligates 
+        Chinese businesses to fully cooperate with state intelligence 
+        work, and thereby compromises the integrity of any network that 
+        utilizes equipment from Chinese companies because providers 
+        could be forced to hand over sensitive data or shut down 
+        networks at the command of China;
+            (6) Russia's campaign to elect a Russian national, who is a 
+        former Huawei Technologies Company executive, to serve as the 
+        Secretary-General of the International Telecommunication Union 
+        (ITU) is indicative of China and Russia's efforts to use 
+        international organizations to promote their interests and 
+        their malign influence;
+            (7) at global fora such as the ITU, the United States 
+        Government should actively support candidates that espouse 
+        democratic values, internet freedoms, and secure 
+        telecommunication networks;
+            (8) the United States International Development Finance 
+        Corporation's development priorities, as described in section 
+        1412 of the Better Utilization of Investments Leading to 
+        Development Act of 2018, properly includes a focus on less 
+        developed countries;
+            (9) the United States should assemble a coalition of 
+        democratic and like-minded allies and partners to counter the 
+        rise of global malign actors such as China and Russia and build 
+        resilience in Central and Eastern Europe against malign 
+        influences; and
+            (10) in order to ensure robust military coordination and 
+        interoperability with the North Atlantic Treaty Organization 
+        (NATO) and transatlantic allies and partners, the United States 
+        should ensure that allies and partners' telecommunication 
+        networks are secure and free from potential threats in 
+        accordance with the 2019 NATO London Declaration.
+    (b) Statement of Policy.--It is the policy of the United States--
+            (1) to strengthen the transatlantic alliance based on 
+        shared values in the face of rising malign influence from the 
+        People's Republic of China and the Russian Federation, 
+        countries that seek to undermine democratic institutions and 
+        values;
+            (2) to encourage public and private sector investment in 
+        European telecommunication infrastructure projects to ensure 
+        secure telecommunication and to catalyze economic advancement 
+        through the highest standards of transparency, accessibility, 
+        and competition;
+            (3) to provide economically feasible alternatives to 
+        financing from providers of covered telecommunication equipment 
+        or services;
+            (4) to engage in diplomacy with European allies and 
+        partners to strengthen the United States and European private 
+        sector efforts to develop common telecommunication technology 
+        and industry standards, and in turn promote them globally;
+            (5) to support the Three Seas Initiative organized by 12 
+        Central and Eastern European countries of the European Union to 
+        increase infrastructure resiliency and reduce reliance on 
+        malign actors, including in the telecommunication space;
+            (6) to enhance telecommunication security and freedom 
+        around the globe by engaging in elections at the ITU and 
+        promoting the candidacies of individuals that will promote 
+        democratic values, the rule of law, technological freedoms, and 
+        telecommunication security;
+            (7) to support the people of Ukraine, Moldova, Georgia, and 
+        the Western Balkan countries in their desire for integration 
+        into Euro-Atlantic institutions and economies through enhanced 
+        cross-border telecommunication infrastructure connectivity; and
+            (8) to ensure that frontline NATO allies have 
+        telecommunication services that cannot be controlled by China 
+        or Russia, especially considering Russia's illegal and 
+        unjustifiable invasion of Ukraine.
+
+SEC. 3. INTERNATIONAL TELECOMMUNICATION UNION SECURITY CAMPAIGN 
+              DIRECTOR.
+
+    (a) Appointment.--Not later than 30 days after the date of the 
+enactment of this Act, the Secretary of State shall appoint, from among 
+existing personnel of the Department of State, an International 
+Telecommunication Union Security Campaign Director (in this section 
+referred to as the ``Director'').
+    (b) Duties.--The Director shall--
+            (1) lead efforts to promote candidates for elections at the 
+        International Telecommunication Union (ITU) who will support 
+        and defend democratic values, internet freedom, and 
+        telecommunication security;
+            (2) coordinate with other officials of the Department of 
+        State, the Department of Commerce, the Federal Communications 
+        Commission, and other Federal departments and agencies to 
+        ensure efforts described in paragraph (1) are carried out in an 
+        organized, nimble, efficient, and effective manner;
+            (3) work with stakeholders in the private sector to 
+        harmonize efforts and to galvanize focus on elections at the 
+        ITU;
+            (4) use diplomatic tools of the Department of State to 
+        bolster support for candidates for elections at the ITU who 
+        will support and defend democratic values, internet freedom, 
+        and telecommunication security;
+            (5) brief Congress regularly on the implementation of the 
+        duties described in paragraphs (1) through (4) and, if 
+        appropriate, on requests for additional legislative authority 
+        necessary to enhance telecommunication security and freedom 
+        around the globe as described in section 2(b)(6); and
+            (6) report to the Assistant Secretary of State for 
+        International Organization Affairs regularly on development, 
+        progress, or setbacks with respect to support to the people of 
+        Ukraine, Moldova, Georgia, and the Western Balkan countries as 
+        described in section 2(b)(7).
+    (c) Sunset.--This section shall terminate on October 31, 2022.
+
+SEC. 4. PRIORITIZATION OF EFFORTS AND ASSISTANCE FOR TELECOMMUNICATION 
+              INFRASTRUCTURE PROJECTS IN CENTRAL AND EASTERN EUROPE.
+
+    (a) In General.--In carrying out the policy described in section 
+2(b), the Secretary of State, in consultation with the Secretary of 
+Commerce, the Chief Executive Officer of the United States 
+International Development Finance Corporation, the Director of the 
+Trade and Development Agency, the head of the Federal Communications 
+Commission, and the heads of other relevant Federal departments and 
+agencies, shall, as appropriate, prioritize and expedite the efforts of 
+the Department of State and those departments and agencies in 
+supporting the efforts of the European Commission and the governments 
+of Central and Eastern European countries to improve the security of 
+their telecommunication networks, including through providing 
+diplomatic and political support to the European Commission and Central 
+and Eastern European countries, as necessary--
+            (1) to ensure European telecommunication networks are built 
+        securely, consistent with democratic values and principles such 
+        as privacy, including through early-stage project support and 
+        late-stage project support for the construction or improvement 
+        of telecommunication and related infrastructure;
+            (2) to remove covered telecommunication equipment or 
+        services and replace such equipment or services with secure 
+        telecommunication equipment or services;
+            (3) to support the development of telecommunication 
+        networks that are inclusive, transparent, economically viable, 
+        financially, environmentally, and socially sustainable, 
+        compliant with international standards, laws, and regulations, 
+        and supplied by providers of secure telecommunication equipment 
+        or services; and
+            (4) to facilitate international coordination on cross-
+        border telecommunication infrastructure construction and 
+        security standards to ensure cross-border telecommunications 
+        are secure.
+    (b) Project Selection.--
+            (1) In general.--The Secretary of State, the Chief 
+        Executive Officer of the United States International 
+        Development Finance Corporation, and the Director of the Trade 
+        and Development Agency shall jointly identify telecommunication 
+        infrastructure projects that would advance the United States 
+        national security and be appropriate for United States 
+        assistance under this section.
+            (2) Project eligibility.--A project is eligible for United 
+        States assistance under this section if--
+                    (A) the project--
+                            (i) improves telecommunication networks 
+                        through either hard infrastructure, such as 
+                        telecommunication lines, towers, antennas, or 
+                        other equipment, or soft infrastructure, such 
+                        as innovative software development or cloud 
+                        services;
+                            (ii) is inclusive, transparent, 
+                        economically viable, financially, 
+                        environmentally, and socially sustainable, 
+                        compliant with international standards, laws, 
+                        and regulations, and supplied with secure 
+                        telecommunication equipment or services solely 
+                        by providers of secure telecommunication 
+                        equipment or services; and
+                            (iii) does not use covered 
+                        telecommunication equipment or services or 
+                        removes covered telecommunication equipment or 
+                        services and replaces such equipment or 
+                        services with secure telecommunication 
+                        equipment or services; and
+                    (B) the project is located in a covered country.
+            (3) Preference.--In selecting among projects that are 
+        eligible under paragraph (2), the heads of the Federal 
+        departments and agencies specified in subsection (a) shall give 
+        preference to projects that--
+                    (A) are located in Ukraine;
+                    (B) can attract funding from the private sector, an 
+                international financial institution, the government of 
+                the country in which the project will be carried out, 
+                or the European Commission;
+                    (C) have been designated as available for funding 
+                through the Three Seas Initiative Investment Fund;
+                    (D) are to be carried out in the Three Seas 
+                Initiative member nations;
+                    (E) are to be carried out in NATO member states 
+                that meet or are making progress toward meeting their 
+                commitments to upholding the rule of law and preserving 
+                democratic institutions in accordance with the preamble 
+                and Article 2 of the North Atlantic Treaty;
+                    (F) are to be carried out in NATO member states 
+                that meet or are making demonstrable progress toward 
+                meeting their defense spending commitments in 
+                accordance with the 2014 NATO Wales Summit Declaration; 
+                or
+                    (G) have the potential to advance United States 
+                economic interests.
+    (c) Types of Assistance.--
+            (1) Diplomatic and political support.--The Secretary of 
+        State shall provide diplomatic and political support to the 
+        covered countries, as necessary, including by using the 
+        diplomatic and political influence and expertise of the 
+        Department of State to build the capacity of covered countries 
+        to resolve any impediments to the development of projects 
+        selected under subsection (b).
+            (2) International financial institutions support.--The 
+        Secretary of State shall seek to encourage international 
+        financial institutions, including the European Bank for 
+        Reconstruction and Development, the European Investment Bank, 
+        and the International Monetary Fund, the Foreign, Commonwealth, 
+        and Development Office of the Government of the United Kingdom, 
+        the Agency for International Cooperation of the Government of 
+        Germany, and the Development Agency of the Government of France 
+        to invest in telecommunication infrastructure resilience in 
+        Central and Eastern Europe.
+            (3) Early-stage project support.--The Director of the Trade 
+        and Development Agency shall provide early-stage project 
+        support with respect to projects selected under subsection (b), 
+        as necessary.
+            (4) Late-stage project support.--The heads of the Federal 
+        departments and agencies specified in subsection (a) that 
+        provide late-stage project support shall do so, with respect to 
+        projects selected under subsection (b), as necessary.
+            (5) United states international development finance 
+        corporation support.--The United States International 
+        Development Finance Corporation is authorized to provide 
+        support for projects under this section in covered countries 
+        that are countries with upper-middle-income economies or high-
+        income economies (as those terms are defined by the 
+        International Bank for Reconstruction and Development and the 
+        International Development Association (collectively referred to 
+        as the ``World Bank'')), notwithstanding the restriction 
+        contained in section 1412(c)(2) of the Better Utilization of 
+        Investments Leading to Development Act of 2018 (22 U.S.C. 
+        9612(c)(2)).
+
+SEC. 5. REPORT.
+
+    (a) In General.--Not later than 1 year after the date of the 
+enactment of this Act, and annually thereafter for 5 years, the 
+President shall submit to the appropriate congressional committees a 
+report on the progress made in providing assistance for projects under 
+section 4 that includes--
+            (1) a description of the telecommunications infrastructure 
+        projects the United States has identified for such assistance; 
+        and
+            (2) for each such project--
+                    (A) a description of the role of the United States 
+                in the project, including in early-stage project 
+                support and late-stage project support;
+                    (B) the amount and form of debt financing, equity 
+                financing, and insurance provided by the United States 
+                Government, the Three Seas Initiative Investment Fund, 
+                and international financial institutions, including the 
+                European Bank for Reconstruction and Development, the 
+                European Investment Bank, and the International 
+                Monetary Fund, the Foreign, Commonwealth, and 
+                Development Office of the Government of the United 
+                Kingdom, the Agency for International Cooperation of 
+                the Government of Germany, and the Development Agency 
+                of the Government of France for the project;
+                    (C) the contractual terms of the project that 
+                preclude the use of covered telecommunication equipment 
+                or services and steps taken to ensure providers of 
+                telecommunication equipment or services meet such 
+                contractual terms; and
+                    (D) an update on the progress made on the project 
+                as of the date of the report.
+    (b) Appropriate Congressional Committees Defined.--In this section, 
+the term ``appropriate congressional committees'' means--
+            (1) the Committee on Foreign Affairs and the Committee on 
+        Appropriations of the House of Representatives; and
+            (2) the Committee on Foreign Relations and the Committee on 
+        Appropriations of the Senate.
+
+SEC. 6. DEFINITIONS.
+
+    In this Act:
+            (1) Covered country.--The term ``covered country'' 
+        includes--
+                    (A) any member state of the North Atlantic Treaty 
+                Organization that--
+                            (i) shares a border with the Russian 
+                        Federation; and
+                            (ii) according to World Bank official data 
+                        for 2020, has a Gross Domestic Product per 
+                        capita, adjusted for purchasing power parity, 
+                        of less than $45,000; and
+                    (B) any European country that--
+                            (i) has not participated or aided in 
+                        Russia's invasion of Ukraine; and
+                            (ii) according to World Bank official data 
+                        for 2020, has a Gross Domestic Product per 
+                        capita, adjusted for purchasing power parity, 
+                        of less than $34,000.
+            (2) Covered telecommunication equipment or services.--The 
+        term ``covered telecommunication equipment or services'' means 
+        any of the following:
+                    (A) Telecommunication equipment or services 
+                produced or provided by Huawei Technologies Company or 
+                ZTE Corporation (or any subsidiary or affiliate of such 
+                entities).
+                    (B) Telecommunication equipment or services 
+                produced or provided by an entity that the Secretary of 
+                State, in consultation with the Director of National 
+                Intelligence, reasonably believes to be an entity owned 
+                or controlled by, or otherwise connected to, the 
+                People's Republic of China or the Russian Federation.
+            (3) Early-stage project support.--The term ``early-stage 
+        project support'' includes--
+                    (A) feasibility studies;
+                    (B) resource evaluations;
+                    (C) project appraisal and costing;
+                    (D) pilot projects;
+                    (E) commercial support, such as trade missions, 
+                reverse trade missions, technical workshops, 
+                international buyer programs, and international partner 
+                searchers to link suppliers to projects;
+                    (F) technical assistance and other guidance to 
+                improve the local regulatory environment and market 
+                frameworks to encourage transparent competition and 
+                enhance telecommunication security; and
+                    (G) long-term telecommunication sector planning.
+            (4) Late-stage project support.--The term ``late-stage 
+        project support'' includes debt financing, equity financing, 
+        insurance, and transaction advisory services.
+            (5) Secure telecommunication equipment or services.--The 
+        term ``secure telecommunication equipment or services'' means 
+        telecommunication equipment or services that are not, and do 
+        not contain, covered telecommunication equipment or services.
+
+            Passed the House of Representatives April 27, 2022.
+
+            Attest:
+
+                                                                 Clerk.
+117th CONGRESS
+
+  2d Session
+
+                               H. R. 3344
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+  To prioritize the efforts of and enhance coordination among United 
+States agencies to encourage countries in Central and Eastern Europe to 
+  improve the security of their telecommunications networks, and for 
+                            other purposes.

@@ -1,0 +1,115 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7578 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7578
+
+To require the Secretary of Commerce to submit a report to Congress on 
+  data servicing operations owned by Chinese entities, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 26, 2022
+
+ Mr. Gooden of Texas introduced the following bill; which was referred 
+    to the Committee on Energy and Commerce, and in addition to the 
+     Committee on Foreign Affairs, for a period to be subsequently 
+   determined by the Speaker, in each case for consideration of such 
+ provisions as fall within the jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To require the Secretary of Commerce to submit a report to Congress on 
+  data servicing operations owned by Chinese entities, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Countering Limitless Overtaking of 
+User Data Act'' or the ``CLOUD Act''.
+
+SEC. 2. DATA SERVICING OPERATIONS OWNED BY CHINESE ENTITIES REPORT.
+
+    (a) Report Required.--Not later than 180 days after the date of the 
+enactment of this Act, the Secretary of Commerce, in coordination with 
+the Director of National Intelligence, the Federal Trade Commission, 
+and the Federal Communications Commission, shall submit to the 
+appropriate committees of Congress a report on the following:
+            (1) Whether any data servicing operation or service owned 
+        by a Chinese entity is operating in the United States, the laws 
+        and regulations that might apply to such operation or service, 
+        and any data servicing operation that are offered or provided 
+        to United States persons by the entity.
+            (2) Whether any Chinese entity that provides products or 
+        services for a data servicing operation is engaged in a joint 
+        venture or servicing arrangement with a United States entity 
+        and the nature of such operations.
+            (3) Whether consumers of data servicing operations have 
+        access to prominently identified information regarding the 
+        ownership of such operations.
+            (4) Whether United States entities can operate freely in 
+        the People's Republic of China and what, if any, restrictions 
+        apply to the services and operations of such entities.
+            (5) Each country in which a Chinese entity provides 
+        equipment or services for the provision of data servicing 
+        operations in a third-country market and whether the market 
+        share of Chinese entities in those markets may limit, in any 
+        way, the ability of United States entities to operate 
+        independently of such operations or without the use of such 
+        services.
+            (6) Any support the Government of the People's Republic of 
+        China provides to Chinese entities that provide equipment or 
+        services for the provision of data servicing operations that 
+        may act as a subsidy for such operations or services.
+    (b) Definitions.--In this section:
+            (1) Appropriate committees of congress.--The term 
+        ``appropriate committees of Congress'' means--
+                    (A) the Financial Services Committee, the Foreign 
+                Affairs Committee, and the Permanent Select Committee 
+                on Intelligence, and the Energy and Commerce Committee 
+                of the House of Representatives; and
+                    (B) the Finance Committee, Foreign Relations 
+                Committee, the Select Committee on Intelligence, and 
+                the Committee on Commerce, Science, and Transportation 
+                of the Senate.
+            (2) Chinese entity.--The term ``Chinese entity'' means an 
+        entity organized under the laws of China or any jurisdiction 
+        within China, including a foreign branch of such entity.
+            (3) Data servicing operation.--The term ``data servicing 
+        operation'' means the management, storage, processing, and 
+        aggregation of data.
+            (4) United states entity.--The term ``United States 
+        entity'' means an entity organized under the laws of the United 
+        States or any jurisdiction within the United States, including 
+        a foreign branch of such entity.
+            (5) United states person.--The term ``United States 
+        person'' means--
+                    (A) a citizen of the United States or an alien 
+                lawfully admitted for permanent residence to the United 
+                States; or
+                    (B) an entity organized under the laws of the 
+                United States or any jurisdiction within the United 
+                States, including a foreign branch of such entity.
+                                 

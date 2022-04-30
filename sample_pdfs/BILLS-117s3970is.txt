@@ -1,0 +1,74 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[S. 3970 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                S. 3970
+
+To establish reporting requirements for issuers of fiat currency-backed 
+                  stablecoins, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 31, 2022
+
+  Mr. Hagerty introduced the following bill; which was read twice and 
+    referred to the Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To establish reporting requirements for issuers of fiat currency-backed 
+                  stablecoins, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Stablecoin Transparency Act''.
+
+SEC. 2. STABLECOIN ISSUER REQUIREMENTS.
+
+    (a) Definitions.--In this section:
+            (1) Fiat currency-backed stablecoin.--The term ``fiat 
+        currency-backed stablecoin'' means a fiat currency-backed 
+        digital asset--
+                    (A) that maintains price stability by backing the 
+                value of the digital asset to a nondigital currency 
+                that is denominated in the same currency in which the 
+                digital asset is issued; and
+                    (B) is redeemable on a one-to-one basis in the 
+                denominated currency to which the digital asset is 
+                backed.
+            (2) Stablecoin issuer.--The term ``stablecoin issuer'' 
+        means a person that issues a fiat currency-backed stablecoin.
+    (b) Reserves.--Each stablecoin issuer shall hold all reserves 
+associated with each fiat currency-backed stablecoin issued by such 
+stablecoin issuer in--
+            (1) government securities that have maturities of not 
+        longer than 12 months;
+            (2) fully collateralized security repurchase agreements; or
+            (3) United States dollars or any other nondigital currency.
+    (c) Reserve Reports.--Not later than 30 days after the date of 
+enactment of this Act and every 30 days thereafter, each stablecoin 
+issuer shall publish on the website of the stablecoin issuer a report 
+on the reserves held by the stablecoin issuer that has been audited by 
+a third-party auditor.
+                                 

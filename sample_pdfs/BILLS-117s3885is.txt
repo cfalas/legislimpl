@@ -1,0 +1,72 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[S. 3885 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                S. 3885
+
+To prohibit contracts with persons who have disclosed non-public United 
+         States Government information to unauthorized persons.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 21, 2022
+
+ Mr. Hagerty (for himself, Mrs. Blackburn, and Mr. Kennedy) introduced 
+the following bill; which was read twice and referred to the Committee 
+             on Homeland Security and Governmental Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To prohibit contracts with persons who have disclosed non-public United 
+         States Government information to unauthorized persons.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``No Government Contracts for Known 
+Leakers Act of 2022''.
+
+SEC. 2. PROHIBITION ON CONTRACTS WITH PERSONS WHO HAVE DISCLOSED NON-
+              PUBLIC UNITED STATES GOVERNMENT INFORMATION TO 
+              UNAUTHORIZED PERSONS.
+
+    (a) Prohibition.--No officer, employee, department, agency, or 
+instrumentality of the United States Government shall knowingly enter a 
+contract or other agreement for goods or services with--
+            (1) a person who has previously disclosed non-public United 
+        States Government information to an unauthorized person; or
+            (2) an entity for whom a person who has previously 
+        disclosed non-public United States Government information to an 
+        unauthorized person serves as an employee or agent.
+    (b) Penalty.--Any person who violates subsection (a) shall be fined 
+not more than $50,000, imprisoned not more than 5 years, or both.
+    (c) Definitions.--In this Act:
+            (1) Entity.--The term ``entity'' means a group of 
+        individuals, partnership, corporation, association, 
+        cooperative, or other similar entity.
+            (2) Person.--The term ``person'' means a natural person.
+            (3) Unauthorized person.--The term ``unauthorized person'' 
+        means any person or entity that is not authorized by law or 
+        contract or otherwise authorized to receive the non-public 
+        United States Government information at issue.
+                                 

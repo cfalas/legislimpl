@@ -1,0 +1,113 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 6832 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 6832
+
+   To amend the Federal Food, Drug, and Cosmetic Act and the Defense 
+Production Act of 1950 to prohibit the Federal Government from limiting 
+State access to key therapies, such as monoclonal antibodies, and from 
+    prioritizing Federal contracts over State contracts relating to 
+          purchasing supplies to combat the COVID-19 pandemic.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           February 25, 2022
+
+Mr. Cloud (for himself, Mr. Webster of Florida, Mr. Biggs, Mrs. Miller 
+  of Illinois, Mr. Tiffany, and Mr. Donalds) introduced the following 
+ bill; which was referred to the Committee on Energy and Commerce, and 
+in addition to the Committee on Financial Services, for a period to be 
+subsequently determined by the Speaker, in each case for consideration 
+  of such provisions as fall within the jurisdiction of the committee 
+                               concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To amend the Federal Food, Drug, and Cosmetic Act and the Defense 
+Production Act of 1950 to prohibit the Federal Government from limiting 
+State access to key therapies, such as monoclonal antibodies, and from 
+    prioritizing Federal contracts over State contracts relating to 
+          purchasing supplies to combat the COVID-19 pandemic.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. ENSURING FAIRNESS FOR STATE CONTRACTS RELATING TO SUPPLIES 
+              TO COMBAT COVID-19 PANDEMIC.
+
+    (a) Treatment Under Defense Production Act of 1950.--Section 101 of 
+the Defense Production Act of 1950 (50 U.S.C. 4511) is amended--
+            (1) in subsection (a), by striking ``The President'' and 
+        inserting ``Except as provided by subsection (e), the 
+        President''; and
+            (2) by adding at the end the following:
+    ``(e) Exception for State Contracts Relating to COVID-19 
+Pandemic.--The President may not exercise the authority provided by 
+subsection (a) on or after the date of the enactment of this subsection 
+to prioritize the performance of contracts or orders of the Federal 
+Government relating to the purchase of supplies to combat the COVID-19 
+pandemic over the performance of contracts or orders of the government 
+of a State or territory or possession of the United States relating to 
+the purchase of such supplies.''.
+    (b) Treatment Under Federal Food, Drug, and Cosmetic Act.--Section 
+564(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb-
+3(j)) is amended by adding at the end the following:
+            ``(5) Nothing in this section or any other provision of law 
+        shall be construed to authorize the Secretary to ration a drug 
+        authorized for use under this section, limit or restrict access 
+        to such a drug, or otherwise control the quantity of such a 
+        drug made available for or distributed to any State or 
+        territory, including by imposing any limitation on distribution 
+        of such a drug to governmental entities, such as requiring a 
+        State- and territorial-coordinated distribution system or 
+        similar distribution system.''.
+    (c) Use of COVID-19 Relief Funds To Purchase Supplies for States.--
+            (1) In general.--Notwithstanding any other provision of 
+        law, a State or territory or possession of the United States 
+        may use funds described in paragraph (2) to purchase supplies 
+        to combat the COVID-19 pandemic that the State, territory, or 
+        possession was unable to purchase before the date of the 
+        enactment of this Act because of the invocation by the 
+        President of the authority to prioritize contracts and orders 
+        under section 101 of the Defense Production Act of 1950 (50 
+        U.S.C. 4511).
+            (2) Funds described.--Funds described in this paragraph are 
+        funds made available to a State or territory or possession of 
+        the United States pursuant to any of the following Acts and 
+        available for obligation as of the date of the enactment of 
+        this Act:
+                    (A) The Coronavirus Preparedness and Response 
+                Supplemental Appropriations Act, 2020 (Public Law 116-
+                123; 134 Stat. 146).
+                    (B) The Families First Coronavirus Response Act 
+                (Public Law 116-127; 134 Stat. 178).
+                    (C) The Coronavirus Aid, Relief, and Economic 
+                Security Act (Public Law 116-136; 134 Stat. 281).
+                    (D) The Paycheck Protection Program and Health Care 
+                Enhancement Act (Public Law 116-139; 134 Stat. 620).
+                    (E) The Consolidated Appropriations Act, 2021 
+                (Public Law 116-260).
+                    (F) The American Rescue Plan Act of 2021 (Public 
+                Law 117-2).
+                    (G) Any other Act providing funding relating to the 
+                COVID-19 pandemic.
+                                 

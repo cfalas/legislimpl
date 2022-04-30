@@ -1,0 +1,347 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 6445 Engrossed in House (EH)]
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+117th CONGRESS
+  2d Session
+                                H. R. 6445
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+    To amend the Small Business Act to require an annual report on 
+     entrepreneurial development programs, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Small Business Development Centers 
+Improvement Act of 2022''.
+
+SEC. 2. ANNUAL REPORT ON ENTREPRENEURIAL DEVELOPMENT PROGRAMS.
+
+    Section 10 of the Small Business Act (15 U.S.C. 639) is amended by 
+adding at the end the following new subsection:
+    ``(i) Annual Report on Entrepreneurial Development Programs.--
+            ``(1) Report required.--The Administrator shall include in 
+        the comprehensive annual report required under subsection (a) 
+        the following data:
+                    ``(A) A list of all entrepreneurial development 
+                activities undertaken during the fiscal year preceding 
+                the date of the report through a covered program, 
+                including--
+                            ``(i) a description and operating details 
+                        for each such covered program and the 
+                        activities performed under each such covered 
+                        program;
+                            ``(ii) operating circulars, manuals, and 
+                        standard operating procedures for each such 
+                        covered program;
+                            ``(iii) a description of the process used 
+                        to make awards relating to the provision of 
+                        entrepreneurial development activities under 
+                        each such covered program;
+                            ``(iv) a list of all recipients of awards 
+                        under each such covered program and the amount 
+                        of each such award; and
+                            ``(v) a list of contractors, including the 
+                        name and location of such contractor, of an 
+                        award recipient.
+                    ``(B) The total amount of funding obligated for a 
+                covered program and the entrepreneurial development 
+                activities conducted under each such covered program 
+                for the fiscal year preceding the date of the report.
+                    ``(C) The names and titles of the individuals 
+                responsible for carrying out a covered program.
+                    ``(D) For entrepreneurial development activities 
+                undertaken during the fiscal year preceding the date of 
+                the report through the Small Business Development 
+                Center Program established under section 21 (in this 
+                section referred to as the `Program')--
+                            ``(i) the number of individuals counseled 
+                        or trained through the Program;
+                            ``(ii) the total number of hours of 
+                        counseling and training services provided 
+                        through the Program;
+                            ``(iii) the demographics of participants in 
+                        the Program, which shall include the gender, 
+                        race, and age of each such participant;
+                            ``(iv) the number of participants in the 
+                        Program who are veterans;
+                            ``(v) the number of new businesses started 
+                        by participants in the Program;
+                            ``(vi) to the extent practicable, the 
+                        number of jobs supported, created, or retained 
+                        with assistance from the Program;
+                            ``(vii) the amount of capital secured by 
+                        participants in the Program, including through 
+                        loans and equity investment;
+                            ``(viii) the number of participants in the 
+                        Program receiving financial assistance, 
+                        including the type and dollar amount, under a 
+                        loan program of the Administration;
+                            ``(ix) an estimate of gross receipts, 
+                        including (to the extent practicable) a 
+                        description of any change in revenue, of small 
+                        business concerns assisted through the Program;
+                            ``(x) the number of referrals of 
+                        individuals to other resources and programs of 
+                        the Administration;
+                            ``(xi) the results of satisfaction surveys 
+                        of participants in the Program, including a 
+                        summary of any comments received from such 
+                        participants; and
+                            ``(xii) any recommendations by the 
+                        Administrator to improve the delivery of 
+                        services by the Program.
+            ``(2) Definitions.--In this subsection:
+                    ``(A) Covered program.--The term `covered program' 
+                means a program authorized under section 7(j), 7(m), 
+                8(a), 8(b)(1), 21, 22, 29, 32, or 34 of this Act.
+                    ``(B) Entrepreneurial development activity.--The 
+                term `entrepreneurial development activity' means an 
+                activity related to the delivery of entrepreneurial 
+                development services, entrepreneurial education, or 
+                support for the development and maintenance of business 
+                training services carried out through a covered 
+                program.''.
+
+SEC. 3. MARKETING OF SERVICES.
+
+    Section 21 of the Small Business Act (15 U.S.C. 648) is amended by 
+adding at the end the following:
+    ``(o) No Prohibition of Marketing of Services.--An applicant 
+receiving a grant under this section may use up to 10 percent of their 
+budget to market and advertise the services of such applicant to 
+individuals and small business concerns.''.
+
+SEC. 4. DATA COLLECTION BY THE SMALL BUSINESS DEVELOPMENT CENTER 
+              ASSOCIATION.
+
+    (a) In General.--Section 21(a)(3)(A) of the Small Business Act (15 
+U.S.C. 648(a)(3)(A)) is amended--
+            (1) by striking ``as provided in this section and'' and 
+        inserting ``as provided in this section,''; and
+            (2) by inserting before the period at the end the 
+        following: ``, and (iv) governing data collection activities 
+        related to applicants receiving grants under this section''.
+    (b) Annual Report on Data Collection.--Section 21 of the Small 
+Business Act (15 U.S.C. 648), as amended by section 3 of this Act, is 
+further amended by adding at the end the following:
+    ``(p) Annual Report on Data Collection.--The Administrator shall 
+annually submit to the Committee on Small Business of the House of 
+Representatives and the Committee on Small Business and 
+Entrepreneurship of the Senate a report on any data collection 
+activities related to the Small Business Development Center Program.''.
+    (c) Working Group To Improve Data Collection.--
+            (1) Establishment and study.--The Administrator of the 
+        Small Business Administration shall establish a group to be 
+        known as the ``Data Collection Working Group'' consisting of 
+        entrepreneurial development grant recipients, the associations 
+        and organizations representing such recipients, and officials 
+        from the Small Business Administration, to carry out a study to 
+        determine the best methods for conducting data collection 
+        activities and create or revise existing systems dedicated to 
+        data collection.
+            (2) Report.--Not later than the end of the 180-day period 
+        beginning on the date of the enactment of this Act, the Data 
+        Collection Working Group shall issue a report to the Committee 
+        on Small Business of the House of Representatives and the 
+        Committee on Small Business and Entrepreneurship of the Senate 
+        containing the findings and determinations made in carrying out 
+        the study required under paragraph (1), including--
+                    (A) recommendations for revising existing data 
+                collection practices for the Small Business Development 
+                Center Program; and
+                    (B) a proposed plan for the Administrator of the 
+                Small Business Administration to implement such 
+                recommendations.
+
+SEC. 5. FEES FROM PRIVATE PARTNERSHIPS AND COSPONSORSHIPS.
+
+    Section 21(a)(3) of the Small Business Act (15 U.S.C. 648(a)(3)) is 
+amended by adding at the end the following:
+            ``(D) Fees from private partnerships and cosponsorships.--A 
+        small business development center that participates in a 
+        private partnership or cosponsorship, in which the 
+        Administrator or designee of the Administrator also 
+        participates, may collect fees or other income related to the 
+        operation of such private partnership or cosponsorship.''.
+
+SEC. 6. EQUITY FOR SMALL BUSINESS DEVELOPMENT CENTERS.
+
+    Subclause (I) of section 21(a)(4)(C)(v) of the Small Business Act 
+(15 U.S.C. 648(a)(4)(C)(v)(I)) is amended to read as follows:
+                    ``(I) In general.--Of the amounts made available in 
+                any fiscal year to carry out this section, not more 
+                than $600,000 may be used by the Administration to pay 
+                expenses enumerated in subparagraphs (B) through (D) of 
+                section 20(a)(1).''.
+
+SEC. 7. CONFIDENTIALITY REQUIREMENTS.
+
+    Section 21(a)(7)(A) of the Small Business Act (15 U.S.C. 
+648(a)(7)(A)) is amended--
+            (1) by striking ``or telephone number'' and inserting ``, 
+        telephone number, or email address''; and
+            (2) by inserting ``, or the nature or content of such 
+        assistance, to any State, local, or Federal agency, or to any 
+        third party'' after ``receiving assistance under this 
+        section''.
+
+SEC. 8. LIMITATION ON AWARD OF GRANTS TO SMALL BUSINESS DEVELOPMENT 
+              CENTERS.
+
+    (a) In General.--Section 21 of the Small Business Act (15 U.S.C. 
+648), as amended by section 4, is further amended--
+            (1) in subsection (a)(1)--
+                    (A) by striking ``any women's business center 
+                operating pursuant to section 29,'';
+                    (B) by striking ``or a women's business center 
+                operating pursuant to section 29''; and
+                    (C) by striking ``and women's business centers 
+                operating pursuant to section 29''; and
+            (2) by adding at the end the following:
+    ``(q) Limitation on Award of Grants.--Except for not-for-profit 
+institutions of higher education, and notwithstanding any other 
+provision of law, the Administrator may not award a grant or contract 
+to, or enter into a cooperative agreement with, an entity under this 
+section unless that entity--
+            ``(1) received a grant or contract from, or entered into a 
+        cooperative agreement with, the Administrator under this 
+        section before the date of the enactment of this subsection; 
+        and
+            ``(2) seeks to renew such a grant, contract, or cooperative 
+        agreement after such date.''.
+    (b) Rule of Construction.--The amendments made by this section may 
+not be construed as prohibiting a women's business center (as described 
+under section 29 of the Small Business Act) from receiving a subgrant 
+from an entity receiving a grant under section 21 of the Small Business 
+Act.
+
+SEC. 9. MANAGEMENT OF PROGRAM ACTIVITIES.
+
+    Section 21(a)(3) of the Small Business Act (15 U.S.C. 648(a)(3)), 
+as amended by section 4, is further amended--
+            (1) in the matter preceding subparagraph (A), by striking 
+        ``upon, with full participation of both parties,'' and 
+        inserting ``upon with the full participation of all parties 
+        (including the association authorized in subparagraph (A)), and 
+        carried out'';
+            (2) in subparagraph (A), by striking ``and develop'' and 
+        inserting ``and negotiate the development of''; and
+            (3) in subparagraph (C)--
+                    (A) by striking ``Whereas'';
+                    (B) by inserting ``Program'' after ``Center'';
+                    (C) by striking ``National'' and inserting 
+                ``national''; and
+                    (D) by moving such subparagraph 2 ems to the left.
+
+SEC. 10. AUTHORIZATION OF APPROPRIATIONS FOR FORMULA GRANTS RECEIVED BY 
+              STATES.
+
+    Section 21(a)(4)(C) of the Small Business Act (15 U.S.C. 
+648(a)(4)(C)) is amended--
+            (1) in clause (vii), by striking ``subparagraph'' and all 
+        that follows through the period at the end and inserting 
+        ``subparagraph $175,000,000 for each of fiscal years 2022 
+        through 2025.''; and
+            (2) in clause (viii), by striking ``shall reserve not less 
+        than $1,000,000'' and inserting ``shall reserve not more than 
+        $2,000,000''.
+
+SEC. 11. REQUIREMENTS RELATING TO MATCHING FUNDS.
+
+    Section 21(a)(4)(A) of the Small Business Act (15 U.S.C. 
+648(a)(4)(A)) is amended by adding at the end the following new 
+sentence: ``Such matching funds shall be evidenced by good faith 
+assertions from the applicant, and the expenditure of matching funds 
+shall not be made a prerequisite of the reimbursement of Federal funds, 
+notwithstanding the final reconciliation payment for the close-out of 
+each award.''.
+
+SEC. 12. CONTRACT PREREQUISITES.
+
+    Section 21(a)(5)(B) of the Small Business Act (15 U.S.C. 
+648(a)(5)(B)) is amended by striking the second sentence and inserting 
+the following: ``Each contract shall be deemed approved under 
+subparagraph (A) unless the Associate Administrator certifies in 
+writing within 15 business days after award of the contract that the 
+contract will not provide assistance to small business concerns and 
+that performance of the contract will hinder the small business 
+development center in carrying out the terms of the grant received by 
+the small business development center under this section.''.
+
+SEC. 13. DUTIES OF THE ASSOCIATE ADMINISTRATOR FOR SMALL BUSINESS 
+              DEVELOPMENT CENTERS.
+
+    Section 21(h)(2) of the Small Business Act (15 U.S.C. 648(h)(2)) is 
+amended by adding at the end the following new subparagraph:
+                    ``(C) Marketing.--The Associate Administrator for 
+                Small Business Development Centers shall market and 
+                advertise the Small Business Development Center Program 
+                and participants in such Program as a resource 
+                available to any Federal program providing assistance 
+                to small business concerns, including the FAST program 
+                established under section 34.''.
+
+SEC. 14. DETERMINATION OF BUDGETARY EFFECTS.
+
+    The budgetary effects of this Act, for the purpose of complying 
+with the Statutory Pay-As-You-Go Act of 2010, shall be determined by 
+reference to the latest statement titled ``Budgetary Effects of PAYGO 
+Legislation'' for this Act, submitted for printing in the Congressional 
+Record by the Chairman of the House Budget Committee, provided that 
+such statement has been submitted prior to the vote on passage.
+
+            Passed the House of Representatives April 26, 2022.
+
+            Attest:
+
+                                                                 Clerk.
+117th CONGRESS
+
+  2d Session
+
+                               H. R. 6445
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+    To amend the Small Business Act to require an annual report on 
+     entrepreneurial development programs, and for other purposes.

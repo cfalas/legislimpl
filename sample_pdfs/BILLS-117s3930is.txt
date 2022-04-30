@@ -1,0 +1,69 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[S. 3930 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                S. 3930
+
+    To amend the Securities Exchange Act of 1934 to permit certain 
+   defendants to remove administrative proceedings to Federal court.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 24, 2022
+
+Ms. Lummis (for herself and Mr. Hagerty) introduced the following bill; 
+which was read twice and referred to the Committee on Banking, Housing, 
+                           and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To amend the Securities Exchange Act of 1934 to permit certain 
+   defendants to remove administrative proceedings to Federal court.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Administrative Enforcement Fairness 
+Act of 2022''.
+
+SEC. 2. REMOVAL OF ADMINISTRATIVE PROCEEDINGS.
+
+    The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is 
+amended by inserting after section 27A (15 U.S.C. 78aa-1) the 
+following:
+
+``SEC. 27B. REMOVAL OF ADMINISTRATIVE PROCEEDINGS.
+
+    ``(a) Definition.--In this section, the term `eligible respondent' 
+means any respondent that does not act, or, at the time of the alleged 
+misconduct, did not act as a registered broker or dealer, registered 
+investment adviser, registered investment company, registered municipal 
+securities dealer, registered nationally recognized statistical rating 
+organization, registered government securities broker, registered 
+government securities dealer, registered public accounting firm, or as 
+a registered transfer agent.
+    ``(b) Removal.--Any administrative proceeding brought by the 
+Commission under this Act may be removed by the eligible respondent to 
+the district court of the United States in accordance with section 1446 
+of title 28, United States Code.''.
+                                 

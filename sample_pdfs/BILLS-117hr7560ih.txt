@@ -1,0 +1,118 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7560 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7560
+
+To provide for the independent investigation and prosecution of sexual 
+ harassment under the Uniform Code of Military Justice, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 21, 2022
+
+ Ms. Speier (for herself, Mr. Mullin, Ms. Escobar, Mr. Balderson, Ms. 
+Garcia of Texas, Mr. Tony Gonzales of Texas, Mr. Brown of Maryland, Ms. 
+ Norton, Mr. Cooper, Ms. Porter, Ms. Bass, Mrs. Carolyn B. Maloney of 
+     New York, Mrs. Bustos, Mr. Takano, Mr. Espaillat, Ms. Lee of 
+ California, Ms. Adams, Mr. Tonko, Mr. Garamendi, Ms. Ross, Ms. Titus, 
+Ms. Jacobs of California, Mr. Lynch, Mrs. Hayes, Ms. Chu, Ms. Sherrill, 
+Mrs. Dingell, Mr. Vargas, Mr. Danny K. Davis of Illinois, Mr. Cleaver, 
+  Mrs. Radewagen, Ms. Kelly of Illinois, Mr. Levin of California, Ms. 
+ Kuster, Mr. Kind, Ms. Williams of Georgia, Mr. Schiff, Mr. McGovern, 
+ Ms. Spanberger, Ms. Newman, Mr. Peters, Ms. Pingree, Ms. Strickland, 
+Ms. Dean, Mr. Stanton, and Ms. Slotkin) introduced the following bill; 
+         which was referred to the Committee on Armed Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To provide for the independent investigation and prosecution of sexual 
+ harassment under the Uniform Code of Military Justice, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Sexual Harassment Independent 
+Investigations and Prosecution Act''.
+
+SEC. 2. INCLUSION OF SEXUAL HARASSMENT IN OFFENSES SUBJECT TO AUTHORITY 
+              OF SPECIAL TRIAL COUNSEL.
+
+    (a) Definition of Covered Offense.--Section 801(17)(A) of title 10, 
+United States Code (article 1(17)(A) of the Uniform Code of Military 
+Justice), as added by section 533 of the National Defense Authorization 
+Act for Fiscal Year 2022 (Public Law 117-81), is amended--
+            (1) by striking ``or''; and
+            (2) by striking ``of this title'' and inserting ``, or the 
+        standalone offense of sexual harassment punishable under 
+        section 934 (article 134) of this title''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+take effect immediately after the coming into effect of the amendments 
+made by section 533 of the National Defense Authorization Act for 
+Fiscal Year 2022 (Public Law 117-81) as provided in section 539C of 
+that Act.
+
+SEC. 3. INDEPENDENT INVESTIGATION OF SEXUAL HARASSMENT.
+
+    (a) Definitions.--Section 1561 of title 10, United States Code, as 
+amended by section 543 of the National Defense Authorization Act for 
+Fiscal Year 2022 (Public Law 117-81), is amended--
+            (1) in subsection (a)--
+                    (A) by striking ``or Space Force'' and inserting 
+                ``Space Force, or Coast Guard''; and
+                    (B) by inserting ``or the Department of Homeland 
+                Security (in the case of a matter involving the Coast 
+                Guard when not operating as a service in the Navy)'' 
+                after ``Department of Defense''; and
+            (2) by amending subsection (e) to read as follows:
+    ``(e) Definitions.--In this section:
+            ``(1) The term `independent investigator' means a member of 
+        the armed forces or a civilian employee of the Department of 
+        Defense or the Department of Homeland Security (in the case of 
+        a matter involving the Coast Guard when not operating as a 
+        service in the Navy) who--
+                    ``(A) is outside the chain of command of the 
+                complainant and the subject of the investigation; and
+                    ``(B) is trained in the investigation of sexual 
+                harassment, as determined by--
+                            ``(i) the Secretary concerned, in the case 
+                        of a member of the armed forces;
+                            ``(ii) the Secretary of Defense, in the 
+                        case of a civilian employee of the Department 
+                        of Defense; or
+                            ``(iii) the Secretary of Homeland Security, 
+                        in the case of a civilian employee of the 
+                        Department of Homeland Security.
+            ``(2) The term `sexual harassment' means conduct that 
+        constitutes the offense of sexual harassment as punishable 
+        under section 934 of this title (article 134) pursuant to the 
+        regulations prescribed by the Secretary of Defense for purposes 
+        of such section (article).''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+take effect immediately after the coming into effect of the amendments 
+made by section 543 of the National Defense Authorization Act for 
+Fiscal Year 2022 (Public Law 117-81) as provided in subsection (c) of 
+that section.
+                                 

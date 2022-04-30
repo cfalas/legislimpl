@@ -1,0 +1,85 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7226 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7226
+
+To amend the National Security Act of 1947 to clarify the authority of 
+the intelligence community to conduct domestic intelligence activities.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 24, 2022
+
+ Mr. Stewart (for himself and Mr. Kelly of Mississippi) introduced the 
+following bill; which was referred to the Permanent Select Committee on 
+                              Intelligence
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the National Security Act of 1947 to clarify the authority of 
+the intelligence community to conduct domestic intelligence activities.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Intelligence Community Authorities 
+Clarification Act''.
+
+SEC. 2. PROHIBITION ON DOMESTIC INTELLIGENCE ACTIVITIES BY THE 
+              INTELLIGENCE COMMUNITY.
+
+    Title I of the National Security Act of 1947 (50 U.S.C. 3021 et 
+seq.) is amended by inserting before section 101 the following new 
+section (and conforming the table of contents accordingly):
+
+``SEC. 100. PROHIBITION ON DOMESTIC INTELLIGENCE ACTIVITIES BY THE 
+              INTELLIGENCE COMMUNITY.
+
+    ``(a) Prohibition.--Except as provided by subsections (b) and (c), 
+notwithstanding any other provision of law, an element of the 
+intelligence community may not conduct any intelligence or 
+intelligence-related activity unless such activity has a nexus to 
+foreign intelligence or counterintelligence.
+    ``(b) Exception.--The prohibition in subsection (a) shall not apply 
+with respect to the administrative and human resources functions of an 
+element of the intelligence community.
+    ``(c) Waiver.--The President may waive the prohibition in 
+subsection (a) for a period not exceeding 1 year if, prior to such 
+waiver, the President submits to the congressional intelligence 
+committees--
+            ``(1) a written determination that the waiver is important 
+        to the national security interests of the United States; and
+            ``(2) a detailed explanation of how the waiver furthers 
+        such interests.''.
+
+SEC. 3. CLARIFICATION OF SCOPE REGARDING CERTAIN TERMS RELATING TO 
+              INTELLIGENCE.
+
+    Section 3 of the National Security Act of 1947 (50 U.S.C. 3003) is 
+amended--
+            (1) in paragraph (1), by striking ``includes'' and 
+        inserting ``means''; and
+            (2) in paragraph (5), by inserting ``(as defined in 
+        paragraph (1))'' after ``all intelligence''.
+                                 

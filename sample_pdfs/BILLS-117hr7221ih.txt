@@ -1,0 +1,118 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7221 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7221
+
+  To increase coverage under the National Flood Insurance Program for 
+              costs of compliance, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 24, 2022
+
+  Mr. Rice of South Carolina (for himself and Mr. Vicente Gonzalez of 
+    Texas) introduced the following bill; which was referred to the 
+                    Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To increase coverage under the National Flood Insurance Program for 
+              costs of compliance, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Increased Cost of Compliance 
+Modernization Act of 2022''.
+
+SEC. 2. INCREASED COST OF COMPLIANCE COVERAGE.
+
+    Section 1304(b) of the National Flood Insurance Act of 1968 (42 
+U.S.C. 4011(b)) is amended--
+            (1) in paragraph (4), by redesignating subparagraphs (A) 
+        through (D) as clauses (i) through (iv), respectively, and 
+        adjusting the margins accordingly;
+            (2) by redesignating paragraphs (1) through (4) as 
+        subparagraphs (A) through (D), respectively, and adjusting the 
+        margins accordingly;
+            (3) by striking ``(b) Additional Coverage for Compliance 
+        With Land Use and Control Measures.--The national'' and 
+        inserting the following:
+    ``(b) Additional Coverage for Compliance With Land Use and Control 
+Measures.--
+            ``(1) In general.--The national'';
+            (4) by striking the last sentence (relating to surcharge); 
+        and
+            (5) by adding at the end the following:
+    ``(2) Coverage Amounts.--
+            ``(A) Basic coverage.--Unless a policyholder chooses 
+        additional coverage pursuant to subparagraph (B), the 
+        Administrator shall make available coverage provided under 
+        paragraph (1) in an amount equal to 20 percent of the maximum 
+        amount of flood insurance coverage allowable under section 
+        1306(b)(2) (42 U.S.C. 4013(b)(2)) with respect to a residential 
+        building described in such section.
+            ``(B) Additional coverage.--The Administrator may offer, 
+        and a policyholder may choose to purchase for an additional 
+        premium, coverage provided under paragraph (1) in an amount 
+        greater than that offered pursuant to subparagraph (A), but not 
+        exceeding an amount equal to 40 percent of the maximum amount 
+        of flood insurance coverage allowable under section 1306(b)(2) 
+        (42 U.S.C. 4013(b)(2)) with respect to a residential building 
+        described in such section.
+            ``(C) Treatment of coverage limits.--Any amount of coverage 
+        for a property provided pursuant to this subsection shall not 
+        be considered or counted for purposes of any limitation on 
+        coverage applicable to such property under section 1306(b) and 
+        any claim on such coverage shall not be considered a claim for 
+        purposes of identifying properties with multiple losses.
+    ``(3) Premiums.--The Administrator shall charge risk premium rates 
+for coverage made available pursuant to this subsection in accordance 
+with section 1307(a)(1).
+    ``(4) Assignment of Coverage for Mitigation Grant Cost Share 
+Requirement.--
+            ``(A) In general.--A policyholder may assign the rights or 
+        benefits of the coverage made available under this subsection 
+        to a governmental entity for the purposes of using payments 
+        made for a claim against coverage made available under this 
+        subsection to satisfy a required non-Federal contribution for a 
+        flood-related mitigation project funded by a mitigation 
+        assistance program described in clause (i), (ii), or (iii) of 
+        paragraph (1)(D).
+            ``(B) Eligible expenses.--If a policyholder assigns rights 
+        or benefits of coverage pursuant to subparagraph (A), a 
+        required non-Federal contribution for a flood-related 
+        mitigation project funded by a mitigation assistance program 
+        described in clause (i), (ii) or (iii) of paragraph (1)(D) 
+        shall be an eligible expense for coverage made available under 
+        this subsection.
+            ``(C) Terms and conditions.--The Administrator may adopt 
+        procedures for assigning rights or benefits of coverage 
+        pursuant to subparagraph (A).
+    ``(5) Implementation.--Notwithstanding any other provision of law, 
+the Administrator may implement this subsection by adopting one or more 
+standard endorsements to the Standard Flood Insurance Policy by 
+publication of such standards endorsement in the Federal Register or by 
+comparable means.''.
+                                 

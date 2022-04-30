@@ -1,0 +1,64 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7526 Introduced in House (IH)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                H. R. 7526
+
+ To amend the Fair Credit Reporting Act to expand the definition of an 
+active duty military consumer for purposes of certain credit monitoring 
+                 requirements, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 14, 2022
+
+  Ms. Stefanik (for herself, Mr. Ryan, Mr. Kelly of Mississippi, Mr. 
+ Zeldin, and Mr. Gottheimer) introduced the following bill; which was 
+            referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Fair Credit Reporting Act to expand the definition of an 
+active duty military consumer for purposes of certain credit monitoring 
+                 requirements, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Servicemembers' Credit Monitoring 
+Enhancement Act''.
+
+SEC. 2. CREDIT MONITORING.
+
+    Section 605A(k) of the Fair Credit Reporting Act (15 U.S.C. 1681c-
+1(k)) is amended--
+            (1) by amending paragraph (1) to read as follows:
+            ``(1) Uniformed services member consumer defined.--In this 
+        subsection, the term `uniformed services member consumer' means 
+        a consumer who is a member of the uniformed services (as such 
+        term is defined under section 101(a) of title 10, United States 
+        Code).''; and
+            (2) in paragraph (2)(A), by striking ``active duty military 
+        consumer'' and inserting ``uniformed services member 
+        consumer''.
+                                 

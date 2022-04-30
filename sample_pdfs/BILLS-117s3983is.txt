@@ -1,0 +1,130 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[S. 3983 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                S. 3983
+
+   To amend the Federal Food, Drug, and Cosmetic Act to require, for 
+  purposes of ensuring cybersecurity, the inclusion in any premarket 
+     submission for a cyber device of information to demonstrate a 
+    reasonable assurance of safety and effectiveness throughout the 
+         lifecycle of the cyber device, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 31, 2022
+
+  Mr. Cassidy (for himself and Ms. Baldwin) introduced the following 
+  bill; which was read twice and referred to the Committee on Health, 
+                     Education, Labor, and Pensions
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To amend the Federal Food, Drug, and Cosmetic Act to require, for 
+  purposes of ensuring cybersecurity, the inclusion in any premarket 
+     submission for a cyber device of information to demonstrate a 
+    reasonable assurance of safety and effectiveness throughout the 
+         lifecycle of the cyber device, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``PATCH Act''.
+
+SEC. 2. ENSURING CYBERSECURITY OF MEDICAL DEVICES.
+
+    (a) In General.--Subchapter A of chapter V of the Federal Food, 
+Drug, and Cosmetic Act (21 U.S.C. 351 et seq.) is amended by adding at 
+the end the following:
+
+``SEC. 524B. ENSURING CYBERSECURITY OF DEVICES.
+
+    ``(a) In General.--For purposes of ensuring cybersecurity 
+throughout the lifecycle of a cyber device, any person who submits a 
+premarket submission for the cyber device shall include such 
+information as the Secretary may require to ensure that the cyber 
+device meets such cybersecurity requirements as the Secretary 
+determines to be appropriate to demonstrate a reasonable assurance of 
+safety and effectiveness, including at a minimum the cybersecurity 
+requirements under subsection (b). The Secretary may establish 
+exemptions to the requirements under this subsection.
+    ``(b) Cybersecurity Requirements.--At a minimum, the manufacturer 
+of a cyber device shall meet the following cybersecurity requirements:
+            ``(1) The manufacturer shall have a plan to appropriately 
+        monitor, identify, and address in a reasonable time postmarket 
+        cybersecurity vulnerabilities and exploits.
+            ``(2) The manufacturer shall--
+                    ``(A) have a plan and procedures for a Coordinated 
+                Vulnerability Disclosure to be part of submissions to 
+                the Food and Drug Administration; and
+                    ``(B) collect and maintain such other information 
+                as the Secretary may (by order published in the Federal 
+                Register or by other process) require to demonstrate a 
+                reasonable assurance of the safety and effectiveness of 
+                the cyber device.
+            ``(3) The manufacturer shall design, develop, and maintain 
+        processes and procedures to make available updates and patches 
+        to the cyber device and related systems throughout the 
+        lifecycle of the cyber device to address--
+                    ``(A) on a reasonably justified regular cycle, 
+                known unacceptable vulnerabilities; and
+                    ``(B) as soon as possible out of cycle, critical 
+                vulnerabilities that could cause uncontrolled risks.
+            ``(4) The manufacturer shall furnish to the Secretary a 
+        software bill of materials, including commercial, open-sourced, 
+        and off-the-shelf software components that will be provided to 
+        users.
+    ``(c) Substantial Equivalence.--In making a determination of 
+substantial equivalence under section 513(i) for a cyber device, the 
+Secretary may--
+            ``(1) find that cybersecurity information for the cyber 
+        device described in the relevant premarket submission in the 
+        cyber device's use environment is inadequate; and
+            ``(2) issue a nonsubstantial equivalence determination 
+        based on this finding.
+    ``(d) Definition.--In this section:
+            ``(1) The term `cyber device' means a device that--
+                    ``(A) includes software; or
+                    ``(B) is intended to connect to the internet.
+            ``(2) The term `lifecycle of the cyber device' includes the 
+        postmarket lifecycle of the cyber device.
+            ``(3) The term `premarket submission' means any submission 
+        under section 510(k), 513, 515(c), 515(f), or 520(m).''.
+    (b) Prohibited Act.--Section 301(q) of the Federal Food, Drug, and 
+Cosmetic Act (21 U.S.C. 331(q)) is amended by adding at the end the 
+following:
+    ``(3) The failure to comply with any requirement under section 524B 
+(relating to ensuring the cybersecurity).''.
+    (c) Adulteration.--Section 501 of the Federal Food, Drug, and 
+Cosmetic Act (21 U.S.C. 351) is amended by adding at the end the 
+following:
+    ``(k) If it is a device with respect to which the sponsor is in 
+violation of section 524B (relating to ensuring cybersecurity).''.
+    (d) Misbranding.--Section 502(t) of the Federal Food, Drug, and 
+Cosmetic Act (21 U.S.C. 352(t)) is amended--
+            (1) by striking ``or (3)'' and inserting ``(3)''; and
+            (2) by inserting before the period at the end the 
+        following: ``, or (4) to furnish a software bill of materials 
+        as required under section 524B (relating to ensuring the 
+        cybersecurity)''.
+                                 

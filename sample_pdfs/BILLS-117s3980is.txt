@@ -1,0 +1,103 @@
+
+[Congressional Bills 117th Congress]
+[From the U.S. Government Publishing Office]
+[S. 3980 Introduced in Senate (IS)]
+
+
+
+
+
+
+
+
+117th CONGRESS
+  2d Session
+                                S. 3980
+
+To require the Securities and Exchange Commission to carry out a study 
+   of the costs associated with small- and medium-sized companies to 
+                  undertake initial public offerings.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 31, 2022
+
+   Ms. Lummis (for herself, Ms. Sinema, Mr. Warner, and Mr. Hagerty) 
+introduced the following bill; which was read twice and referred to the 
+            Committee on Banking, Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To require the Securities and Exchange Commission to carry out a study 
+   of the costs associated with small- and medium-sized companies to 
+                  undertake initial public offerings.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Middle Market IPO Underwriting Cost 
+Act''.
+
+SEC. 2. STUDY ON IPO FEES.
+
+    (a) Definitions.--In this section:
+            (1) IPOs.--The term ``IPOs'' means initial public 
+        offerings.
+            (2) Small- and medium-sized companies.--The term ``small- 
+        and medium-sized companies'' means issuers with an initial 
+        public float determination of less than $700,000,000.
+    (b) Study.--The Securities and Exchange Commission, in consultation 
+with the Financial Industry Regulatory Authority, shall carry out a 
+study of the costs associated with small- and medium-sized companies to 
+undertake IPOs and Tier 2 offerings, as defined in section 230.251 of 
+title 17, Code of Federal Regulations. In carrying out such study, the 
+Commission shall--
+            (1) consider the direct and indirect costs of an IPO, 
+        including--
+                    (A) fees, such as gross spreads paid to 
+                underwriters, IPO advisors, and other professionals;
+                    (B) compliance with Federal and State securities 
+                laws at the time of the IPO; and
+                    (C) such other IPO-related costs as the Commission 
+                determines appropriate;
+            (2) compare and analyze the costs of an IPO with the costs 
+        of obtaining alternative sources of financing and of liquidity;
+            (3) consider the impact of such costs on capital formation;
+            (4) analyze the impact of these costs on the availability 
+        of public securities of small- and medium-sized companies to 
+        retail investors; and
+            (5) analyze trends in IPOs over a time period the 
+        Commission determines is appropriate to analyze IPO pricing 
+        practices, considering--
+                    (A) the number of IPOs;
+                    (B) how costs for IPOs have evolved over time, 
+                including fees paid to underwriters, investment 
+                advisory firms, and other professions for services in 
+                connection with an IPO;
+                    (C) the number of brokers and dealers active in 
+                underwriting IPOs;
+                    (D) the different types of services that 
+                underwriters and related persons provide before and 
+                after a small- or medium-sized company IPO and the 
+                factors impacting underwriting costs;
+                    (E) changes in the costs and availability of 
+                investment research for small- and medium-sized 
+                companies; and
+                    (F) any other consideration the Commission 
+                considers necessary and appropriate.
+    (c) Report.--Not later than the end of the 360-day period beginning 
+on the date of the enactment of this Act, the Commission shall issue a 
+report to Congress containing all findings and determinations made in 
+carrying out the study required under subsection (b) and any 
+administrative or legislative recommendations the Commission may have.
+                                 
